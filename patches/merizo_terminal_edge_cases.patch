@@ -1,0 +1,32 @@
+--- a/modules/merizo/model/utils/utils.py
++++ b/modules/merizo/model/utils/utils.py
+@@ -182,12 +182,17 @@
+         dom_counts = dom_counts.flip([0])
+         dom_ids = dom_ids.flip([0])
+ 
++    # No neighbouring assimilation target: preserve labels rather than invent a domain.
++    next_dom_id = None
++    i = -1
+     for i, (c, d) in enumerate(zip(dom_counts, dom_ids)):
+         if c >= threshold or d == 0:
+-            next_dom_id = dom_ids[i+1]
++            if i + 1 < len(dom_ids):
++                next_dom_id = dom_ids[i+1]
+             break
+ 
+-    dom_ids[:i+1] = next_dom_id
++    if next_dom_id is not None:
++        dom_ids[:i+1] = next_dom_id
+ 
+     if termini == 'C':
+         return dom_ids.flip([0])
+@@ -242,6 +247,9 @@
+         # Divide internal fragments that are too short
+         short_ndr = (dom_counts < threshold)  # * (dom_ids == 0)
+         non_terminal = torch.where(short_ndr.long() == 0)[0]
++        # Entire chain consists of short fragments: there are no internal neighbours.
++        if non_terminal.numel() == 0:
++            return dom_ids_
+ 
+         # Trim off any N and C-terminal ndr stretches
+         short_ndr[:non_terminal[0]] = False

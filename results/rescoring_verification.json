@@ -1,0 +1,1922 @@
+[
+  {
+    "pdb_id": "25GN",
+    "method": "MICA + AF3",
+    "observed": {
+      "tm_score": 0.9647,
+      "aligned_ca_length": 880,
+      "sequence_identity": 0.985,
+      "ca_match": 0.9246284501061571,
+      "ca_quality": 0.9656319290465631,
+      "sequence_match": 0.96
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "26QS",
+    "method": "MICA + AF3",
+    "observed": {
+      "tm_score": 0.9813,
+      "aligned_ca_length": 387,
+      "sequence_identity": 0.997,
+      "ca_match": 0.9922480620155039,
+      "ca_quality": 0.9820971867007673,
+      "sequence_match": 0.992
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "26VE",
+    "method": "MICA + AF3",
+    "observed": {
+      "tm_score": 0.915,
+      "aligned_ca_length": 452,
+      "sequence_identity": 0.954,
+      "ca_match": 0.9424307036247335,
+      "ca_quality": 0.9132231404958677,
+      "sequence_match": 0.948
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "28MK",
+    "method": "MICA + AF3",
+    "observed": {
+      "tm_score": 0.9177,
+      "aligned_ca_length": 1086,
+      "sequence_identity": 1.0,
+      "ca_match": 0.9534467323187108,
+      "ca_quality": 0.9102564102564102,
+      "sequence_match": 0.985
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "31CK",
+    "method": "MICA + AF3",
+    "observed": {
+      "tm_score": 0.9801,
+      "aligned_ca_length": 495,
+      "sequence_identity": 0.972,
+      "ca_match": 0.9534883720930233,
+      "ca_quality": 0.9919354838709677,
+      "sequence_match": 0.965
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9HXD",
+    "method": "MICA + AF3",
+    "observed": {
+      "tm_score": 0.9637,
+      "aligned_ca_length": 1105,
+      "sequence_identity": 0.917,
+      "ca_match": 0.9297629499561019,
+      "ca_quality": 0.9455357142857143,
+      "sequence_match": 0.925
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9K7G",
+    "method": "MICA + AF3",
+    "observed": {
+      "tm_score": 0.9165,
+      "aligned_ca_length": 354,
+      "sequence_identity": 0.992,
+      "ca_match": 0.9452054794520548,
+      "ca_quality": 0.9299191374663073,
+      "sequence_match": 0.9390000000000001
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9OKP",
+    "method": "MICA + AF3",
+    "observed": {
+      "tm_score": 0.9636,
+      "aligned_ca_length": 975,
+      "sequence_identity": 0.971,
+      "ca_match": 0.9756345177664975,
+      "ca_quality": 0.9590818363273453,
+      "sequence_match": 0.9670000000000001
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9RWT",
+    "method": "MICA + AF3",
+    "observed": {
+      "tm_score": 0.988,
+      "aligned_ca_length": 512,
+      "sequence_identity": 0.973,
+      "ca_match": 0.97678916827853,
+      "ca_quality": 0.986328125,
+      "sequence_match": 0.9620000000000001
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9UPO",
+    "method": "MICA + AF3",
+    "observed": {
+      "tm_score": 0.9332,
+      "aligned_ca_length": 285,
+      "sequence_identity": 0.996,
+      "ca_match": 0.7329700272479565,
+      "ca_quality": 0.9405594405594405,
+      "sequence_match": 0.914
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9V3V",
+    "method": "MICA + AF3",
+    "observed": {
+      "tm_score": 0.98,
+      "aligned_ca_length": 420,
+      "sequence_identity": 1.0,
+      "ca_match": 0.9952380952380953,
+      "ca_quality": 0.9858490566037735,
+      "sequence_match": 0.986
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9V8X",
+    "method": "MICA + AF3",
+    "observed": {
+      "tm_score": 0.987,
+      "aligned_ca_length": 503,
+      "sequence_identity": 0.988,
+      "ca_match": 0.9275092936802974,
+      "ca_quality": 0.9900793650793651,
+      "sequence_match": 0.988
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9VJ3",
+    "method": "MICA + AF3",
+    "observed": {
+      "tm_score": 0.8107,
+      "aligned_ca_length": 375,
+      "sequence_identity": 0.96,
+      "ca_match": 0.9010989010989011,
+      "ca_quality": 0.9213483146067416,
+      "sequence_match": 0.856
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9VUH",
+    "method": "MICA + AF3",
+    "observed": {
+      "tm_score": 0.9585,
+      "aligned_ca_length": 615,
+      "sequence_identity": 0.99,
+      "ca_match": 0.9431643625192012,
+      "ca_quality": 0.9684542586750788,
+      "sequence_match": 0.966
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9X3Y",
+    "method": "MICA + AF3",
+    "observed": {
+      "tm_score": 0.9466,
+      "aligned_ca_length": 237,
+      "sequence_identity": 0.979,
+      "ca_match": 0.8453237410071942,
+      "ca_quality": 0.951417004048583,
+      "sequence_match": 0.97
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9Y6N",
+    "method": "MICA + AF3",
+    "observed": {
+      "tm_score": 0.9968,
+      "aligned_ca_length": 735,
+      "sequence_identity": 0.996,
+      "ca_match": 0.9375,
+      "ca_quality": 1.0,
+      "sequence_match": 0.986
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "25GN",
+    "method": "ModelAngelo",
+    "observed": {
+      "tm_score": 0.6675,
+      "aligned_ca_length": 605,
+      "sequence_identity": 0.975,
+      "ca_match": 0.9863429438543247,
+      "ca_quality": 0.720620842572062,
+      "sequence_match": 0.968
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "26QS",
+    "method": "ModelAngelo",
+    "observed": {
+      "tm_score": 0.9849,
+      "aligned_ca_length": 388,
+      "sequence_identity": 1.0,
+      "ca_match": 0.9974226804123711,
+      "ca_quality": 0.989769820971867,
+      "sequence_match": 0.992
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "26VE",
+    "method": "ModelAngelo",
+    "observed": {
+      "tm_score": 0.8173,
+      "aligned_ca_length": 400,
+      "sequence_identity": 0.968,
+      "ca_match": 0.9851485148514851,
+      "ca_quality": 0.8223140495867769,
+      "sequence_match": 0.965
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "28MK",
+    "method": "ModelAngelo",
+    "observed": {
+      "tm_score": 0.3295,
+      "aligned_ca_length": 394,
+      "sequence_identity": 0.962,
+      "ca_match": 0.9957627118644068,
+      "ca_quality": 0.6025641025641025,
+      "sequence_match": 0.997
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "31CK",
+    "method": "ModelAngelo",
+    "observed": {
+      "tm_score": 0.8247,
+      "aligned_ca_length": 413,
+      "sequence_identity": 0.993,
+      "ca_match": 0.9755011135857461,
+      "ca_quality": 0.8830645161290323,
+      "sequence_match": 0.986
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9HXD",
+    "method": "ModelAngelo",
+    "observed": {
+      "tm_score": 0.1961,
+      "aligned_ca_length": 221,
+      "sequence_identity": 0.959,
+      "ca_match": 0.9833795013850416,
+      "ca_quality": 0.3169642857142857,
+      "sequence_match": 0.958
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9K7G",
+    "method": "ModelAngelo",
+    "observed": {
+      "tm_score": 0.0875,
+      "aligned_ca_length": 33,
+      "sequence_identity": 1.0,
+      "ca_match": 0.9693877551020408,
+      "ca_quality": 0.2560646900269542,
+      "sequence_match": 0.905
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9OKP",
+    "method": "ModelAngelo",
+    "observed": {
+      "tm_score": 0.9755,
+      "aligned_ca_length": 979,
+      "sequence_identity": 1.0,
+      "ca_match": 0.9979570990806946,
+      "ca_quality": 0.9750499001996008,
+      "sequence_match": 1.0
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9RWT",
+    "method": "ModelAngelo",
+    "observed": {
+      "tm_score": 0.582,
+      "aligned_ca_length": 299,
+      "sequence_identity": 0.997,
+      "ca_match": 0.9959432048681541,
+      "ca_quality": 0.958984375,
+      "sequence_match": 0.998
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9UPO",
+    "method": "ModelAngelo",
+    "observed": {
+      "tm_score": 0.2149,
+      "aligned_ca_length": 63,
+      "sequence_identity": 0.873,
+      "ca_match": 0.7862068965517242,
+      "ca_quality": 0.3986013986013986,
+      "sequence_match": 0.895
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9V3V",
+    "method": "ModelAngelo",
+    "observed": {
+      "tm_score": 0.911,
+      "aligned_ca_length": 389,
+      "sequence_identity": 0.99,
+      "ca_match": 0.9897172236503856,
+      "ca_quality": 0.9080188679245284,
+      "sequence_match": 0.9840000000000001
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9V8X",
+    "method": "ModelAngelo",
+    "observed": {
+      "tm_score": 0.9957,
+      "aligned_ca_length": 503,
+      "sequence_identity": 0.994,
+      "ca_match": 0.9471698113207547,
+      "ca_quality": 0.996031746031746,
+      "sequence_match": 0.99
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9VJ3",
+    "method": "ModelAngelo",
+    "observed": {
+      "tm_score": 0.7043,
+      "aligned_ca_length": 316,
+      "sequence_identity": 0.981,
+      "ca_match": 0.9940119760479041,
+      "ca_quality": 0.7460674157303371,
+      "sequence_match": 0.97
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9VUH",
+    "method": "ModelAngelo",
+    "observed": {
+      "tm_score": 0.6278,
+      "aligned_ca_length": 401,
+      "sequence_identity": 0.98,
+      "ca_match": 0.9847161572052402,
+      "ca_quality": 0.7113564668769716,
+      "sequence_match": 0.9670000000000001
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9X3Y",
+    "method": "ModelAngelo",
+    "observed": {
+      "tm_score": 0.939,
+      "aligned_ca_length": 233,
+      "sequence_identity": 0.996,
+      "ca_match": 0.9317269076305221,
+      "ca_quality": 0.9392712550607287,
+      "sequence_match": 0.991
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9Y6N",
+    "method": "ModelAngelo",
+    "observed": {
+      "tm_score": 0.8839,
+      "aligned_ca_length": 652,
+      "sequence_identity": 0.989,
+      "ca_match": 0.9559412550066756,
+      "ca_quality": 0.9741496598639455,
+      "sequence_match": 0.996
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "25GN",
+    "method": "EModelX + AF3",
+    "observed": {
+      "tm_score": 0.9322,
+      "aligned_ca_length": 857,
+      "sequence_identity": 0.968,
+      "ca_match": 0.907027027027027,
+      "ca_quality": 0.9301552106430155,
+      "sequence_match": 0.9109999999999999
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "26QS",
+    "method": "EModelX + AF3",
+    "observed": {
+      "tm_score": 0.9822,
+      "aligned_ca_length": 389,
+      "sequence_identity": 1.0,
+      "ca_match": 0.987146529562982,
+      "ca_quality": 0.9820971867007673,
+      "sequence_match": 0.99
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "26VE",
+    "method": "EModelX + AF3",
+    "observed": {
+      "tm_score": 0.8976,
+      "aligned_ca_length": 446,
+      "sequence_identity": 0.96,
+      "ca_match": 0.8954918032786885,
+      "ca_quality": 0.9028925619834711,
+      "sequence_match": 0.888
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "28MK",
+    "method": "EModelX + AF3",
+    "observed": {
+      "tm_score": 0.846,
+      "aligned_ca_length": 1000,
+      "sequence_identity": 0.99,
+      "ca_match": 0.974155069582505,
+      "ca_quality": 0.8376068376068376,
+      "sequence_match": 0.971
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "31CK",
+    "method": "EModelX + AF3",
+    "observed": {
+      "tm_score": 0.9226,
+      "aligned_ca_length": 472,
+      "sequence_identity": 0.966,
+      "ca_match": 0.920388349514563,
+      "ca_quality": 0.9556451612903226,
+      "sequence_match": 0.907
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9HXD",
+    "method": "EModelX + AF3",
+    "observed": {
+      "tm_score": 0.8394,
+      "aligned_ca_length": 1002,
+      "sequence_identity": 0.87,
+      "ca_match": 0.869942196531792,
+      "ca_quality": 0.80625,
+      "sequence_match": 0.8240000000000001
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9K7G",
+    "method": "EModelX + AF3",
+    "observed": {
+      "tm_score": 0.5883,
+      "aligned_ca_length": 239,
+      "sequence_identity": 0.849,
+      "ca_match": 0.8627450980392157,
+      "ca_quality": 0.7115902964959568,
+      "sequence_match": 0.674
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9OKP",
+    "method": "EModelX + AF3",
+    "observed": {
+      "tm_score": 0.9336,
+      "aligned_ca_length": 944,
+      "sequence_identity": 0.989,
+      "ca_match": 0.9896049896049897,
+      "ca_quality": 0.9500998003992016,
+      "sequence_match": 0.978
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9RWT",
+    "method": "EModelX + AF3",
+    "observed": {
+      "tm_score": 0.935,
+      "aligned_ca_length": 484,
+      "sequence_identity": 1.0,
+      "ca_match": 0.9897330595482546,
+      "ca_quality": 0.94140625,
+      "sequence_match": 0.985
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9UPO",
+    "method": "EModelX + AF3",
+    "observed": {
+      "tm_score": 0.7357,
+      "aligned_ca_length": 226,
+      "sequence_identity": 0.947,
+      "ca_match": 0.6102150537634409,
+      "ca_quality": 0.7937062937062938,
+      "sequence_match": 0.828
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9V3V",
+    "method": "EModelX + AF3",
+    "observed": {
+      "tm_score": 0.9799,
+      "aligned_ca_length": 422,
+      "sequence_identity": 0.988,
+      "ca_match": 0.9834905660377359,
+      "ca_quality": 0.9834905660377359,
+      "sequence_match": 0.966
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9V8X",
+    "method": "EModelX + AF3",
+    "observed": {
+      "tm_score": 0.9863,
+      "aligned_ca_length": 503,
+      "sequence_identity": 0.99,
+      "ca_match": 0.922077922077922,
+      "ca_quality": 0.9861111111111112,
+      "sequence_match": 0.982
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9VJ3",
+    "method": "EModelX + AF3",
+    "observed": {
+      "tm_score": 0.9202,
+      "aligned_ca_length": 418,
+      "sequence_identity": 0.978,
+      "ca_match": 0.9028697571743929,
+      "ca_quality": 0.9191011235955057,
+      "sequence_match": 0.961
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9VUH",
+    "method": "EModelX + AF3",
+    "observed": {
+      "tm_score": 0.9481,
+      "aligned_ca_length": 613,
+      "sequence_identity": 0.977,
+      "ca_match": 0.9405320813771518,
+      "ca_quality": 0.9479495268138801,
+      "sequence_match": 0.948
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9X3Y",
+    "method": "EModelX + AF3",
+    "observed": {
+      "tm_score": 0.8916,
+      "aligned_ca_length": 225,
+      "sequence_identity": 0.987,
+      "ca_match": 0.803448275862069,
+      "ca_quality": 0.9433198380566803,
+      "sequence_match": 0.94
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9Y6N",
+    "method": "EModelX + AF3",
+    "observed": {
+      "tm_score": 0.978,
+      "aligned_ca_length": 727,
+      "sequence_identity": 0.967,
+      "ca_match": 0.9562334217506632,
+      "ca_quality": 0.9809523809523809,
+      "sequence_match": 0.9690000000000001
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "25GN",
+    "method": "CryoAtom",
+    "observed": {
+      "tm_score": 0.8587,
+      "aligned_ca_length": 782,
+      "sequence_identity": 0.988,
+      "ca_match": 0.9633838383838383,
+      "ca_quality": 0.8458980044345898,
+      "sequence_match": 0.983
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "26QS",
+    "method": "CryoAtom",
+    "observed": {
+      "tm_score": 0.9807,
+      "aligned_ca_length": 387,
+      "sequence_identity": 1.0,
+      "ca_match": 0.9948320413436692,
+      "ca_quality": 0.9846547314578005,
+      "sequence_match": 0.992
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "26VE",
+    "method": "CryoAtom",
+    "observed": {
+      "tm_score": 0.9305,
+      "aligned_ca_length": 457,
+      "sequence_identity": 0.98,
+      "ca_match": 0.9119373776908023,
+      "ca_quality": 0.9628099173553719,
+      "sequence_match": 0.961
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "28MK",
+    "method": "CryoAtom",
+    "observed": {
+      "tm_score": 0.5511,
+      "aligned_ca_length": 650,
+      "sequence_identity": 0.994,
+      "ca_match": 0.9804372842347526,
+      "ca_quality": 0.7282051282051282,
+      "sequence_match": 0.981
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "31CK",
+    "method": "CryoAtom",
+    "observed": {
+      "tm_score": 0.9737,
+      "aligned_ca_length": 487,
+      "sequence_identity": 0.996,
+      "ca_match": 0.983640081799591,
+      "ca_quality": 0.969758064516129,
+      "sequence_match": 0.9940000000000001
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9HXD",
+    "method": "CryoAtom",
+    "observed": {
+      "tm_score": 0.2742,
+      "aligned_ca_length": 312,
+      "sequence_identity": 0.965,
+      "ca_match": 0.8954659949622166,
+      "ca_quality": 0.6348214285714285,
+      "sequence_match": 0.893
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9K7G",
+    "method": "CryoAtom",
+    "observed": {
+      "tm_score": 0.3285,
+      "aligned_ca_length": 125,
+      "sequence_identity": 0.952,
+      "ca_match": 0.8881789137380192,
+      "ca_quality": 0.7493261455525606,
+      "sequence_match": 0.9279999999999999
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9OKP",
+    "method": "CryoAtom",
+    "observed": {
+      "tm_score": 0.9932,
+      "aligned_ca_length": 997,
+      "sequence_identity": 1.0,
+      "ca_match": 0.993,
+      "ca_quality": 0.9910179640718563,
+      "sequence_match": 0.997
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9RWT",
+    "method": "CryoAtom",
+    "observed": {
+      "tm_score": 0.9467,
+      "aligned_ca_length": 489,
+      "sequence_identity": 0.99,
+      "ca_match": 0.9823874755381604,
+      "ca_quality": 0.98046875,
+      "sequence_match": 0.986
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9UPO",
+    "method": "CryoAtom",
+    "observed": {
+      "tm_score": 0.5692,
+      "aligned_ca_length": 177,
+      "sequence_identity": 0.864,
+      "ca_match": 0.6843657817109144,
+      "ca_quality": 0.8111888111888111,
+      "sequence_match": 0.871
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9V3V",
+    "method": "CryoAtom",
+    "observed": {
+      "tm_score": 0.9842,
+      "aligned_ca_length": 421,
+      "sequence_identity": 1.0,
+      "ca_match": 0.9904988123515439,
+      "ca_quality": 0.9834905660377359,
+      "sequence_match": 0.986
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9V8X",
+    "method": "CryoAtom",
+    "observed": {
+      "tm_score": 0.6862,
+      "aligned_ca_length": 348,
+      "sequence_identity": 0.989,
+      "ca_match": 0.9242144177449169,
+      "ca_quality": 0.9920634920634921,
+      "sequence_match": 0.99
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9VJ3",
+    "method": "CryoAtom",
+    "observed": {
+      "tm_score": 0.5518,
+      "aligned_ca_length": 250,
+      "sequence_identity": 0.996,
+      "ca_match": 0.9368686868686869,
+      "ca_quality": 0.8337078651685393,
+      "sequence_match": 0.97
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9VUH",
+    "method": "CryoAtom",
+    "observed": {
+      "tm_score": 0.7146,
+      "aligned_ca_length": 459,
+      "sequence_identity": 0.989,
+      "ca_match": 0.9456342668863262,
+      "ca_quality": 0.9053627760252366,
+      "sequence_match": 0.986
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9X3Y",
+    "method": "CryoAtom",
+    "observed": {
+      "tm_score": 0.9712,
+      "aligned_ca_length": 241,
+      "sequence_identity": 1.0,
+      "ca_match": 0.7547169811320755,
+      "ca_quality": 0.9716599190283401,
+      "sequence_match": 0.992
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9Y6N",
+    "method": "CryoAtom",
+    "observed": {
+      "tm_score": 0.7054,
+      "aligned_ca_length": 524,
+      "sequence_identity": 0.979,
+      "ca_match": 0.9301143583227446,
+      "ca_quality": 0.9959183673469387,
+      "sequence_match": 0.988
+    },
+    "difference_from_archived": {
+      "tm_score": -0.00029999999999996696,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "25GN",
+    "method": "EMProt + AF3",
+    "observed": {
+      "tm_score": 0.9583,
+      "aligned_ca_length": 877,
+      "sequence_identity": 0.966,
+      "ca_match": 0.7136859781696053,
+      "ca_quality": 0.9423503325942351,
+      "sequence_match": 0.9470000000000001
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "26QS",
+    "method": "EMProt + AF3",
+    "observed": {
+      "tm_score": 0.9839,
+      "aligned_ca_length": 388,
+      "sequence_identity": 0.99,
+      "ca_match": 0.9897172236503856,
+      "ca_quality": 0.9846547314578005,
+      "sequence_match": 0.9840000000000001
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "26VE",
+    "method": "EMProt + AF3",
+    "observed": {
+      "tm_score": 0.8789,
+      "aligned_ca_length": 446,
+      "sequence_identity": 0.879,
+      "ca_match": 0.6919275123558485,
+      "ca_quality": 0.8677685950413224,
+      "sequence_match": 0.8640000000000001
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "28MK",
+    "method": "EMProt + AF3",
+    "observed": {
+      "tm_score": 0.9804,
+      "aligned_ca_length": 1160,
+      "sequence_identity": 0.992,
+      "ca_match": 0.9276315789473685,
+      "ca_quality": 0.9641025641025641,
+      "sequence_match": 0.9670000000000001
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "31CK",
+    "method": "EMProt + AF3",
+    "observed": {
+      "tm_score": 0.9851,
+      "aligned_ca_length": 496,
+      "sequence_identity": 0.986,
+      "ca_match": 0.5116772823779193,
+      "ca_quality": 0.9717741935483871,
+      "sequence_match": 0.9590000000000001
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9HXD",
+    "method": "EMProt + AF3",
+    "observed": {
+      "tm_score": 0.9778,
+      "aligned_ca_length": 1118,
+      "sequence_identity": 0.948,
+      "ca_match": 0.902542372881356,
+      "ca_quality": 0.9508928571428571,
+      "sequence_match": 0.9440000000000001
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9K7G",
+    "method": "EMProt + AF3",
+    "observed": {
+      "tm_score": 0.954,
+      "aligned_ca_length": 370,
+      "sequence_identity": 0.986,
+      "ca_match": 0.8540145985401459,
+      "ca_quality": 0.9460916442048517,
+      "sequence_match": 0.9570000000000001
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9OKP",
+    "method": "EMProt + AF3",
+    "observed": {
+      "tm_score": 0.9979,
+      "aligned_ca_length": 1001,
+      "sequence_identity": 1.0,
+      "ca_match": 0.9970059880239521,
+      "ca_quality": 0.9970059880239521,
+      "sequence_match": 0.997
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9RWT",
+    "method": "EMProt + AF3",
+    "observed": {
+      "tm_score": 0.9652,
+      "aligned_ca_length": 500,
+      "sequence_identity": 0.994,
+      "ca_match": 0.9070631970260223,
+      "ca_quality": 0.953125,
+      "sequence_match": 0.9840000000000001
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9UPO",
+    "method": "EMProt + AF3",
+    "observed": {
+      "tm_score": 0.9141,
+      "aligned_ca_length": 283,
+      "sequence_identity": 0.926,
+      "ca_match": 0.6148491879350348,
+      "ca_quality": 0.9265734265734266,
+      "sequence_match": 0.868
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9V3V",
+    "method": "EMProt + AF3",
+    "observed": {
+      "tm_score": 0.9884,
+      "aligned_ca_length": 424,
+      "sequence_identity": 0.995,
+      "ca_match": 0.871578947368421,
+      "ca_quality": 0.9764150943396226,
+      "sequence_match": 0.988
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9V8X",
+    "method": "EMProt + AF3",
+    "observed": {
+      "tm_score": 0.9976,
+      "aligned_ca_length": 504,
+      "sequence_identity": 0.996,
+      "ca_match": 0.8730434782608696,
+      "ca_quality": 0.996031746031746,
+      "sequence_match": 0.996
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9VJ3",
+    "method": "EMProt + AF3",
+    "observed": {
+      "tm_score": 0.9604,
+      "aligned_ca_length": 443,
+      "sequence_identity": 0.998,
+      "ca_match": 0.6796116504854369,
+      "ca_quality": 0.9438202247191011,
+      "sequence_match": 0.9620000000000001
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9VUH",
+    "method": "EMProt + AF3",
+    "observed": {
+      "tm_score": 0.886,
+      "aligned_ca_length": 569,
+      "sequence_identity": 0.993,
+      "ca_match": 0.7107231920199502,
+      "ca_quality": 0.8990536277602523,
+      "sequence_match": 0.972
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9X3Y",
+    "method": "EMProt + AF3",
+    "observed": {
+      "tm_score": 0.9645,
+      "aligned_ca_length": 239,
+      "sequence_identity": 1.0,
+      "ca_match": 0.8659420289855072,
+      "ca_quality": 0.9676113360323887,
+      "sequence_match": 1.0
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9Y6N",
+    "method": "EMProt + AF3",
+    "observed": {
+      "tm_score": 0.9984,
+      "aligned_ca_length": 735,
+      "sequence_identity": 0.99,
+      "ca_match": 0.9040590405904059,
+      "ca_quality": 1.0,
+      "sequence_match": 0.988
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "25GN",
+    "method": "CryoAtom2 v2.0",
+    "observed": {
+      "tm_score": 0.8427,
+      "aligned_ca_length": 769,
+      "sequence_identity": 0.961,
+      "ca_match": 0.9478935698447893,
+      "ca_quality": 0.9478935698447893,
+      "sequence_match": 0.9570000000000001
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "26QS",
+    "method": "CryoAtom2 v2.0",
+    "observed": {
+      "tm_score": 0.994,
+      "aligned_ca_length": 391,
+      "sequence_identity": 1.0,
+      "ca_match": 0.9974424552429667,
+      "ca_quality": 0.9974424552429667,
+      "sequence_match": 0.997
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "26VE",
+    "method": "CryoAtom2 v2.0",
+    "observed": {
+      "tm_score": 0.7162,
+      "aligned_ca_length": 350,
+      "sequence_identity": 0.969,
+      "ca_match": 0.888268156424581,
+      "ca_quality": 0.9855371900826446,
+      "sequence_match": 0.977
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "28MK",
+    "method": "CryoAtom2 v2.0",
+    "observed": {
+      "tm_score": 0.7145,
+      "aligned_ca_length": 843,
+      "sequence_identity": 0.985,
+      "ca_match": 0.9558693733451015,
+      "ca_quality": 0.9256410256410257,
+      "sequence_match": 0.958
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "31CK",
+    "method": "CryoAtom2 v2.0",
+    "observed": {
+      "tm_score": 0.9928,
+      "aligned_ca_length": 495,
+      "sequence_identity": 0.996,
+      "ca_match": 0.9781312127236581,
+      "ca_quality": 0.9919354838709677,
+      "sequence_match": 0.986
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9HXD",
+    "method": "CryoAtom2 v2.0",
+    "observed": {
+      "tm_score": 0.4331,
+      "aligned_ca_length": 506,
+      "sequence_identity": 0.909,
+      "ca_match": 0.9301435406698565,
+      "ca_quality": 0.8678571428571429,
+      "sequence_match": 0.9259999999999999
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9K7G",
+    "method": "CryoAtom2 v2.0",
+    "observed": {
+      "tm_score": 0.4398,
+      "aligned_ca_length": 170,
+      "sequence_identity": 0.971,
+      "ca_match": 0.8341836734693877,
+      "ca_quality": 0.8814016172506739,
+      "sequence_match": 0.945
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9OKP",
+    "method": "CryoAtom2 v2.0",
+    "observed": {
+      "tm_score": 0.998,
+      "aligned_ca_length": 1001,
+      "sequence_identity": 0.999,
+      "ca_match": 0.9920634920634921,
+      "ca_quality": 0.998003992015968,
+      "sequence_match": 1.0
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9RWT",
+    "method": "CryoAtom2 v2.0",
+    "observed": {
+      "tm_score": 0.9927,
+      "aligned_ca_length": 512,
+      "sequence_identity": 0.984,
+      "ca_match": 0.9712092130518234,
+      "ca_quality": 0.98828125,
+      "sequence_match": 0.982
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9UPO",
+    "method": "CryoAtom2 v2.0",
+    "observed": {
+      "tm_score": 0.6189,
+      "aligned_ca_length": 187,
+      "sequence_identity": 0.893,
+      "ca_match": 0.6129807692307693,
+      "ca_quality": 0.8916083916083917,
+      "sequence_match": 0.902
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9V3V",
+    "method": "CryoAtom2 v2.0",
+    "observed": {
+      "tm_score": 0.9861,
+      "aligned_ca_length": 420,
+      "sequence_identity": 1.0,
+      "ca_match": 0.95,
+      "ca_quality": 0.9858490566037735,
+      "sequence_match": 0.993
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9V8X",
+    "method": "CryoAtom2 v2.0",
+    "observed": {
+      "tm_score": 0.9978,
+      "aligned_ca_length": 504,
+      "sequence_identity": 0.994,
+      "ca_match": 0.9229357798165138,
+      "ca_quality": 0.998015873015873,
+      "sequence_match": 0.992
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9VJ3",
+    "method": "CryoAtom2 v2.0",
+    "observed": {
+      "tm_score": 0.8826,
+      "aligned_ca_length": 398,
+      "sequence_identity": 0.985,
+      "ca_match": 0.9642857142857143,
+      "ca_quality": 0.9707865168539326,
+      "sequence_match": 0.97
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9VUH",
+    "method": "CryoAtom2 v2.0",
+    "observed": {
+      "tm_score": 0.7614,
+      "aligned_ca_length": 486,
+      "sequence_identity": 0.998,
+      "ca_match": 0.9597523219814241,
+      "ca_quality": 0.9779179810725552,
+      "sequence_match": 0.992
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9X3Y",
+    "method": "CryoAtom2 v2.0",
+    "observed": {
+      "tm_score": 0.9845,
+      "aligned_ca_length": 247,
+      "sequence_identity": 0.988,
+      "ca_match": 0.5460674157303371,
+      "ca_quality": 0.9838056680161944,
+      "sequence_match": 0.988
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  },
+  {
+    "pdb_id": "9Y6N",
+    "method": "CryoAtom2 v2.0",
+    "observed": {
+      "tm_score": 0.9984,
+      "aligned_ca_length": 735,
+      "sequence_identity": 0.995,
+      "ca_match": 0.939820742637644,
+      "ca_quality": 0.998639455782313,
+      "sequence_match": 0.992
+    },
+    "difference_from_archived": {
+      "tm_score": 0.0,
+      "aligned_ca_length": 0,
+      "sequence_identity": 0.0,
+      "ca_match": 0.0,
+      "ca_quality": 0.0,
+      "sequence_match": 0.0
+    }
+  }
+]

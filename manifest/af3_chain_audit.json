@@ -1,0 +1,1327 @@
+{
+  "entities": [
+    {
+      "pdb_id": "9Y6N",
+      "entity_id": "1",
+      "copies": 3,
+      "kind": "homomer",
+      "mica_job": "seq_89178be8896c4bde_n3",
+      "comparator_job": "seq_89178be8896c4bde_n1",
+      "source_chain_ids": [
+        "A",
+        "B",
+        "C"
+      ],
+      "processed_json": "data/af3/processed/seq_89178be8896c4bde_n3.json",
+      "processed_sha256": "a043f5a07a5ad7acbff89b9fa535936096f21dc52c84cd0af5635102bcae48ae",
+      "selected_cif": "data/af3/selected/seq_89178be8896c4bde_n3.cif",
+      "selected_sha256": "aacdc7bfffb126bc3b8bf3a57aa221d8a5ec242b7f577da2f730190b4748277d",
+      "prepared_sha256": "aacdc7bfffb126bc3b8bf3a57aa221d8a5ec242b7f577da2f730190b4748277d",
+      "input_chain_ids": [
+        "A",
+        "B",
+        "C"
+      ],
+      "input_chain_count": 3,
+      "output_chain_count": 3,
+      "chain_lengths": [
+        272,
+        272,
+        272
+      ],
+      "full_sequence_match": true
+    },
+    {
+      "pdb_id": "9OKP",
+      "entity_id": "1",
+      "copies": 2,
+      "kind": "homomer",
+      "mica_job": "seq_a21a9e5a8050b6c6_n2",
+      "comparator_job": "seq_a21a9e5a8050b6c6_n1",
+      "source_chain_ids": [
+        "A",
+        "B"
+      ],
+      "processed_json": "data/af3/processed/seq_a21a9e5a8050b6c6_n2.json",
+      "processed_sha256": "04aea4f597db85cf056bfedc08080d4f4e7f5e77f08f5b2612b66e3b0423bc90",
+      "selected_cif": "data/af3/selected/seq_a21a9e5a8050b6c6_n2.cif",
+      "selected_sha256": "a29f6af9124eea4bba99dfbe96eae8ff41c0a40b32f388930f5c1e2195568505",
+      "prepared_sha256": "a29f6af9124eea4bba99dfbe96eae8ff41c0a40b32f388930f5c1e2195568505",
+      "input_chain_ids": [
+        "A",
+        "B"
+      ],
+      "input_chain_count": 2,
+      "output_chain_count": 2,
+      "chain_lengths": [
+        260,
+        260
+      ],
+      "full_sequence_match": true
+    },
+    {
+      "pdb_id": "9OKP",
+      "entity_id": "2",
+      "copies": 2,
+      "kind": "homomer",
+      "mica_job": "seq_30c86a3acc3e3808_n2",
+      "comparator_job": "seq_30c86a3acc3e3808_n1",
+      "source_chain_ids": [
+        "C",
+        "D"
+      ],
+      "processed_json": "data/af3/processed/seq_30c86a3acc3e3808_n2.json",
+      "processed_sha256": "86ca54aed529f529595ab3017fc127c6a7b50109ecfb4f298bb693b2d1d3ed8d",
+      "selected_cif": "data/af3/selected/seq_30c86a3acc3e3808_n2.cif",
+      "selected_sha256": "9109cab2c733c184798f9655a8ece85171eb8b4d2ef53fedeb9c626aef4507e1",
+      "prepared_sha256": "9109cab2c733c184798f9655a8ece85171eb8b4d2ef53fedeb9c626aef4507e1",
+      "input_chain_ids": [
+        "A",
+        "B"
+      ],
+      "input_chain_count": 2,
+      "output_chain_count": 2,
+      "chain_lengths": [
+        251,
+        251
+      ],
+      "full_sequence_match": true
+    },
+    {
+      "pdb_id": "26QS",
+      "entity_id": "1",
+      "copies": 1,
+      "kind": "monomer",
+      "mica_job": "seq_c32b8ce7c7acd613_n1",
+      "comparator_job": "seq_c32b8ce7c7acd613_n1",
+      "source_chain_ids": [
+        "A"
+      ],
+      "processed_json": "data/af3/processed/seq_c32b8ce7c7acd613_n1.json",
+      "processed_sha256": "63820ef138b25f980d6d6da3b9ac29c065455402cebf95855ce0257e24bd8349",
+      "selected_cif": "data/af3/selected/seq_c32b8ce7c7acd613_n1.cif",
+      "selected_sha256": "e031f22158e5b1a4b3d258a9f984572070ff5a5c16f0c24c62cf1f981bc2fb1c",
+      "prepared_sha256": "e031f22158e5b1a4b3d258a9f984572070ff5a5c16f0c24c62cf1f981bc2fb1c",
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_chain_count": 1,
+      "output_chain_count": 1,
+      "chain_lengths": [
+        391
+      ],
+      "full_sequence_match": true
+    },
+    {
+      "pdb_id": "9VUH",
+      "entity_id": "3",
+      "copies": 1,
+      "kind": "monomer",
+      "mica_job": "seq_19e33a2cb609d3eb_n1",
+      "comparator_job": "seq_19e33a2cb609d3eb_n1",
+      "source_chain_ids": [
+        "C"
+      ],
+      "processed_json": "data/af3/processed/seq_19e33a2cb609d3eb_n1.json",
+      "processed_sha256": "98cd5eddcb3dc90fa1455c5c918a4fc284b3a0d7ad9d955453f25fc3a9c4ea3c",
+      "selected_cif": "data/af3/selected/seq_19e33a2cb609d3eb_n1.cif",
+      "selected_sha256": "3a2ad9daf119f68fcb8765b0d187083d22580530a0948ee75363fd980c5dbba6",
+      "prepared_sha256": "3a2ad9daf119f68fcb8765b0d187083d22580530a0948ee75363fd980c5dbba6",
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_chain_count": 1,
+      "output_chain_count": 1,
+      "chain_lengths": [
+        318
+      ],
+      "full_sequence_match": true
+    },
+    {
+      "pdb_id": "9VUH",
+      "entity_id": "2",
+      "copies": 1,
+      "kind": "monomer",
+      "mica_job": "seq_a6a1d0ba83499312_n1",
+      "comparator_job": "seq_a6a1d0ba83499312_n1",
+      "source_chain_ids": [
+        "B"
+      ],
+      "processed_json": "data/af3/processed/seq_a6a1d0ba83499312_n1.json",
+      "processed_sha256": "691a1ec0463f721e6ffe1aae42aaceb419d07cc5b60d6f7c0fc23419d2564f6c",
+      "selected_cif": "data/af3/selected/seq_a6a1d0ba83499312_n1.cif",
+      "selected_sha256": "568cc621cb99200608d84c9793b8f49c140e5baf851b3b7864c48f292de8316e",
+      "prepared_sha256": "568cc621cb99200608d84c9793b8f49c140e5baf851b3b7864c48f292de8316e",
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_chain_count": 1,
+      "output_chain_count": 1,
+      "chain_lengths": [
+        365
+      ],
+      "full_sequence_match": true
+    },
+    {
+      "pdb_id": "9VUH",
+      "entity_id": "1",
+      "copies": 1,
+      "kind": "monomer",
+      "mica_job": "seq_1df294741dc7918e_n1",
+      "comparator_job": "seq_1df294741dc7918e_n1",
+      "source_chain_ids": [
+        "A"
+      ],
+      "processed_json": "data/af3/processed/seq_1df294741dc7918e_n1.json",
+      "processed_sha256": "add5556446fa9e3dc360597f9440d41511cbf108bed01bdcd05e67821d64c769",
+      "selected_cif": "data/af3/selected/seq_1df294741dc7918e_n1.cif",
+      "selected_sha256": "aa5aa5e8fce898906aa2d2c9b3664e3b71cedc6efc0a402398adc1fff1057614",
+      "prepared_sha256": "aa5aa5e8fce898906aa2d2c9b3664e3b71cedc6efc0a402398adc1fff1057614",
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_chain_count": 1,
+      "output_chain_count": 1,
+      "chain_lengths": [
+        332
+      ],
+      "full_sequence_match": true
+    },
+    {
+      "pdb_id": "9RWT",
+      "entity_id": "1",
+      "copies": 1,
+      "kind": "monomer",
+      "mica_job": "seq_7549edfd52be0dbe_n1",
+      "comparator_job": "seq_7549edfd52be0dbe_n1",
+      "source_chain_ids": [
+        "A"
+      ],
+      "processed_json": "data/af3/processed/seq_7549edfd52be0dbe_n1.json",
+      "processed_sha256": "dcb4e71c47d16bc51996e1c324d130fc729b607d8bd845cce17313c65a91e040",
+      "selected_cif": "data/af3/selected/seq_7549edfd52be0dbe_n1.cif",
+      "selected_sha256": "ab8a44b4f1c0cdfe518a809cebf61cf711b554589f1e84bdcab3103c5a12cf7b",
+      "prepared_sha256": "ab8a44b4f1c0cdfe518a809cebf61cf711b554589f1e84bdcab3103c5a12cf7b",
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_chain_count": 1,
+      "output_chain_count": 1,
+      "chain_lengths": [
+        551
+      ],
+      "full_sequence_match": true
+    },
+    {
+      "pdb_id": "25GN",
+      "entity_id": "4",
+      "copies": 1,
+      "kind": "monomer",
+      "mica_job": "seq_405e39620655ef71_n1",
+      "comparator_job": "seq_405e39620655ef71_n1",
+      "source_chain_ids": [
+        "D"
+      ],
+      "processed_json": "data/af3/processed/seq_405e39620655ef71_n1.json",
+      "processed_sha256": "4ee199a7dee79dfcd7849a5ad3d7ed646a6fc57241ccb97853d9d229f12dd073",
+      "selected_cif": "data/af3/selected/seq_405e39620655ef71_n1.cif",
+      "selected_sha256": "69ec7439b7f9ded99e00d2e95182853fbec865f62ca8b425b275932978c80a72",
+      "prepared_sha256": "69ec7439b7f9ded99e00d2e95182853fbec865f62ca8b425b275932978c80a72",
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_chain_count": 1,
+      "output_chain_count": 1,
+      "chain_lengths": [
+        524
+      ],
+      "full_sequence_match": true
+    },
+    {
+      "pdb_id": "25GN",
+      "entity_id": "3",
+      "copies": 1,
+      "kind": "monomer",
+      "mica_job": "seq_0082c83eb262b698_n1",
+      "comparator_job": "seq_0082c83eb262b698_n1",
+      "source_chain_ids": [
+        "C"
+      ],
+      "processed_json": "data/af3/processed/seq_0082c83eb262b698_n1.json",
+      "processed_sha256": "b5bbaa8df913c002872e729b03ceb7d83d194a50e38364621c4faf48da31d576",
+      "selected_cif": "data/af3/selected/seq_0082c83eb262b698_n1.cif",
+      "selected_sha256": "3a80d7a80aad34092be5190803c39eb495d5421012abad94279af98f73d568d8",
+      "prepared_sha256": "3a80d7a80aad34092be5190803c39eb495d5421012abad94279af98f73d568d8",
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_chain_count": 1,
+      "output_chain_count": 1,
+      "chain_lengths": [
+        108
+      ],
+      "full_sequence_match": true
+    },
+    {
+      "pdb_id": "25GN",
+      "entity_id": "2",
+      "copies": 1,
+      "kind": "monomer",
+      "mica_job": "seq_0cec3842f60e0423_n1",
+      "comparator_job": "seq_0cec3842f60e0423_n1",
+      "source_chain_ids": [
+        "B"
+      ],
+      "processed_json": "data/af3/processed/seq_0cec3842f60e0423_n1.json",
+      "processed_sha256": "db1b5836a71b95cdcfca7ae2ca14880f1810df0c3ca8773ca8ce9dedef892f8e",
+      "selected_cif": "data/af3/selected/seq_0cec3842f60e0423_n1.cif",
+      "selected_sha256": "d1b9aa0e9a50bda75d52856a2942084beb44d308f7b5bf21110a33d3db54a7b5",
+      "prepared_sha256": "d1b9aa0e9a50bda75d52856a2942084beb44d308f7b5bf21110a33d3db54a7b5",
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_chain_count": 1,
+      "output_chain_count": 1,
+      "chain_lengths": [
+        121
+      ],
+      "full_sequence_match": true
+    },
+    {
+      "pdb_id": "25GN",
+      "entity_id": "1",
+      "copies": 1,
+      "kind": "monomer",
+      "mica_job": "seq_316d391c2f2c7c1d_n1",
+      "comparator_job": "seq_316d391c2f2c7c1d_n1",
+      "source_chain_ids": [
+        "A"
+      ],
+      "processed_json": "data/af3/processed/seq_316d391c2f2c7c1d_n1.json",
+      "processed_sha256": "47367c8bf9552a16f2cdac9a701144dc5431cc70b289baa74723183945c2fddd",
+      "selected_cif": "data/af3/selected/seq_316d391c2f2c7c1d_n1.cif",
+      "selected_sha256": "0597c34f41d5644e241a4792c7fcdd976ddaa1a030ee5aad69c50dc3e30e11ff",
+      "prepared_sha256": "0597c34f41d5644e241a4792c7fcdd976ddaa1a030ee5aad69c50dc3e30e11ff",
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_chain_count": 1,
+      "output_chain_count": 1,
+      "chain_lengths": [
+        410
+      ],
+      "full_sequence_match": true
+    },
+    {
+      "pdb_id": "9V8X",
+      "entity_id": "1",
+      "copies": 1,
+      "kind": "monomer",
+      "mica_job": "seq_e6f994fbe194bb67_n1",
+      "comparator_job": "seq_e6f994fbe194bb67_n1",
+      "source_chain_ids": [
+        "A"
+      ],
+      "processed_json": "data/af3/processed/seq_e6f994fbe194bb67_n1.json",
+      "processed_sha256": "80d7b6791d09f5b619b6bfb4af3c43461741d3b1feaada51a6e772e16529caed",
+      "selected_cif": "data/af3/selected/seq_e6f994fbe194bb67_n1.cif",
+      "selected_sha256": "02893bd494fa9f4fba90b5bbfcd66d20f74fdb9da77f38b362d8ea5700c26968",
+      "prepared_sha256": "02893bd494fa9f4fba90b5bbfcd66d20f74fdb9da77f38b362d8ea5700c26968",
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_chain_count": 1,
+      "output_chain_count": 1,
+      "chain_lengths": [
+        635
+      ],
+      "full_sequence_match": true
+    },
+    {
+      "pdb_id": "9X3Y",
+      "entity_id": "2",
+      "copies": 1,
+      "kind": "monomer",
+      "mica_job": "seq_5fa440df6a3177d4_n1",
+      "comparator_job": "seq_5fa440df6a3177d4_n1",
+      "source_chain_ids": [
+        "B"
+      ],
+      "processed_json": "data/af3/processed/seq_5fa440df6a3177d4_n1.json",
+      "processed_sha256": "b9103b8ea2714adc636db6881117b4c2deb57c50a197ca3b72a3697896cb641a",
+      "selected_cif": "data/af3/selected/seq_5fa440df6a3177d4_n1.cif",
+      "selected_sha256": "bec84247e246f7e82c291672b9bd2c52ef7e23290676138f35c3dc260aac45d5",
+      "prepared_sha256": "bec84247e246f7e82c291672b9bd2c52ef7e23290676138f35c3dc260aac45d5",
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_chain_count": 1,
+      "output_chain_count": 1,
+      "chain_lengths": [
+        8
+      ],
+      "full_sequence_match": true
+    },
+    {
+      "pdb_id": "9X3Y",
+      "entity_id": "1",
+      "copies": 1,
+      "kind": "monomer",
+      "mica_job": "seq_f104c7b186d2a003_n1",
+      "comparator_job": "seq_f104c7b186d2a003_n1",
+      "source_chain_ids": [
+        "A"
+      ],
+      "processed_json": "data/af3/processed/seq_f104c7b186d2a003_n1.json",
+      "processed_sha256": "19790b9deb22b4e966aadcf19de2036c0a3aed86f4b82783b8a02298d6c8d938",
+      "selected_cif": "data/af3/selected/seq_f104c7b186d2a003_n1.cif",
+      "selected_sha256": "6c52cb0d517cd2acb095c13b9f238ce6644ddfb1f7c369bf597e422763f75dc0",
+      "prepared_sha256": "6c52cb0d517cd2acb095c13b9f238ce6644ddfb1f7c369bf597e422763f75dc0",
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_chain_count": 1,
+      "output_chain_count": 1,
+      "chain_lengths": [
+        325
+      ],
+      "full_sequence_match": true
+    },
+    {
+      "pdb_id": "9V3V",
+      "entity_id": "1",
+      "copies": 1,
+      "kind": "monomer",
+      "mica_job": "seq_d98a1b07bc2a869f_n1",
+      "comparator_job": "seq_d98a1b07bc2a869f_n1",
+      "source_chain_ids": [
+        "A"
+      ],
+      "processed_json": "data/af3/processed/seq_d98a1b07bc2a869f_n1.json",
+      "processed_sha256": "5b9a72212eeb555b4429de8854d6b2a6e82d70318e4f31c43c71f3441a4f4f21",
+      "selected_cif": "data/af3/selected/seq_d98a1b07bc2a869f_n1.cif",
+      "selected_sha256": "1c49d517c4aea9bb85200be3b3c9f43c272782ad7e1ca554411f19851ed111c1",
+      "prepared_sha256": "1c49d517c4aea9bb85200be3b3c9f43c272782ad7e1ca554411f19851ed111c1",
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_chain_count": 1,
+      "output_chain_count": 1,
+      "chain_lengths": [
+        476
+      ],
+      "full_sequence_match": true
+    },
+    {
+      "pdb_id": "9K7G",
+      "entity_id": "1",
+      "copies": 1,
+      "kind": "monomer",
+      "mica_job": "seq_2a1867b76ba1e725_n1",
+      "comparator_job": "seq_2a1867b76ba1e725_n1",
+      "source_chain_ids": [
+        "A"
+      ],
+      "processed_json": "data/af3/processed/seq_2a1867b76ba1e725_n1.json",
+      "processed_sha256": "635654a9d005fca4bea159981ed3b8be0c7b168daf00881e82d9c3a8416f8971",
+      "selected_cif": "data/af3/selected/seq_2a1867b76ba1e725_n1.cif",
+      "selected_sha256": "e2373ad12115b9b2e7f718383ff6993b9f42bd09ca71738466b16fa6aca6170f",
+      "prepared_sha256": "e2373ad12115b9b2e7f718383ff6993b9f42bd09ca71738466b16fa6aca6170f",
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_chain_count": 1,
+      "output_chain_count": 1,
+      "chain_lengths": [
+        413
+      ],
+      "full_sequence_match": true
+    },
+    {
+      "pdb_id": "31CK",
+      "entity_id": "1",
+      "copies": 2,
+      "kind": "homomer",
+      "mica_job": "seq_b8c4d260a5669b6e_n2",
+      "comparator_job": "seq_b8c4d260a5669b6e_n1",
+      "source_chain_ids": [
+        "A",
+        "B"
+      ],
+      "processed_json": "data/af3/processed/seq_b8c4d260a5669b6e_n2.json",
+      "processed_sha256": "ba56d39ba2645dcf4d4769fb82cf951a96c636230e7f728f004e9d504cff8f13",
+      "selected_cif": "data/af3/selected/seq_b8c4d260a5669b6e_n2.cif",
+      "selected_sha256": "925aaad3b386688e6cd0c24ce4545ec78fff583df9fddde83c7893956582307a",
+      "prepared_sha256": "925aaad3b386688e6cd0c24ce4545ec78fff583df9fddde83c7893956582307a",
+      "input_chain_ids": [
+        "A",
+        "B"
+      ],
+      "input_chain_count": 2,
+      "output_chain_count": 2,
+      "chain_lengths": [
+        534,
+        534
+      ],
+      "full_sequence_match": true
+    },
+    {
+      "pdb_id": "28MK",
+      "entity_id": "2",
+      "copies": 1,
+      "kind": "monomer",
+      "mica_job": "seq_13d8e6234c4036ba_n1",
+      "comparator_job": "seq_13d8e6234c4036ba_n1",
+      "source_chain_ids": [
+        "B"
+      ],
+      "processed_json": "data/af3/processed/seq_13d8e6234c4036ba_n1.json",
+      "processed_sha256": "6b1ea4ad4d897dd6fb3ce1583f6c2c5bf80591c8c42360525ddc91ebb2d08edd",
+      "selected_cif": "data/af3/selected/seq_13d8e6234c4036ba_n1.cif",
+      "selected_sha256": "29f67afe27585a68daf375d850ff8cd883f0e85298960c02201838b76101d819",
+      "prepared_sha256": "29f67afe27585a68daf375d850ff8cd883f0e85298960c02201838b76101d819",
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_chain_count": 1,
+      "output_chain_count": 1,
+      "chain_lengths": [
+        167
+      ],
+      "full_sequence_match": true
+    },
+    {
+      "pdb_id": "28MK",
+      "entity_id": "1",
+      "copies": 1,
+      "kind": "monomer",
+      "mica_job": "seq_257c0d39864cddf8_n1",
+      "comparator_job": "seq_257c0d39864cddf8_n1",
+      "source_chain_ids": [
+        "A"
+      ],
+      "processed_json": "data/af3/processed/seq_257c0d39864cddf8_n1.json",
+      "processed_sha256": "e2c984ded980b115c9d9b2e458b95e4714bf5330745e23a745dcf4e0df58bb3b",
+      "selected_cif": "data/af3/selected/seq_257c0d39864cddf8_n1.cif",
+      "selected_sha256": "08a4212a699644a124cdc794af547abbdaccbe3b17b1bdc3e969bf216c57b22b",
+      "prepared_sha256": "08a4212a699644a124cdc794af547abbdaccbe3b17b1bdc3e969bf216c57b22b",
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_chain_count": 1,
+      "output_chain_count": 1,
+      "chain_lengths": [
+        1054
+      ],
+      "full_sequence_match": true
+    },
+    {
+      "pdb_id": "26VE",
+      "entity_id": "1",
+      "copies": 1,
+      "kind": "monomer",
+      "mica_job": "seq_d428e75d243f0deb_n1",
+      "comparator_job": "seq_d428e75d243f0deb_n1",
+      "source_chain_ids": [
+        "A"
+      ],
+      "processed_json": "data/af3/processed/seq_d428e75d243f0deb_n1.json",
+      "processed_sha256": "db5259f62119160955f8c31bb331638f1fd2ce889d3419d7b4fe93f5ae8b0fc6",
+      "selected_cif": "data/af3/selected/seq_d428e75d243f0deb_n1.cif",
+      "selected_sha256": "2b6e19184538edcf7c593894ae7b8e893e5af8125dcba20058a03c890401086e",
+      "prepared_sha256": "2b6e19184538edcf7c593894ae7b8e893e5af8125dcba20058a03c890401086e",
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_chain_count": 1,
+      "output_chain_count": 1,
+      "chain_lengths": [
+        624
+      ],
+      "full_sequence_match": true
+    },
+    {
+      "pdb_id": "9UPO",
+      "entity_id": "1",
+      "copies": 1,
+      "kind": "monomer",
+      "mica_job": "seq_bc4c209947ec9880_n1",
+      "comparator_job": "seq_bc4c209947ec9880_n1",
+      "source_chain_ids": [
+        "A"
+      ],
+      "processed_json": "data/af3/processed/seq_bc4c209947ec9880_n1.json",
+      "processed_sha256": "a2d81de7ba2a1242a3f29388fb16ca363c6d4cc9f3c1631d0c079a99e5be9ba7",
+      "selected_cif": "data/af3/selected/seq_bc4c209947ec9880_n1.cif",
+      "selected_sha256": "7495fb6fa0f8ecce969b10b9c19a539d907c27c89e44e8c5de63df4038e3c40e",
+      "prepared_sha256": "7495fb6fa0f8ecce969b10b9c19a539d907c27c89e44e8c5de63df4038e3c40e",
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_chain_count": 1,
+      "output_chain_count": 1,
+      "chain_lengths": [
+        434
+      ],
+      "full_sequence_match": true
+    },
+    {
+      "pdb_id": "9HXD",
+      "entity_id": "1",
+      "copies": 2,
+      "kind": "homomer",
+      "mica_job": "seq_93d3ae7ae6bedc4a_n2",
+      "comparator_job": "seq_93d3ae7ae6bedc4a_n1",
+      "source_chain_ids": [
+        "A",
+        "B"
+      ],
+      "processed_json": "data/af3/processed/seq_93d3ae7ae6bedc4a_n2.json",
+      "processed_sha256": "c0c8bbd85c95d22b667dd8bbcabac93e529c095baa068277c4957ab2498d45e2",
+      "selected_cif": "data/af3/selected/seq_93d3ae7ae6bedc4a_n2.cif",
+      "selected_sha256": "79d26b01b01830f123bc6a44d9a1e102d77bd5113d546ef47983b2d9292109f8",
+      "prepared_sha256": "79d26b01b01830f123bc6a44d9a1e102d77bd5113d546ef47983b2d9292109f8",
+      "input_chain_ids": [
+        "A",
+        "B"
+      ],
+      "input_chain_count": 2,
+      "output_chain_count": 2,
+      "chain_lengths": [
+        593,
+        593
+      ],
+      "full_sequence_match": true
+    },
+    {
+      "pdb_id": "9VJ3",
+      "entity_id": "2",
+      "copies": 1,
+      "kind": "monomer",
+      "mica_job": "seq_61969b08c49450ec_n1",
+      "comparator_job": "seq_61969b08c49450ec_n1",
+      "source_chain_ids": [
+        "B"
+      ],
+      "processed_json": "data/af3/processed/seq_61969b08c49450ec_n1.json",
+      "processed_sha256": "af4316f8ba20a4045ed78519c7cdb305c77a76d0482b8129c84a358f11a60c13",
+      "selected_cif": "data/af3/selected/seq_61969b08c49450ec_n1.cif",
+      "selected_sha256": "754d1f1c8f335ba0812f0a065853b03b6ec1239d61a3a0da304a16cbaf053e60",
+      "prepared_sha256": "754d1f1c8f335ba0812f0a065853b03b6ec1239d61a3a0da304a16cbaf053e60",
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_chain_count": 1,
+      "output_chain_count": 1,
+      "chain_lengths": [
+        221
+      ],
+      "full_sequence_match": true
+    },
+    {
+      "pdb_id": "9VJ3",
+      "entity_id": "1",
+      "copies": 1,
+      "kind": "monomer",
+      "mica_job": "seq_fc7941a4a08369e2_n1",
+      "comparator_job": "seq_fc7941a4a08369e2_n1",
+      "source_chain_ids": [
+        "A"
+      ],
+      "processed_json": "data/af3/processed/seq_fc7941a4a08369e2_n1.json",
+      "processed_sha256": "602c1b9beaeb282bc7cf78937c5fc9a06b9ad8779e49811273634a61bf98b08d",
+      "selected_cif": "data/af3/selected/seq_fc7941a4a08369e2_n1.cif",
+      "selected_sha256": "8d158505a68ac85c8f8e2109be667549cebf5fdb099632e2370229cbc86be4df",
+      "prepared_sha256": "8d158505a68ac85c8f8e2109be667549cebf5fdb099632e2370229cbc86be4df",
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_chain_count": 1,
+      "output_chain_count": 1,
+      "chain_lengths": [
+        401
+      ],
+      "full_sequence_match": true
+    }
+  ],
+  "jobs": [
+    {
+      "job": "seq_89178be8896c4bde_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "LEVLFQGPSPQEILIKVQVYVSGELVPLARASVDVFGNRTLLAAGTTDSEGVATLPLSYRLGTWVLVTAARPGFLTNSVPWRVDKLPLYASVSLYLLPERPATLILYEDLVHILLGSPGARSQPLVQFQRRAARLPVSSTYSQLWASLTPASTQQEMRAFPAFLGTEASSSGNGSWLELIPLAAVSVHLLTGNGTEVPLSGPIHLSLPVPSEPRALAVGTSIPAWRFDPKSGLWVRNGTGVIRKEGRQLYWTFVSPQLGYWVAAMALEVLFQ"
+      ],
+      "model_file": "data/af3/selected/seq_89178be8896c4bde_n1.cif",
+      "model_sha256": "f1486d766124333ab3f8d7c37774bb8b8f26030b75fccf6d644eda790a85e7a8",
+      "processed_file": "data/af3/processed/seq_89178be8896c4bde_n1.json",
+      "processed_sha256": "24a09c354e7fe01444b6d5422e6ca33fc2ccaf58539c686a28c7beb132c1d6bc",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "LEVLFQGPSPQEILIKVQVYVSGELVPLARASVDVFGNRTLLAAGTTDSEGVATLPLSYRLGTWVLVTAARPGFLTNSVPWRVDKLPLYASVSLYLLPERPATLILYEDLVHILLGSPGARSQPLVQFQRRAARLPVSSTYSQLWASLTPASTQQEMRAFPAFLGTEASSSGNGSWLELIPLAAVSVHLLTGNGTEVPLSGPIHLSLPVPSEPRALAVGTSIPAWRFDPKSGLWVRNGTGVIRKEGRQLYWTFVSPQLGYWVAAMALEVLFQ"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_89178be8896c4bde_n3",
+      "copies": 3,
+      "input_chain_ids": [
+        "A",
+        "B",
+        "C"
+      ],
+      "input_sequences": [
+        "LEVLFQGPSPQEILIKVQVYVSGELVPLARASVDVFGNRTLLAAGTTDSEGVATLPLSYRLGTWVLVTAARPGFLTNSVPWRVDKLPLYASVSLYLLPERPATLILYEDLVHILLGSPGARSQPLVQFQRRAARLPVSSTYSQLWASLTPASTQQEMRAFPAFLGTEASSSGNGSWLELIPLAAVSVHLLTGNGTEVPLSGPIHLSLPVPSEPRALAVGTSIPAWRFDPKSGLWVRNGTGVIRKEGRQLYWTFVSPQLGYWVAAMALEVLFQ",
+        "LEVLFQGPSPQEILIKVQVYVSGELVPLARASVDVFGNRTLLAAGTTDSEGVATLPLSYRLGTWVLVTAARPGFLTNSVPWRVDKLPLYASVSLYLLPERPATLILYEDLVHILLGSPGARSQPLVQFQRRAARLPVSSTYSQLWASLTPASTQQEMRAFPAFLGTEASSSGNGSWLELIPLAAVSVHLLTGNGTEVPLSGPIHLSLPVPSEPRALAVGTSIPAWRFDPKSGLWVRNGTGVIRKEGRQLYWTFVSPQLGYWVAAMALEVLFQ",
+        "LEVLFQGPSPQEILIKVQVYVSGELVPLARASVDVFGNRTLLAAGTTDSEGVATLPLSYRLGTWVLVTAARPGFLTNSVPWRVDKLPLYASVSLYLLPERPATLILYEDLVHILLGSPGARSQPLVQFQRRAARLPVSSTYSQLWASLTPASTQQEMRAFPAFLGTEASSSGNGSWLELIPLAAVSVHLLTGNGTEVPLSGPIHLSLPVPSEPRALAVGTSIPAWRFDPKSGLWVRNGTGVIRKEGRQLYWTFVSPQLGYWVAAMALEVLFQ"
+      ],
+      "model_file": "data/af3/selected/seq_89178be8896c4bde_n3.cif",
+      "model_sha256": "aacdc7bfffb126bc3b8bf3a57aa221d8a5ec242b7f577da2f730190b4748277d",
+      "processed_file": "data/af3/processed/seq_89178be8896c4bde_n3.json",
+      "processed_sha256": "a043f5a07a5ad7acbff89b9fa535936096f21dc52c84cd0af5635102bcae48ae",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "LEVLFQGPSPQEILIKVQVYVSGELVPLARASVDVFGNRTLLAAGTTDSEGVATLPLSYRLGTWVLVTAARPGFLTNSVPWRVDKLPLYASVSLYLLPERPATLILYEDLVHILLGSPGARSQPLVQFQRRAARLPVSSTYSQLWASLTPASTQQEMRAFPAFLGTEASSSGNGSWLELIPLAAVSVHLLTGNGTEVPLSGPIHLSLPVPSEPRALAVGTSIPAWRFDPKSGLWVRNGTGVIRKEGRQLYWTFVSPQLGYWVAAMALEVLFQ",
+        "LEVLFQGPSPQEILIKVQVYVSGELVPLARASVDVFGNRTLLAAGTTDSEGVATLPLSYRLGTWVLVTAARPGFLTNSVPWRVDKLPLYASVSLYLLPERPATLILYEDLVHILLGSPGARSQPLVQFQRRAARLPVSSTYSQLWASLTPASTQQEMRAFPAFLGTEASSSGNGSWLELIPLAAVSVHLLTGNGTEVPLSGPIHLSLPVPSEPRALAVGTSIPAWRFDPKSGLWVRNGTGVIRKEGRQLYWTFVSPQLGYWVAAMALEVLFQ",
+        "LEVLFQGPSPQEILIKVQVYVSGELVPLARASVDVFGNRTLLAAGTTDSEGVATLPLSYRLGTWVLVTAARPGFLTNSVPWRVDKLPLYASVSLYLLPERPATLILYEDLVHILLGSPGARSQPLVQFQRRAARLPVSSTYSQLWASLTPASTQQEMRAFPAFLGTEASSSGNGSWLELIPLAAVSVHLLTGNGTEVPLSGPIHLSLPVPSEPRALAVGTSIPAWRFDPKSGLWVRNGTGVIRKEGRQLYWTFVSPQLGYWVAAMALEVLFQ"
+      ],
+      "output_chain_count": 3,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_a21a9e5a8050b6c6_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "MIELLFPGWLAGIMLACAAGPLGSFVVWRRMSYFGDTLAHASLLGVAFGLLLDVNPFYAVIAVTLLLAGGLVWLEKRPQLAIDTLLGIMAHSALSLGLVVVSLMSNIRVDLMAYLFGDLLAVTPEDLISIAIGVVIVVAILFWQWRNLLSMTISPDLAFVDGVKLQRVKLLLMLVTALTIGVAMKFVGALIITSLLIIPAATARRFARTPEQMAGVAVLVGMVAVTGGLTFSAVYDTPAGPSVVLCAALLFILSMMKKQA"
+      ],
+      "model_file": "data/af3/selected/seq_a21a9e5a8050b6c6_n1.cif",
+      "model_sha256": "211245c911b85d5a6d12ade918c13d9c668052e166db7538dfd0a9573d876ede",
+      "processed_file": "data/af3/processed/seq_a21a9e5a8050b6c6_n1.json",
+      "processed_sha256": "9076d92c6a56720c19deb44696097b25f63cfd4b9d816cc06c4e0c2457b48886",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "MIELLFPGWLAGIMLACAAGPLGSFVVWRRMSYFGDTLAHASLLGVAFGLLLDVNPFYAVIAVTLLLAGGLVWLEKRPQLAIDTLLGIMAHSALSLGLVVVSLMSNIRVDLMAYLFGDLLAVTPEDLISIAIGVVIVVAILFWQWRNLLSMTISPDLAFVDGVKLQRVKLLLMLVTALTIGVAMKFVGALIITSLLIIPAATARRFARTPEQMAGVAVLVGMVAVTGGLTFSAVYDTPAGPSVVLCAALLFILSMMKKQA"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_a21a9e5a8050b6c6_n2",
+      "copies": 2,
+      "input_chain_ids": [
+        "A",
+        "B"
+      ],
+      "input_sequences": [
+        "MIELLFPGWLAGIMLACAAGPLGSFVVWRRMSYFGDTLAHASLLGVAFGLLLDVNPFYAVIAVTLLLAGGLVWLEKRPQLAIDTLLGIMAHSALSLGLVVVSLMSNIRVDLMAYLFGDLLAVTPEDLISIAIGVVIVVAILFWQWRNLLSMTISPDLAFVDGVKLQRVKLLLMLVTALTIGVAMKFVGALIITSLLIIPAATARRFARTPEQMAGVAVLVGMVAVTGGLTFSAVYDTPAGPSVVLCAALLFILSMMKKQA",
+        "MIELLFPGWLAGIMLACAAGPLGSFVVWRRMSYFGDTLAHASLLGVAFGLLLDVNPFYAVIAVTLLLAGGLVWLEKRPQLAIDTLLGIMAHSALSLGLVVVSLMSNIRVDLMAYLFGDLLAVTPEDLISIAIGVVIVVAILFWQWRNLLSMTISPDLAFVDGVKLQRVKLLLMLVTALTIGVAMKFVGALIITSLLIIPAATARRFARTPEQMAGVAVLVGMVAVTGGLTFSAVYDTPAGPSVVLCAALLFILSMMKKQA"
+      ],
+      "model_file": "data/af3/selected/seq_a21a9e5a8050b6c6_n2.cif",
+      "model_sha256": "a29f6af9124eea4bba99dfbe96eae8ff41c0a40b32f388930f5c1e2195568505",
+      "processed_file": "data/af3/processed/seq_a21a9e5a8050b6c6_n2.json",
+      "processed_sha256": "04aea4f597db85cf056bfedc08080d4f4e7f5e77f08f5b2612b66e3b0423bc90",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "MIELLFPGWLAGIMLACAAGPLGSFVVWRRMSYFGDTLAHASLLGVAFGLLLDVNPFYAVIAVTLLLAGGLVWLEKRPQLAIDTLLGIMAHSALSLGLVVVSLMSNIRVDLMAYLFGDLLAVTPEDLISIAIGVVIVVAILFWQWRNLLSMTISPDLAFVDGVKLQRVKLLLMLVTALTIGVAMKFVGALIITSLLIIPAATARRFARTPEQMAGVAVLVGMVAVTGGLTFSAVYDTPAGPSVVLCAALLFILSMMKKQA",
+        "MIELLFPGWLAGIMLACAAGPLGSFVVWRRMSYFGDTLAHASLLGVAFGLLLDVNPFYAVIAVTLLLAGGLVWLEKRPQLAIDTLLGIMAHSALSLGLVVVSLMSNIRVDLMAYLFGDLLAVTPEDLISIAIGVVIVVAILFWQWRNLLSMTISPDLAFVDGVKLQRVKLLLMLVTALTIGVAMKFVGALIITSLLIIPAATARRFARTPEQMAGVAVLVGMVAVTGGLTFSAVYDTPAGPSVVLCAALLFILSMMKKQA"
+      ],
+      "output_chain_count": 2,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_30c86a3acc3e3808_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "MTSLVSLENVSVSFGQRRVLSDVSLELKPGKILTLLGPNGAGKSTLVRVVLGLVTPDEGVIKRNGKLRIGYVPQKLYLDTTLPLTVNRFLRLRPGTHKEDILPALKRVQAGHLINAPMQKLSGGETQRVLLARALLNRPQLLVLDQPTQGVDVNGQVALYDLIDQLRRELDCGVLMVSHDLHLVMAKTDEVLCLNHHICCSGTPEVVSLHPEFISMFGPRGAEQLGIYRHHHNHRHDLQGRIVLRRGNDRS"
+      ],
+      "model_file": "data/af3/selected/seq_30c86a3acc3e3808_n1.cif",
+      "model_sha256": "7e246f8cc5bcd66e09a1632cf5432115c170a7d0cbef41654074ff0ed975352c",
+      "processed_file": "data/af3/processed/seq_30c86a3acc3e3808_n1.json",
+      "processed_sha256": "e7cd3cda038c9871148a9b2d913e202e3cea098f4b815ca30f4bd13761db66ca",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "MTSLVSLENVSVSFGQRRVLSDVSLELKPGKILTLLGPNGAGKSTLVRVVLGLVTPDEGVIKRNGKLRIGYVPQKLYLDTTLPLTVNRFLRLRPGTHKEDILPALKRVQAGHLINAPMQKLSGGETQRVLLARALLNRPQLLVLDQPTQGVDVNGQVALYDLIDQLRRELDCGVLMVSHDLHLVMAKTDEVLCLNHHICCSGTPEVVSLHPEFISMFGPRGAEQLGIYRHHHNHRHDLQGRIVLRRGNDRS"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_30c86a3acc3e3808_n2",
+      "copies": 2,
+      "input_chain_ids": [
+        "A",
+        "B"
+      ],
+      "input_sequences": [
+        "MTSLVSLENVSVSFGQRRVLSDVSLELKPGKILTLLGPNGAGKSTLVRVVLGLVTPDEGVIKRNGKLRIGYVPQKLYLDTTLPLTVNRFLRLRPGTHKEDILPALKRVQAGHLINAPMQKLSGGETQRVLLARALLNRPQLLVLDQPTQGVDVNGQVALYDLIDQLRRELDCGVLMVSHDLHLVMAKTDEVLCLNHHICCSGTPEVVSLHPEFISMFGPRGAEQLGIYRHHHNHRHDLQGRIVLRRGNDRS",
+        "MTSLVSLENVSVSFGQRRVLSDVSLELKPGKILTLLGPNGAGKSTLVRVVLGLVTPDEGVIKRNGKLRIGYVPQKLYLDTTLPLTVNRFLRLRPGTHKEDILPALKRVQAGHLINAPMQKLSGGETQRVLLARALLNRPQLLVLDQPTQGVDVNGQVALYDLIDQLRRELDCGVLMVSHDLHLVMAKTDEVLCLNHHICCSGTPEVVSLHPEFISMFGPRGAEQLGIYRHHHNHRHDLQGRIVLRRGNDRS"
+      ],
+      "model_file": "data/af3/selected/seq_30c86a3acc3e3808_n2.cif",
+      "model_sha256": "9109cab2c733c184798f9655a8ece85171eb8b4d2ef53fedeb9c626aef4507e1",
+      "processed_file": "data/af3/processed/seq_30c86a3acc3e3808_n2.json",
+      "processed_sha256": "86ca54aed529f529595ab3017fc127c6a7b50109ecfb4f298bb693b2d1d3ed8d",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "MTSLVSLENVSVSFGQRRVLSDVSLELKPGKILTLLGPNGAGKSTLVRVVLGLVTPDEGVIKRNGKLRIGYVPQKLYLDTTLPLTVNRFLRLRPGTHKEDILPALKRVQAGHLINAPMQKLSGGETQRVLLARALLNRPQLLVLDQPTQGVDVNGQVALYDLIDQLRRELDCGVLMVSHDLHLVMAKTDEVLCLNHHICCSGTPEVVSLHPEFISMFGPRGAEQLGIYRHHHNHRHDLQGRIVLRRGNDRS",
+        "MTSLVSLENVSVSFGQRRVLSDVSLELKPGKILTLLGPNGAGKSTLVRVVLGLVTPDEGVIKRNGKLRIGYVPQKLYLDTTLPLTVNRFLRLRPGTHKEDILPALKRVQAGHLINAPMQKLSGGETQRVLLARALLNRPQLLVLDQPTQGVDVNGQVALYDLIDQLRRELDCGVLMVSHDLHLVMAKTDEVLCLNHHICCSGTPEVVSLHPEFISMFGPRGAEQLGIYRHHHNHRHDLQGRIVLRRGNDRS"
+      ],
+      "output_chain_count": 2,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_c32b8ce7c7acd613_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "MALLDLALEGMAVFGFVLFLVLWLMHFMAIIYTRLHLNKKATDKQPYSKLPGVSLLKPLKGVDPNLINNLETFFELDYPKYEVLLCVQDHDDPAIDVCKKLLGKYPNVDARLFIGGKKVGINPKINNLMPGYEVAKYDLIWICDSGIRVIPDTLTDMVNQMTEKVGLVHGLPYVADRQGFAATLEQVYFGTSHPRYYISANVTGFKCVTGMSCLMRKDVLDQAGGLIAFAQYIAEDYFMAKAIADRGWRFAMSTQVAMQNSGSYSISQFQSRMIRWTKLRINMLPATIICEPISECFVASLIIGWAAHHVFRWDIMVFFMCHCLAWFIFDYIQLRGVQGGTLCFSKLDYAVAWFIRESMTIYIFLSALWDPTISWRTGRYRLRCGGTAEEI"
+      ],
+      "model_file": "data/af3/selected/seq_c32b8ce7c7acd613_n1.cif",
+      "model_sha256": "e031f22158e5b1a4b3d258a9f984572070ff5a5c16f0c24c62cf1f981bc2fb1c",
+      "processed_file": "data/af3/processed/seq_c32b8ce7c7acd613_n1.json",
+      "processed_sha256": "63820ef138b25f980d6d6da3b9ac29c065455402cebf95855ce0257e24bd8349",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "MALLDLALEGMAVFGFVLFLVLWLMHFMAIIYTRLHLNKKATDKQPYSKLPGVSLLKPLKGVDPNLINNLETFFELDYPKYEVLLCVQDHDDPAIDVCKKLLGKYPNVDARLFIGGKKVGINPKINNLMPGYEVAKYDLIWICDSGIRVIPDTLTDMVNQMTEKVGLVHGLPYVADRQGFAATLEQVYFGTSHPRYYISANVTGFKCVTGMSCLMRKDVLDQAGGLIAFAQYIAEDYFMAKAIADRGWRFAMSTQVAMQNSGSYSISQFQSRMIRWTKLRINMLPATIICEPISECFVASLIIGWAAHHVFRWDIMVFFMCHCLAWFIFDYIQLRGVQGGTLCFSKLDYAVAWFIRESMTIYIFLSALWDPTISWRTGRYRLRCGGTAEEI"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_19e33a2cb609d3eb_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "MGSENLYFQGMAGKKNVLSSLAVYAEDSEPESDGEAGIEAVGSTAEEKGGLVSDAYGEDDFSRLGGDEDGYEEEEDENSRQSEDDDSETEKPEADDPKDNTEAEKRDPQELVASFSERVRNMSPDEIKIPPEPPGRCSNHLQDKIQKLYERKIKEGMDMNYIIQRKKEFRNPSIYEKLIQFCAIDELGTNYPKDMFDPHGWSEDSYYEALAKAQKIEMDKLEKAKKERTKIEFVTGTKKGTTTNATSTTTTTASTAVADAQKRKSKWDSAIPVTTIAQPTILTTTATLPAVVTVTTSASGSKTTVISAVGTIVKNAKQ"
+      ],
+      "model_file": "data/af3/selected/seq_19e33a2cb609d3eb_n1.cif",
+      "model_sha256": "3a2ad9daf119f68fcb8765b0d187083d22580530a0948ee75363fd980c5dbba6",
+      "processed_file": "data/af3/processed/seq_19e33a2cb609d3eb_n1.json",
+      "processed_sha256": "98cd5eddcb3dc90fa1455c5c918a4fc284b3a0d7ad9d955453f25fc3a9c4ea3c",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "MGSENLYFQGMAGKKNVLSSLAVYAEDSEPESDGEAGIEAVGSTAEEKGGLVSDAYGEDDFSRLGGDEDGYEEEEDENSRQSEDDDSETEKPEADDPKDNTEAEKRDPQELVASFSERVRNMSPDEIKIPPEPPGRCSNHLQDKIQKLYERKIKEGMDMNYIIQRKKEFRNPSIYEKLIQFCAIDELGTNYPKDMFDPHGWSEDSYYEALAKAQKIEMDKLEKAKKERTKIEFVTGTKKGTTTNATSTTTTTASTAVADAQKRKSKWDSAIPVTTIAQPTILTTTATLPAVVTVTTSASGSKTTVISAVGTIVKNAKQ"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_a6a1d0ba83499312_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "MASGPHSTATAAAAASSAAPSAGGSSSGTTTTTTTTTGGILIGDRLYSEVSLTIDHSLIPEERLSPTPSMQDGLDLPSETDLRILGCELIQAAGILLRLPQVAMATGQVLFHRFFYSKSFVKHSFEIVAMACINLASKIEEAPRRIRDVINVFHHLRQLRGKRTPSPLILDQNYINTKNQVIKAERRVLKELGFCVHVKHPHKIIVMYLQVLECERNQTLVQTAWNYMNDSLRTNVFVRFQPETIACACIYLAARALQIPLPTRPHWFLLFGTTEEEIQEICIETLRLYTRKKPNYELLEKEVEKRKVALQEAKLKAKGLNPDGRIPGLIWSHPQFEKGGGSGGGGGSGGGSGGSSAWSHPQFEK"
+      ],
+      "model_file": "data/af3/selected/seq_a6a1d0ba83499312_n1.cif",
+      "model_sha256": "568cc621cb99200608d84c9793b8f49c140e5baf851b3b7864c48f292de8316e",
+      "processed_file": "data/af3/processed/seq_a6a1d0ba83499312_n1.json",
+      "processed_sha256": "691a1ec0463f721e6ffe1aae42aaceb419d07cc5b60d6f7c0fc23419d2564f6c",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "MASGPHSTATAAAAASSAAPSAGGSSSGTTTTTTTTTGGILIGDRLYSEVSLTIDHSLIPEERLSPTPSMQDGLDLPSETDLRILGCELIQAAGILLRLPQVAMATGQVLFHRFFYSKSFVKHSFEIVAMACINLASKIEEAPRRIRDVINVFHHLRQLRGKRTPSPLILDQNYINTKNQVIKAERRVLKELGFCVHVKHPHKIIVMYLQVLECERNQTLVQTAWNYMNDSLRTNVFVRFQPETIACACIYLAARALQIPLPTRPHWFLLFGTTEEEIQEICIETLRLYTRKKPNYELLEKEVEKRKVALQEAKLKAKGLNPDGRIPGLIWSHPQFEKGGGSGGGGGSGGGSGGSSAWSHPQFEK"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_1df294741dc7918e_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "MADYKDDDDKSGRGAMGALQGCRSVEEFQCLNRIEEGTYGVVYRAKDKKTDEIVALKRLKMEKEKEGFPITSLREINTILKAQHPNIVTVREIVVGSNMDKIYIVMNYVEHDLKSLMETMKQPFLPGEVKTLMIQLLRGVKHLHDNWILHRDLKTSNLLLSHAGILKVGDFGLAREYGSPLKAYTPVVVTLWYRAPELLLGAKEYSTAVDMWSVGCIFGELLTQKPLFPGKSEIDQINKVFKDLGTPSEKIWPGYSELPAVKKMTFSEHPYNNLRKRFGALLSDQGFDLMNKFLTYFPGRRISAEDGLKHEYFRETPLPIDPSMFPKLVEKY"
+      ],
+      "model_file": "data/af3/selected/seq_1df294741dc7918e_n1.cif",
+      "model_sha256": "aa5aa5e8fce898906aa2d2c9b3664e3b71cedc6efc0a402398adc1fff1057614",
+      "processed_file": "data/af3/processed/seq_1df294741dc7918e_n1.json",
+      "processed_sha256": "add5556446fa9e3dc360597f9440d41511cbf108bed01bdcd05e67821d64c769",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "MADYKDDDDKSGRGAMGALQGCRSVEEFQCLNRIEEGTYGVVYRAKDKKTDEIVALKRLKMEKEKEGFPITSLREINTILKAQHPNIVTVREIVVGSNMDKIYIVMNYVEHDLKSLMETMKQPFLPGEVKTLMIQLLRGVKHLHDNWILHRDLKTSNLLLSHAGILKVGDFGLAREYGSPLKAYTPVVVTLWYRAPELLLGAKEYSTAVDMWSVGCIFGELLTQKPLFPGKSEIDQINKVFKDLGTPSEKIWPGYSELPAVKKMTFSEHPYNNLRKRFGALLSDQGFDLMNKFLTYFPGRRISAEDGLKHEYFRETPLPIDPSMFPKLVEKY"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_7549edfd52be0dbe_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "MQPQPSATPDRKQDNKNKNYEKAGLLGFIGLLLVVAVYVAFTGNDVNWGALVFMFISYAIIFYIGSVTAGKKSDSASDMMVAGRSMPLWVAMFTMTATWVGGGYIAGTAETTFASGVVWAQAPWGYGLSLIIGGIFYARKMRRYEFTTMLDPLEVRFGKKVAGVLYLPALLGELFWSAAILVALGTTFGLILGLDFTTSIIISAIIAVAYTFVGGMWSVALTDVAQIIMIIIGMFLVVPFALSEVGGLGQAWGAYKEGMAGFTNLLPPLDGWNHPDWGNYYWNWWDYALLLIFGGIPWQVYFQRVLSAKNEKTAMWLSIAAGFLCIILAVPAVMIGVAGFSADWASYGIEGPGAASEILAYVVNYMSPYLVAIVALGAIAAAVMSSMDSSILSASSMAAWNIYRPLVKPKANGRDIKRTIRVSIILIGLAATIVALNIDSVYTLWYLCADLVYCMLFPQLTTALFDKKANTYGAIAGLSVSLFLRLGGGEPALGLPAFLPYPMIEDGVVLFPFRTLAMVSGLLTIIVVSRLTQKSCPPQPLRKLKTEMQDE"
+      ],
+      "model_file": "data/af3/selected/seq_7549edfd52be0dbe_n1.cif",
+      "model_sha256": "ab8a44b4f1c0cdfe518a809cebf61cf711b554589f1e84bdcab3103c5a12cf7b",
+      "processed_file": "data/af3/processed/seq_7549edfd52be0dbe_n1.json",
+      "processed_sha256": "dcb4e71c47d16bc51996e1c324d130fc729b607d8bd845cce17313c65a91e040",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "MQPQPSATPDRKQDNKNKNYEKAGLLGFIGLLLVVAVYVAFTGNDVNWGALVFMFISYAIIFYIGSVTAGKKSDSASDMMVAGRSMPLWVAMFTMTATWVGGGYIAGTAETTFASGVVWAQAPWGYGLSLIIGGIFYARKMRRYEFTTMLDPLEVRFGKKVAGVLYLPALLGELFWSAAILVALGTTFGLILGLDFTTSIIISAIIAVAYTFVGGMWSVALTDVAQIIMIIIGMFLVVPFALSEVGGLGQAWGAYKEGMAGFTNLLPPLDGWNHPDWGNYYWNWWDYALLLIFGGIPWQVYFQRVLSAKNEKTAMWLSIAAGFLCIILAVPAVMIGVAGFSADWASYGIEGPGAASEILAYVVNYMSPYLVAIVALGAIAAAVMSSMDSSILSASSMAAWNIYRPLVKPKANGRDIKRTIRVSIILIGLAATIVALNIDSVYTLWYLCADLVYCMLFPQLTTALFDKKANTYGAIAGLSVSLFLRLGGGEPALGLPAFLPYPMIEDGVVLFPFRTLAMVSGLLTIIVVSRLTQKSCPPQPLRKLKTEMQDE"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_405e39620655ef71_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "HSLFTCEPITVPRCMKMAYNMTFFPNLMGHYDQSIAAVEMEHFLPLANLECSPNIETFLCKAFVPTCIEQIHVVPPCRKLCEKVYSDCKKLIDTFGIRWPEELECDRLQYCDETVPVTFDPHTEFLGPQKKTEQVQRDIGFWCPRHLKTSGGQGYKFLGIDQCAPPCPNMYFKSDELEFAKSFIGTVSIFCLCATLFTFLTFLIDVRRFRYPERPIIYYSVCYSIVSLMYFIGFLLGDSTACNKADEKLELGDTVVLGSQNKACTVLFMLLYFFTMAGTVWWVILTITWFLAAGRKWSCEAIEQKAVWFHAVAWGTPGFLTVMLLAMNKVEGDNISGVCFVGLYDLDASRYFVLLPLCLCVFVGLSLLLAGIISLNHVRQVIQHDGRNQEKLKKFMIRIGVFSGLYLVPLVTLLGCYVYEQVNRITWEITWVSDHCRQYHIPCPYQAKAKARPELALFMIKYLMTLIVGISAVFWVGSKKTCTEWAGFFKRNRKRDPISESRRVLQEDESCTTASSSLAKDTSS"
+      ],
+      "model_file": "data/af3/selected/seq_405e39620655ef71_n1.cif",
+      "model_sha256": "69ec7439b7f9ded99e00d2e95182853fbec865f62ca8b425b275932978c80a72",
+      "processed_file": "data/af3/processed/seq_405e39620655ef71_n1.json",
+      "processed_sha256": "4ee199a7dee79dfcd7849a5ad3d7ed646a6fc57241ccb97853d9d229f12dd073",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "HSLFTCEPITVPRCMKMAYNMTFFPNLMGHYDQSIAAVEMEHFLPLANLECSPNIETFLCKAFVPTCIEQIHVVPPCRKLCEKVYSDCKKLIDTFGIRWPEELECDRLQYCDETVPVTFDPHTEFLGPQKKTEQVQRDIGFWCPRHLKTSGGQGYKFLGIDQCAPPCPNMYFKSDELEFAKSFIGTVSIFCLCATLFTFLTFLIDVRRFRYPERPIIYYSVCYSIVSLMYFIGFLLGDSTACNKADEKLELGDTVVLGSQNKACTVLFMLLYFFTMAGTVWWVILTITWFLAAGRKWSCEAIEQKAVWFHAVAWGTPGFLTVMLLAMNKVEGDNISGVCFVGLYDLDASRYFVLLPLCLCVFVGLSLLLAGIISLNHVRQVIQHDGRNQEKLKKFMIRIGVFSGLYLVPLVTLLGCYVYEQVNRITWEITWVSDHCRQYHIPCPYQAKAKARPELALFMIKYLMTLIVGISAVFWVGSKKTCTEWAGFFKRNRKRDPISESRRVLQEDESCTTASSSLAKDTSS"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_0082c83eb262b698_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "SDIQMTQSPSSLSASVGDRVTITCRASQSVSSAVAWYQQKPGKAPKLLIYSASSLYSGVPSRFSGSRSGTDFTLTISSLQPEDFATYYCQQYKYVPVTFGQGTKVEIK"
+      ],
+      "model_file": "data/af3/selected/seq_0082c83eb262b698_n1.cif",
+      "model_sha256": "3a80d7a80aad34092be5190803c39eb495d5421012abad94279af98f73d568d8",
+      "processed_file": "data/af3/processed/seq_0082c83eb262b698_n1.json",
+      "processed_sha256": "b5bbaa8df913c002872e729b03ceb7d83d194a50e38364621c4faf48da31d576",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "SDIQMTQSPSSLSASVGDRVTITCRASQSVSSAVAWYQQKPGKAPKLLIYSASSLYSGVPSRFSGSRSGTDFTLTISSLQPEDFATYYCQQYKYVPVTFGQGTKVEIK"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_0cec3842f60e0423_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "MQVQLVESGGGLVQPGGSLRLSCAASGFNVYSSSIHWVRQAPGKGLEWVASISSYYGYTYYADSVKGRFTISADTSKNTAYLQMNSLRAEDTAVYYCARSRQFWYSGLDYWGQGTLVTVSS"
+      ],
+      "model_file": "data/af3/selected/seq_0cec3842f60e0423_n1.cif",
+      "model_sha256": "d1b9aa0e9a50bda75d52856a2942084beb44d308f7b5bf21110a33d3db54a7b5",
+      "processed_file": "data/af3/processed/seq_0cec3842f60e0423_n1.json",
+      "processed_sha256": "db1b5836a71b95cdcfca7ae2ca14880f1810df0c3ca8773ca8ce9dedef892f8e",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "MQVQLVESGGGLVQPGGSLRLSCAASGFNVYSSSIHWVRQAPGKGLEWVASISSYYGYTYYADSVKGRFTISADTSKNTAYLQMNSLRAEDTAVYYCARSRQFWYSGLDYWGQGTLVTVSS"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_316d391c2f2c7c1d_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "MGDKGTRVFKKASPNGKLTVYLGKRDFVDHIDLVDPVDGVVLVDPEYLKERRVYVTLTVAFRYGREDLDVLGLTFRKDLFVANVQSFPPAPEDKKPLTRLQERLIKKLGEHAYPFTFEIPPNLPSSVTLQPGPEDTGKALGVDYEVKAFVAENLEEKIHKRNSVRLVIRKVQYAPERPGPQPTAETTRQFLMSDKPLHLEASLDKEIYYHGEPISVNVHVTNNTNKTVKKIKISVRQYADIVLFNTAQYKVPVAMEEADDTVAPSSTFSKVYTLTPFLANNREKRGLALDGKLKHEDTNLASSTLLREGANREILGIIVSYKVKVKLVVSRSSDVAVELPFTLMHPKPKEEPPHREVPENETPVDTNLIELDTNDDDIVFEDFARQRLKGMKDDKEEEEDGTGSPQLNNR"
+      ],
+      "model_file": "data/af3/selected/seq_316d391c2f2c7c1d_n1.cif",
+      "model_sha256": "0597c34f41d5644e241a4792c7fcdd976ddaa1a030ee5aad69c50dc3e30e11ff",
+      "processed_file": "data/af3/processed/seq_316d391c2f2c7c1d_n1.json",
+      "processed_sha256": "47367c8bf9552a16f2cdac9a701144dc5431cc70b289baa74723183945c2fddd",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "MGDKGTRVFKKASPNGKLTVYLGKRDFVDHIDLVDPVDGVVLVDPEYLKERRVYVTLTVAFRYGREDLDVLGLTFRKDLFVANVQSFPPAPEDKKPLTRLQERLIKKLGEHAYPFTFEIPPNLPSSVTLQPGPEDTGKALGVDYEVKAFVAENLEEKIHKRNSVRLVIRKVQYAPERPGPQPTAETTRQFLMSDKPLHLEASLDKEIYYHGEPISVNVHVTNNTNKTVKKIKISVRQYADIVLFNTAQYKVPVAMEEADDTVAPSSTFSKVYTLTPFLANNREKRGLALDGKLKHEDTNLASSTLLREGANREILGIIVSYKVKVKLVVSRSSDVAVELPFTLMHPKPKEEPPHREVPENETPVDTNLIELDTNDDDIVFEDFARQRLKGMKDDKEEEEDGTGSPQLNNR"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_e6f994fbe194bb67_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "MAKKSAENGIYSVSGDEKKGPLIAPGPDGAPAKGDGPVGLGTPGGRLAVPPRETWTRQMDFIMSCVGFAVGLGNVWRFPYLCYKNGGGVFLIPYVLIALVGGIPIFFLEISLGQFMKAGSINVWNICPLFKGLGYASMVIVFYCNTYYIMVLAWGFYYLVKSFTTTLPWATCGHTWNTPDCVEIFRHEDCANASLANLTCDQLADRRSPVIEFWENKVLRLSGGLEVPGALNWEVTLCLLACWVLVYFCVWKGVKSTGKIVYFTATFPYVVLVVLLVRGVLLPGALDGIIYYLKPDWSKLGSPQVWIDAGTQIFFSYAIGLGALTALGSYNRFNNNCYKDAIILALINSGTSFFAGFVVFSILGFMAAEQGVHISKVAESGPGLAFIAYPRAVTLMPVAPLWAALFFFMLLLLGLDSQFVGVEGFITGLLDLLPASYYFRFQREISVALCCALCFVIDLSMVTDGGMYVFQLFDYYSASGTTLLWQAFWECVVVAWVYGADRFMDDIACMIGYRPCPWMKWCWSFFTPLVCMGIFIFNVVYYEPLVYNNTYVYPWWGEAMGWAFALSSMLCVPLHLLGCLLRAKGTMAERWQHLTQPIWGLHHLEYRAQDADVRGLTTLTPVSESSKVVVVESVM"
+      ],
+      "model_file": "data/af3/selected/seq_e6f994fbe194bb67_n1.cif",
+      "model_sha256": "02893bd494fa9f4fba90b5bbfcd66d20f74fdb9da77f38b362d8ea5700c26968",
+      "processed_file": "data/af3/processed/seq_e6f994fbe194bb67_n1.json",
+      "processed_sha256": "80d7b6791d09f5b619b6bfb4af3c43461741d3b1feaada51a6e772e16529caed",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "MAKKSAENGIYSVSGDEKKGPLIAPGPDGAPAKGDGPVGLGTPGGRLAVPPRETWTRQMDFIMSCVGFAVGLGNVWRFPYLCYKNGGGVFLIPYVLIALVGGIPIFFLEISLGQFMKAGSINVWNICPLFKGLGYASMVIVFYCNTYYIMVLAWGFYYLVKSFTTTLPWATCGHTWNTPDCVEIFRHEDCANASLANLTCDQLADRRSPVIEFWENKVLRLSGGLEVPGALNWEVTLCLLACWVLVYFCVWKGVKSTGKIVYFTATFPYVVLVVLLVRGVLLPGALDGIIYYLKPDWSKLGSPQVWIDAGTQIFFSYAIGLGALTALGSYNRFNNNCYKDAIILALINSGTSFFAGFVVFSILGFMAAEQGVHISKVAESGPGLAFIAYPRAVTLMPVAPLWAALFFFMLLLLGLDSQFVGVEGFITGLLDLLPASYYFRFQREISVALCCALCFVIDLSMVTDGGMYVFQLFDYYSASGTTLLWQAFWECVVVAWVYGADRFMDDIACMIGYRPCPWMKWCWSFFTPLVCMGIFIFNVVYYEPLVYNNTYVYPWWGEAMGWAFALSSMLCVPLHLLGCLLRAKGTMAERWQHLTQPIWGLHHLEYRAQDADVRGLTTLTPVSESSKVVVVESVM"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_5fa440df6a3177d4_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "FLFQPQRF"
+      ],
+      "model_file": "data/af3/selected/seq_5fa440df6a3177d4_n1.cif",
+      "model_sha256": "bec84247e246f7e82c291672b9bd2c52ef7e23290676138f35c3dc260aac45d5",
+      "processed_file": "data/af3/processed/seq_5fa440df6a3177d4_n1.json",
+      "processed_sha256": "b9103b8ea2714adc636db6881117b4c2deb57c50a197ca3b72a3697896cb641a",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "FLFQPQRF"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_f104c7b186d2a003_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "MDGSNVTSFVVEEPTNISTGRNASVGNAHRQIPIVHWVIMSISPVGFVENGILLWFLCFRMRRNPFTVYITHLSIADISLLFCIFILSIDYALDYELSSGHYYTIVTLSVTFLFGYNTGLYLLTAISVERCLSVLYPIWYRCHRPKYQSALVCALLWALSCLVTTMEYVMCIDREEESHSRNDCRAVIIFIAILSFLVFTPLMLVSSTILVVKIRKNTWASHSSKLYIVIMVTIIIFLIFAMPMRLLYLLYYEYWSTFGNLHHISLLFSTINSSANPFIYFFVGSSKKKRFKESLKVVLTRAFKDEMQPRRQKDNCNTVTVETVV"
+      ],
+      "model_file": "data/af3/selected/seq_f104c7b186d2a003_n1.cif",
+      "model_sha256": "6c52cb0d517cd2acb095c13b9f238ce6644ddfb1f7c369bf597e422763f75dc0",
+      "processed_file": "data/af3/processed/seq_f104c7b186d2a003_n1.json",
+      "processed_sha256": "19790b9deb22b4e966aadcf19de2036c0a3aed86f4b82783b8a02298d6c8d938",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "MDGSNVTSFVVEEPTNISTGRNASVGNAHRQIPIVHWVIMSISPVGFVENGILLWFLCFRMRRNPFTVYITHLSIADISLLFCIFILSIDYALDYELSSGHYYTIVTLSVTFLFGYNTGLYLLTAISVERCLSVLYPIWYRCHRPKYQSALVCALLWALSCLVTTMEYVMCIDREEESHSRNDCRAVIIFIAILSFLVFTPLMLVSSTILVVKIRKNTWASHSSKLYIVIMVTIIIFLIFAMPMRLLYLLYYEYWSTFGNLHHISLLFSTINSSANPFIYFFVGSSKKKRFKESLKVVLTRAFKDEMQPRRQKDNCNTVTVETVV"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_d98a1b07bc2a869f_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "MSTQRLRNEDYHDYSSTDVSPEESPSEGLNNLSSPGSYQRFGQSNSTTWFQTLIHLLKGNIGTGLLGLPLAVKNAGIVMGPISLLIIGIVAVHCMGILVKCAHHFCRRLNKSFVDYGDTVMYGLESSPCSWLRNHAHWGRRVVDFFLIVTQLGFCCVYFVFLADNFKQVIEAANGTTNNCHNNETVILTPTMDSRLYMLSFLPFLVLLVFIRNLRALSIFSLLANITMLVSLVMIYQFIVQRIPDPSHLPLVAPWKTYPLFFGTAIFSFEGIGMVLPLENKMKDPRKFPLILYLGMVIVTILYISLGCLGYLQFGANIQGSITLNLPNCWLYQSVKLLYSIGIFFTYALQFYVPAEIIIPFFVSRAPEHCELVVDLFVRTVLVCLTCILAILIPRLDLVISLVGSVSSSALALIIPPLLEVTTFYSEGMSPLTIFKDALISILGFVGFVVGTYEALYELIQPSNAPIFINSTCAFI"
+      ],
+      "model_file": "data/af3/selected/seq_d98a1b07bc2a869f_n1.cif",
+      "model_sha256": "1c49d517c4aea9bb85200be3b3c9f43c272782ad7e1ca554411f19851ed111c1",
+      "processed_file": "data/af3/processed/seq_d98a1b07bc2a869f_n1.json",
+      "processed_sha256": "5b9a72212eeb555b4429de8854d6b2a6e82d70318e4f31c43c71f3441a4f4f21",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "MSTQRLRNEDYHDYSSTDVSPEESPSEGLNNLSSPGSYQRFGQSNSTTWFQTLIHLLKGNIGTGLLGLPLAVKNAGIVMGPISLLIIGIVAVHCMGILVKCAHHFCRRLNKSFVDYGDTVMYGLESSPCSWLRNHAHWGRRVVDFFLIVTQLGFCCVYFVFLADNFKQVIEAANGTTNNCHNNETVILTPTMDSRLYMLSFLPFLVLLVFIRNLRALSIFSLLANITMLVSLVMIYQFIVQRIPDPSHLPLVAPWKTYPLFFGTAIFSFEGIGMVLPLENKMKDPRKFPLILYLGMVIVTILYISLGCLGYLQFGANIQGSITLNLPNCWLYQSVKLLYSIGIFFTYALQFYVPAEIIIPFFVSRAPEHCELVVDLFVRTVLVCLTCILAILIPRLDLVISLVGSVSSSALALIIPPLLEVTTFYSEGMSPLTIFKDALISILGFVGFVVGTYEALYELIQPSNAPIFINSTCAFI"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_2a1867b76ba1e725_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "MSTGKESSKAYADIESRGDYKDDGKKGSTLSSKQHFMLSLTFILIGLSSLNVWNTALGLNINFKYNTFQITGLVCSSIVALFVEIPKIMLPFLLGGLSILCAGFQISHSFFTDTQFDTYCLVAFIVIGVVAGLAQTIAFNIGSTMEDNMGGYMSAGIGISGVFIFVINLLLDQFVSPEKHYGVNKAKLLALYIICELCLILAIVFCVCNLDLTNKNNKKDEENKENNATLSYMELFKDSYKAILTMFLVNWLTLQLFPGVGHKKWQESHNISDYNVTIIVGMFQVFDFLSRYPPNLTHIKIFKNFTFSLNKLLVANSLRLLFIPWFILNACVDHPFFKNIVQQCVCMAMLAFTNGWFNTVPFLVFVKELKKAKKKKEIEIISTFLVIAMFVGLFCGIWTTYIYNLFNIVLPKP"
+      ],
+      "model_file": "data/af3/selected/seq_2a1867b76ba1e725_n1.cif",
+      "model_sha256": "e2373ad12115b9b2e7f718383ff6993b9f42bd09ca71738466b16fa6aca6170f",
+      "processed_file": "data/af3/processed/seq_2a1867b76ba1e725_n1.json",
+      "processed_sha256": "635654a9d005fca4bea159981ed3b8be0c7b168daf00881e82d9c3a8416f8971",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "MSTGKESSKAYADIESRGDYKDDGKKGSTLSSKQHFMLSLTFILIGLSSLNVWNTALGLNINFKYNTFQITGLVCSSIVALFVEIPKIMLPFLLGGLSILCAGFQISHSFFTDTQFDTYCLVAFIVIGVVAGLAQTIAFNIGSTMEDNMGGYMSAGIGISGVFIFVINLLLDQFVSPEKHYGVNKAKLLALYIICELCLILAIVFCVCNLDLTNKNNKKDEENKENNATLSYMELFKDSYKAILTMFLVNWLTLQLFPGVGHKKWQESHNISDYNVTIIVGMFQVFDFLSRYPPNLTHIKIFKNFTFSLNKLLVANSLRLLFIPWFILNACVDHPFFKNIVQQCVCMAMLAFTNGWFNTVPFLVFVKELKKAKKKKEIEIISTFLVIAMFVGLFCGIWTTYIYNLFNIVLPKP"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_b8c4d260a5669b6e_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "WSHPQFEKGGGSGGGSGGSAWSHPQFEKMSSHPYVTQQNTPLADDTTLMSTTDLQSYITHANDTFVQVSGYTLQELQGQPHNMVRHPDMPKAAFADMWFTLKKGEPWSGIVKNRRKNGDHYWVRANAVPMVREGKISGYMSIRTRATDEEIAAVEPLYKALNAGRTSKRIHKGLVVRKGWLGKLPSLPLRWRARGVMTLMFILLAAMLWFVAAPVVTYILCALVVLLASACFEWQIVRPIENVAHQALKVATGERNSVEHLNRSDELGLTLRAVGQLGLMCRWLINDVSSQVSSVRNGSETLAKGTDELNEHTQQTVDNVQQTVATMNQMAASVKQNSATASAADKLSITASNAAVQGGEAMTTVIKTMDDIADSTQRIGTITSLINDIAFQTNILALNAAVEAARAGEQGKGFAVVAGEVRHLASRSANAANDIRKLIDASADKVQSGSQQVHAAGRTMEDIVAQVKNVTQLIAQISHSTLEQADGLSSLTRAVDELNLITQKNAELVEESAQVSAMVKHRASRLEDAVTVLH"
+      ],
+      "model_file": "data/af3/selected/seq_b8c4d260a5669b6e_n1.cif",
+      "model_sha256": "a234182287f389c19488f04cf36410dd4c272df4b364d7629467e0f5ba8a6aca",
+      "processed_file": "data/af3/processed/seq_b8c4d260a5669b6e_n1.json",
+      "processed_sha256": "35f0f223f44192e30fee1c92c59a1f3d8799d27c8a85c30a13245ee9d1ae6e52",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "WSHPQFEKGGGSGGGSGGSAWSHPQFEKMSSHPYVTQQNTPLADDTTLMSTTDLQSYITHANDTFVQVSGYTLQELQGQPHNMVRHPDMPKAAFADMWFTLKKGEPWSGIVKNRRKNGDHYWVRANAVPMVREGKISGYMSIRTRATDEEIAAVEPLYKALNAGRTSKRIHKGLVVRKGWLGKLPSLPLRWRARGVMTLMFILLAAMLWFVAAPVVTYILCALVVLLASACFEWQIVRPIENVAHQALKVATGERNSVEHLNRSDELGLTLRAVGQLGLMCRWLINDVSSQVSSVRNGSETLAKGTDELNEHTQQTVDNVQQTVATMNQMAASVKQNSATASAADKLSITASNAAVQGGEAMTTVIKTMDDIADSTQRIGTITSLINDIAFQTNILALNAAVEAARAGEQGKGFAVVAGEVRHLASRSANAANDIRKLIDASADKVQSGSQQVHAAGRTMEDIVAQVKNVTQLIAQISHSTLEQADGLSSLTRAVDELNLITQKNAELVEESAQVSAMVKHRASRLEDAVTVLH"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_b8c4d260a5669b6e_n2",
+      "copies": 2,
+      "input_chain_ids": [
+        "A",
+        "B"
+      ],
+      "input_sequences": [
+        "WSHPQFEKGGGSGGGSGGSAWSHPQFEKMSSHPYVTQQNTPLADDTTLMSTTDLQSYITHANDTFVQVSGYTLQELQGQPHNMVRHPDMPKAAFADMWFTLKKGEPWSGIVKNRRKNGDHYWVRANAVPMVREGKISGYMSIRTRATDEEIAAVEPLYKALNAGRTSKRIHKGLVVRKGWLGKLPSLPLRWRARGVMTLMFILLAAMLWFVAAPVVTYILCALVVLLASACFEWQIVRPIENVAHQALKVATGERNSVEHLNRSDELGLTLRAVGQLGLMCRWLINDVSSQVSSVRNGSETLAKGTDELNEHTQQTVDNVQQTVATMNQMAASVKQNSATASAADKLSITASNAAVQGGEAMTTVIKTMDDIADSTQRIGTITSLINDIAFQTNILALNAAVEAARAGEQGKGFAVVAGEVRHLASRSANAANDIRKLIDASADKVQSGSQQVHAAGRTMEDIVAQVKNVTQLIAQISHSTLEQADGLSSLTRAVDELNLITQKNAELVEESAQVSAMVKHRASRLEDAVTVLH",
+        "WSHPQFEKGGGSGGGSGGSAWSHPQFEKMSSHPYVTQQNTPLADDTTLMSTTDLQSYITHANDTFVQVSGYTLQELQGQPHNMVRHPDMPKAAFADMWFTLKKGEPWSGIVKNRRKNGDHYWVRANAVPMVREGKISGYMSIRTRATDEEIAAVEPLYKALNAGRTSKRIHKGLVVRKGWLGKLPSLPLRWRARGVMTLMFILLAAMLWFVAAPVVTYILCALVVLLASACFEWQIVRPIENVAHQALKVATGERNSVEHLNRSDELGLTLRAVGQLGLMCRWLINDVSSQVSSVRNGSETLAKGTDELNEHTQQTVDNVQQTVATMNQMAASVKQNSATASAADKLSITASNAAVQGGEAMTTVIKTMDDIADSTQRIGTITSLINDIAFQTNILALNAAVEAARAGEQGKGFAVVAGEVRHLASRSANAANDIRKLIDASADKVQSGSQQVHAAGRTMEDIVAQVKNVTQLIAQISHSTLEQADGLSSLTRAVDELNLITQKNAELVEESAQVSAMVKHRASRLEDAVTVLH"
+      ],
+      "model_file": "data/af3/selected/seq_b8c4d260a5669b6e_n2.cif",
+      "model_sha256": "925aaad3b386688e6cd0c24ce4545ec78fff583df9fddde83c7893956582307a",
+      "processed_file": "data/af3/processed/seq_b8c4d260a5669b6e_n2.json",
+      "processed_sha256": "ba56d39ba2645dcf4d4769fb82cf951a96c636230e7f728f004e9d504cff8f13",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "WSHPQFEKGGGSGGGSGGSAWSHPQFEKMSSHPYVTQQNTPLADDTTLMSTTDLQSYITHANDTFVQVSGYTLQELQGQPHNMVRHPDMPKAAFADMWFTLKKGEPWSGIVKNRRKNGDHYWVRANAVPMVREGKISGYMSIRTRATDEEIAAVEPLYKALNAGRTSKRIHKGLVVRKGWLGKLPSLPLRWRARGVMTLMFILLAAMLWFVAAPVVTYILCALVVLLASACFEWQIVRPIENVAHQALKVATGERNSVEHLNRSDELGLTLRAVGQLGLMCRWLINDVSSQVSSVRNGSETLAKGTDELNEHTQQTVDNVQQTVATMNQMAASVKQNSATASAADKLSITASNAAVQGGEAMTTVIKTMDDIADSTQRIGTITSLINDIAFQTNILALNAAVEAARAGEQGKGFAVVAGEVRHLASRSANAANDIRKLIDASADKVQSGSQQVHAAGRTMEDIVAQVKNVTQLIAQISHSTLEQADGLSSLTRAVDELNLITQKNAELVEESAQVSAMVKHRASRLEDAVTVLH",
+        "WSHPQFEKGGGSGGGSGGSAWSHPQFEKMSSHPYVTQQNTPLADDTTLMSTTDLQSYITHANDTFVQVSGYTLQELQGQPHNMVRHPDMPKAAFADMWFTLKKGEPWSGIVKNRRKNGDHYWVRANAVPMVREGKISGYMSIRTRATDEEIAAVEPLYKALNAGRTSKRIHKGLVVRKGWLGKLPSLPLRWRARGVMTLMFILLAAMLWFVAAPVVTYILCALVVLLASACFEWQIVRPIENVAHQALKVATGERNSVEHLNRSDELGLTLRAVGQLGLMCRWLINDVSSQVSSVRNGSETLAKGTDELNEHTQQTVDNVQQTVATMNQMAASVKQNSATASAADKLSITASNAAVQGGEAMTTVIKTMDDIADSTQRIGTITSLINDIAFQTNILALNAAVEAARAGEQGKGFAVVAGEVRHLASRSANAANDIRKLIDASADKVQSGSQQVHAAGRTMEDIVAQVKNVTQLIAQISHSTLEQADGLSSLTRAVDELNLITQKNAELVEESAQVSAMVKHRASRLEDAVTVLH"
+      ],
+      "output_chain_count": 2,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_13d8e6234c4036ba_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "GPMAPNASTLTVHVRSEEWDLMTFDANPYDSVKKIKEHVRSKTKVPVQDQVLLLGSKILKPRRSLSSYGIDKEKTIHLTLKVVKPSDEELPLFLVESGDEAKRHLLQVRRSSSVAQVKAMIETKTGIIPETQIVTLNGKRLEDGKMMADYGIRKGNLLFLASYSIGG"
+      ],
+      "model_file": "data/af3/selected/seq_13d8e6234c4036ba_n1.cif",
+      "model_sha256": "29f67afe27585a68daf375d850ff8cd883f0e85298960c02201838b76101d819",
+      "processed_file": "data/af3/processed/seq_13d8e6234c4036ba_n1.json",
+      "processed_sha256": "6b1ea4ad4d897dd6fb3ce1583f6c2c5bf80591c8c42360525ddc91ebb2d08edd",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "GPMAPNASTLTVHVRSEEWDLMTFDANPYDSVKKIKEHVRSKTKVPVQDQVLLLGSKILKPRRSLSSYGIDKEKTIHLTLKVVKPSDEELPLFLVESGDEAKRHLLQVRRSSSVAQVKAMIETKTGIIPETQIVTLNGKRLEDGKMMADYGIRKGNLLFLASYSIGG"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_257c0d39864cddf8_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "GPMEGSEPVAAHQGEEASCSSWGTGSTNKNLPIMSTASVEIDDALYSRQRYVLGDTAMQKMAKSHVFLSGMGGLGLEIAKNLVLAGIKAVTIHDTEKCQAWDLGTNFFLSEDDVVNKRNRAEAVLKHIAELNPYVHVTSSSVPFNETTDLSFLDKYQCVVLTEMKLPLQKKINDFCRSQCPPIKFISADVHGIWSRLFCDFGDEFEVLDTTGEEPKEIFISNITQANPGIVTCLENHPHKLETGQFLTFREINGMTGLNGSIQQITVISPFSFSIGDTTELEPYLHGGIAVQVKTPKTVFFESLERQLKHPKCLIVDFSNPEAPLEIHTAMLALDQFQEKYSRKPNVGCQQDSEELLKLATSISETLEEKPDVNADIVHWLSWTAQGFLSPLAAAVGGVASQEVLKAVTGKFSPLCQWLYLEAADIVESLGKPECEEFLPRGDRYDALRACIGDTLCQKLQNLNIFLVGCGAIGCEMLKNFALLGVGTSKEKGMITVTDPDLIEKSNLNRQFLFRPHHIQKPKSYTAADATLKINSQIKIDAHLNKVCPTTETIYNDEFYTKQDVIITALDNVEARRYVDSRCLANLRPLLDSGTMGTKGHTEVIVPHLTESYNSHRDPPEEEIPFCTLKSFPAAIEHTIQWARDKFESSFSHKPSLFNKFWQTYSSAEEVLQKIQSGHSLEGCFQVIKLLSRRPRNWSQCVELARLKFEKYFNHKALQLLHCFPLDIRLKDGSLFWQSPKRPPSPIKFDLNEPLHLSFLQNAAKLYATVYCIPFAEEDLSADALLNILSEVKIQEFKPSNKVVQTDETARKPDHVPISSEDERNAIFQLEKAILSNEATKSDLQMAVLSFEKDDDHNGHIDFITAASNLRAKMYSIEPADRFKTKRIAGKIIPAIATTTATVSGLVALEMIKVTGGYPFEAYKNCFLNLAIPIVVFTETTEVRKTKIRNGISFTIWDRWTVHGKEDFTLLDFINAVKEKYGIEPTMVVQGVKMLYVPVMPGHAKRLKLTMHKLVKPTTEKKYVDLTVSFAPDIDGDEDLPGPPVRYYFSHDTD"
+      ],
+      "model_file": "data/af3/selected/seq_257c0d39864cddf8_n1.cif",
+      "model_sha256": "08a4212a699644a124cdc794af547abbdaccbe3b17b1bdc3e969bf216c57b22b",
+      "processed_file": "data/af3/processed/seq_257c0d39864cddf8_n1.json",
+      "processed_sha256": "e2c984ded980b115c9d9b2e458b95e4714bf5330745e23a745dcf4e0df58bb3b",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "GPMEGSEPVAAHQGEEASCSSWGTGSTNKNLPIMSTASVEIDDALYSRQRYVLGDTAMQKMAKSHVFLSGMGGLGLEIAKNLVLAGIKAVTIHDTEKCQAWDLGTNFFLSEDDVVNKRNRAEAVLKHIAELNPYVHVTSSSVPFNETTDLSFLDKYQCVVLTEMKLPLQKKINDFCRSQCPPIKFISADVHGIWSRLFCDFGDEFEVLDTTGEEPKEIFISNITQANPGIVTCLENHPHKLETGQFLTFREINGMTGLNGSIQQITVISPFSFSIGDTTELEPYLHGGIAVQVKTPKTVFFESLERQLKHPKCLIVDFSNPEAPLEIHTAMLALDQFQEKYSRKPNVGCQQDSEELLKLATSISETLEEKPDVNADIVHWLSWTAQGFLSPLAAAVGGVASQEVLKAVTGKFSPLCQWLYLEAADIVESLGKPECEEFLPRGDRYDALRACIGDTLCQKLQNLNIFLVGCGAIGCEMLKNFALLGVGTSKEKGMITVTDPDLIEKSNLNRQFLFRPHHIQKPKSYTAADATLKINSQIKIDAHLNKVCPTTETIYNDEFYTKQDVIITALDNVEARRYVDSRCLANLRPLLDSGTMGTKGHTEVIVPHLTESYNSHRDPPEEEIPFCTLKSFPAAIEHTIQWARDKFESSFSHKPSLFNKFWQTYSSAEEVLQKIQSGHSLEGCFQVIKLLSRRPRNWSQCVELARLKFEKYFNHKALQLLHCFPLDIRLKDGSLFWQSPKRPPSPIKFDLNEPLHLSFLQNAAKLYATVYCIPFAEEDLSADALLNILSEVKIQEFKPSNKVVQTDETARKPDHVPISSEDERNAIFQLEKAILSNEATKSDLQMAVLSFEKDDDHNGHIDFITAASNLRAKMYSIEPADRFKTKRIAGKIIPAIATTTATVSGLVALEMIKVTGGYPFEAYKNCFLNLAIPIVVFTETTEVRKTKIRNGISFTIWDRWTVHGKEDFTLLDFINAVKEKYGIEPTMVVQGVKMLYVPVMPGHAKRLKLTMHKLVKPTTEKKYVDLTVSFAPDIDGDEDLPGPPVRYYFSHDTD"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_d428e75d243f0deb_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "MSVGVSTSAPLSPTSGTSVGMSTFSIMDYVVFVLLLVLSLAIGLYHACRGWGRHTVGELLMADRKMGCLPVALSLLATFQSAVAILGVPSEIYRFGTQYWFLGCCYFLGLLIPAHIFIPVFYRLHLTSAYEYLELRFNKTVRVCGTVTFIFQMVIYMGVVLYAPSLALNAVTGFDLWLSVLALGIVCTVYTALGGLKAVIWTDVFQTLVMFLGQLAVIIVGSAKVGGLGRVWAVASQHGRISGFELDPDPFVRHTFWTLAFGGVFMMLSLYGVNQAQVQRYLSSRTEKAAVLSCYAVFPFQQVSLCVGCLIGLVMFAYYQEYPMSIQQAQAAPDQFVLYFVMDLLKGLPGLPGLFIACLFSGSLSTISSAFNSLATVTMEDLIRPWFPEFSEARAIMLSRGLAFGYGLLCLGMAYISSQMGPVLQAAISIFGMVGGPLLGLFCLGMFFPCANPPGAVVGLLAGLVMAFWIGIGSIVTSMGSSMSRLEEELRRRLTETGLQRFYSLSYLWYSAHNSTTVIVVGLIVSLLTGRMRGRSLNPATIYPVLPKLLSLLPLSCQKRLHCRSYGQDHLDTGLFPEKPRNGVLGDSRDKEAMALDGTAYQGSSSTCILQETSLSNSLEVLFQ"
+      ],
+      "model_file": "data/af3/selected/seq_d428e75d243f0deb_n1.cif",
+      "model_sha256": "2b6e19184538edcf7c593894ae7b8e893e5af8125dcba20058a03c890401086e",
+      "processed_file": "data/af3/processed/seq_d428e75d243f0deb_n1.json",
+      "processed_sha256": "db5259f62119160955f8c31bb331638f1fd2ce889d3419d7b4fe93f5ae8b0fc6",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "MSVGVSTSAPLSPTSGTSVGMSTFSIMDYVVFVLLLVLSLAIGLYHACRGWGRHTVGELLMADRKMGCLPVALSLLATFQSAVAILGVPSEIYRFGTQYWFLGCCYFLGLLIPAHIFIPVFYRLHLTSAYEYLELRFNKTVRVCGTVTFIFQMVIYMGVVLYAPSLALNAVTGFDLWLSVLALGIVCTVYTALGGLKAVIWTDVFQTLVMFLGQLAVIIVGSAKVGGLGRVWAVASQHGRISGFELDPDPFVRHTFWTLAFGGVFMMLSLYGVNQAQVQRYLSSRTEKAAVLSCYAVFPFQQVSLCVGCLIGLVMFAYYQEYPMSIQQAQAAPDQFVLYFVMDLLKGLPGLPGLFIACLFSGSLSTISSAFNSLATVTMEDLIRPWFPEFSEARAIMLSRGLAFGYGLLCLGMAYISSQMGPVLQAAISIFGMVGGPLLGLFCLGMFFPCANPPGAVVGLLAGLVMAFWIGIGSIVTSMGSSMSRLEEELRRRLTETGLQRFYSLSYLWYSAHNSTTVIVVGLIVSLLTGRMRGRSLNPATIYPVLPKLLSLLPLSCQKRLHCRSYGQDHLDTGLFPEKPRNGVLGDSRDKEAMALDGTAYQGSSSTCILQETSLSNSLEVLFQ"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_bc4c209947ec9880_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "MAQQWSLQRLAGRHPQDSYEDSTQSSIFTYTNSNSTRGPFEGPNYHIAPRWVYHLTSVWMIFVVIASVFTNGLVLAATMKFKKLRHPLNWILVNLAVADLAETVIASTISVVNQVYGYFVLGHPMCVLEGYTVSLCGITGLWSLAIISWERWMVVCKPFGNVRFDAKLAIVGIVFSWVWAAVWTAPPIFGWSRYWPHGLKTSCGPDVFSGSSYPGVQSYMIVLMVTCCITPLTIIVLCYLQVWLAIRAVAADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAGSGSGHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTINAYIQKYGSTQKAEKEVTRMVVVMFLAFCFCWGPYAFFACFAAANPGYAFHPLMAALPAYFAKSATIYNPIIYVFMNRQFRNCILQLFGKKVDDGSELEVLFQ"
+      ],
+      "model_file": "data/af3/selected/seq_bc4c209947ec9880_n1.cif",
+      "model_sha256": "7495fb6fa0f8ecce969b10b9c19a539d907c27c89e44e8c5de63df4038e3c40e",
+      "processed_file": "data/af3/processed/seq_bc4c209947ec9880_n1.json",
+      "processed_sha256": "a2d81de7ba2a1242a3f29388fb16ca363c6d4cc9f3c1631d0c079a99e5be9ba7",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "MAQQWSLQRLAGRHPQDSYEDSTQSSIFTYTNSNSTRGPFEGPNYHIAPRWVYHLTSVWMIFVVIASVFTNGLVLAATMKFKKLRHPLNWILVNLAVADLAETVIASTISVVNQVYGYFVLGHPMCVLEGYTVSLCGITGLWSLAIISWERWMVVCKPFGNVRFDAKLAIVGIVFSWVWAAVWTAPPIFGWSRYWPHGLKTSCGPDVFSGSSYPGVQSYMIVLMVTCCITPLTIIVLCYLQVWLAIRAVAADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAGSGSGHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTINAYIQKYGSTQKAEKEVTRMVVVMFLAFCFCWGPYAFFACFAAANPGYAFHPLMAALPAYFAKSATIYNPIIYVFMNRQFRNCILQLFGKKVDDGSELEVLFQ"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_93d3ae7ae6bedc4a_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "MKFRRLHNWNHIEQCTALIYFTELMEELLFDYTHSTYKPSIMNTPSLCIEAISTIDDIEKGNISPAHISHVIDELTKNIKNDDIAISLLKNPLGSFLDQLQNNQLGNKNLKITLELLRVQLNVGNYESKLISELCSTITSEYNPNKIRKFTRLLITHLISKGLSQEYLMESLKKHFFQREREISSNEEIITFLENIPSETQEYSVYFNAEKSFSYITPCLSQLEIEVVLETPENINETDFFDNHEQRTILVKHVKALDPFTARRVAERNLKLASTLLSLYHHKQEASWSAENIVVSENGEKINIRSSINPMHRCKDLVQEHASRRLEQFMNNFRMRKDSFNKFIRSVQLHSMALQTNAVENQLLNLWIAIESLIPDESKKEEQSTIEHIVNSLTPFLNLNYIEDLVRNLIKDLQRWNHPRTMSLLRLIGDSDAAKSFVILVASQEHAPSINQFKIELSQFPLLKERFEYISNLISSTDTMYQALKNHAERINWQIRRIYRTRNLIVHTGKTPSKTNVLVEHAHIYLDAVINSLIKLSSHPVEILSVAQGFENVEMKYKMYIQKLNKKNIELTPENIISFIFNQLESGHHHHHH"
+      ],
+      "model_file": "data/af3/selected/seq_93d3ae7ae6bedc4a_n1.cif",
+      "model_sha256": "964708d64e2290938061f8ce99d82cc83807e75f7fd47c7b72148a6e7ac23880",
+      "processed_file": "data/af3/processed/seq_93d3ae7ae6bedc4a_n1.json",
+      "processed_sha256": "2e9fc9db7beb8f2bfa5723d3358881133c7ea561a4f8291d02b781e8395993a3",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "MKFRRLHNWNHIEQCTALIYFTELMEELLFDYTHSTYKPSIMNTPSLCIEAISTIDDIEKGNISPAHISHVIDELTKNIKNDDIAISLLKNPLGSFLDQLQNNQLGNKNLKITLELLRVQLNVGNYESKLISELCSTITSEYNPNKIRKFTRLLITHLISKGLSQEYLMESLKKHFFQREREISSNEEIITFLENIPSETQEYSVYFNAEKSFSYITPCLSQLEIEVVLETPENINETDFFDNHEQRTILVKHVKALDPFTARRVAERNLKLASTLLSLYHHKQEASWSAENIVVSENGEKINIRSSINPMHRCKDLVQEHASRRLEQFMNNFRMRKDSFNKFIRSVQLHSMALQTNAVENQLLNLWIAIESLIPDESKKEEQSTIEHIVNSLTPFLNLNYIEDLVRNLIKDLQRWNHPRTMSLLRLIGDSDAAKSFVILVASQEHAPSINQFKIELSQFPLLKERFEYISNLISSTDTMYQALKNHAERINWQIRRIYRTRNLIVHTGKTPSKTNVLVEHAHIYLDAVINSLIKLSSHPVEILSVAQGFENVEMKYKMYIQKLNKKNIELTPENIISFIFNQLESGHHHHHH"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_93d3ae7ae6bedc4a_n2",
+      "copies": 2,
+      "input_chain_ids": [
+        "A",
+        "B"
+      ],
+      "input_sequences": [
+        "MKFRRLHNWNHIEQCTALIYFTELMEELLFDYTHSTYKPSIMNTPSLCIEAISTIDDIEKGNISPAHISHVIDELTKNIKNDDIAISLLKNPLGSFLDQLQNNQLGNKNLKITLELLRVQLNVGNYESKLISELCSTITSEYNPNKIRKFTRLLITHLISKGLSQEYLMESLKKHFFQREREISSNEEIITFLENIPSETQEYSVYFNAEKSFSYITPCLSQLEIEVVLETPENINETDFFDNHEQRTILVKHVKALDPFTARRVAERNLKLASTLLSLYHHKQEASWSAENIVVSENGEKINIRSSINPMHRCKDLVQEHASRRLEQFMNNFRMRKDSFNKFIRSVQLHSMALQTNAVENQLLNLWIAIESLIPDESKKEEQSTIEHIVNSLTPFLNLNYIEDLVRNLIKDLQRWNHPRTMSLLRLIGDSDAAKSFVILVASQEHAPSINQFKIELSQFPLLKERFEYISNLISSTDTMYQALKNHAERINWQIRRIYRTRNLIVHTGKTPSKTNVLVEHAHIYLDAVINSLIKLSSHPVEILSVAQGFENVEMKYKMYIQKLNKKNIELTPENIISFIFNQLESGHHHHHH",
+        "MKFRRLHNWNHIEQCTALIYFTELMEELLFDYTHSTYKPSIMNTPSLCIEAISTIDDIEKGNISPAHISHVIDELTKNIKNDDIAISLLKNPLGSFLDQLQNNQLGNKNLKITLELLRVQLNVGNYESKLISELCSTITSEYNPNKIRKFTRLLITHLISKGLSQEYLMESLKKHFFQREREISSNEEIITFLENIPSETQEYSVYFNAEKSFSYITPCLSQLEIEVVLETPENINETDFFDNHEQRTILVKHVKALDPFTARRVAERNLKLASTLLSLYHHKQEASWSAENIVVSENGEKINIRSSINPMHRCKDLVQEHASRRLEQFMNNFRMRKDSFNKFIRSVQLHSMALQTNAVENQLLNLWIAIESLIPDESKKEEQSTIEHIVNSLTPFLNLNYIEDLVRNLIKDLQRWNHPRTMSLLRLIGDSDAAKSFVILVASQEHAPSINQFKIELSQFPLLKERFEYISNLISSTDTMYQALKNHAERINWQIRRIYRTRNLIVHTGKTPSKTNVLVEHAHIYLDAVINSLIKLSSHPVEILSVAQGFENVEMKYKMYIQKLNKKNIELTPENIISFIFNQLESGHHHHHH"
+      ],
+      "model_file": "data/af3/selected/seq_93d3ae7ae6bedc4a_n2.cif",
+      "model_sha256": "79d26b01b01830f123bc6a44d9a1e102d77bd5113d546ef47983b2d9292109f8",
+      "processed_file": "data/af3/processed/seq_93d3ae7ae6bedc4a_n2.json",
+      "processed_sha256": "c0c8bbd85c95d22b667dd8bbcabac93e529c095baa068277c4957ab2498d45e2",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "MKFRRLHNWNHIEQCTALIYFTELMEELLFDYTHSTYKPSIMNTPSLCIEAISTIDDIEKGNISPAHISHVIDELTKNIKNDDIAISLLKNPLGSFLDQLQNNQLGNKNLKITLELLRVQLNVGNYESKLISELCSTITSEYNPNKIRKFTRLLITHLISKGLSQEYLMESLKKHFFQREREISSNEEIITFLENIPSETQEYSVYFNAEKSFSYITPCLSQLEIEVVLETPENINETDFFDNHEQRTILVKHVKALDPFTARRVAERNLKLASTLLSLYHHKQEASWSAENIVVSENGEKINIRSSINPMHRCKDLVQEHASRRLEQFMNNFRMRKDSFNKFIRSVQLHSMALQTNAVENQLLNLWIAIESLIPDESKKEEQSTIEHIVNSLTPFLNLNYIEDLVRNLIKDLQRWNHPRTMSLLRLIGDSDAAKSFVILVASQEHAPSINQFKIELSQFPLLKERFEYISNLISSTDTMYQALKNHAERINWQIRRIYRTRNLIVHTGKTPSKTNVLVEHAHIYLDAVINSLIKLSSHPVEILSVAQGFENVEMKYKMYIQKLNKKNIELTPENIISFIFNQLESGHHHHHH",
+        "MKFRRLHNWNHIEQCTALIYFTELMEELLFDYTHSTYKPSIMNTPSLCIEAISTIDDIEKGNISPAHISHVIDELTKNIKNDDIAISLLKNPLGSFLDQLQNNQLGNKNLKITLELLRVQLNVGNYESKLISELCSTITSEYNPNKIRKFTRLLITHLISKGLSQEYLMESLKKHFFQREREISSNEEIITFLENIPSETQEYSVYFNAEKSFSYITPCLSQLEIEVVLETPENINETDFFDNHEQRTILVKHVKALDPFTARRVAERNLKLASTLLSLYHHKQEASWSAENIVVSENGEKINIRSSINPMHRCKDLVQEHASRRLEQFMNNFRMRKDSFNKFIRSVQLHSMALQTNAVENQLLNLWIAIESLIPDESKKEEQSTIEHIVNSLTPFLNLNYIEDLVRNLIKDLQRWNHPRTMSLLRLIGDSDAAKSFVILVASQEHAPSINQFKIELSQFPLLKERFEYISNLISSTDTMYQALKNHAERINWQIRRIYRTRNLIVHTGKTPSKTNVLVEHAHIYLDAVINSLIKLSSHPVEILSVAQGFENVEMKYKMYIQKLNKKNIELTPENIISFIFNQLESGHHHHHH"
+      ],
+      "output_chain_count": 2,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_61969b08c49450ec_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "MRSSLLTLPKSFLGFMPLYLAVEIVLGISILNKCSGAYGILALFTGHPLDFMQWIAYLWSVFTLIVFSQGLYLIHKPNLLVFSQICVLYTIDTISTCFFTLWFTTQWFTLEDTANIDGNNALQSNPISTGKLTERGIDISKQSATESYEYTMTILITLVSLIFRFYFNFILASFVQELLHHPKYLVDRDDVEQNLKNKPIWKRLWAKSQKGCYKLCKNLLE"
+      ],
+      "model_file": "data/af3/selected/seq_61969b08c49450ec_n1.cif",
+      "model_sha256": "754d1f1c8f335ba0812f0a065853b03b6ec1239d61a3a0da304a16cbaf053e60",
+      "processed_file": "data/af3/processed/seq_61969b08c49450ec_n1.json",
+      "processed_sha256": "af4316f8ba20a4045ed78519c7cdb305c77a76d0482b8129c84a358f11a60c13",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "MRSSLLTLPKSFLGFMPLYLAVEIVLGISILNKCSGAYGILALFTGHPLDFMQWIAYLWSVFTLIVFSQGLYLIHKPNLLVFSQICVLYTIDTISTCFFTLWFTTQWFTLEDTANIDGNNALQSNPISTGKLTERGIDISKQSATESYEYTMTILITLVSLIFRFYFNFILASFVQELLHHPKYLVDRDDVEQNLKNKPIWKRLWAKSQKGCYKLCKNLLE"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    },
+    {
+      "job": "seq_fc7941a4a08369e2_n1",
+      "copies": 1,
+      "input_chain_ids": [
+        "A"
+      ],
+      "input_sequences": [
+        "MANPFSRWFLSERPPNCHVADLETSLDPHQTLLKVQKYKPALSDWVHYIFLGSIMLFVFITNPAPWIFKILFYCFLGTLFIIPATSQFFFNALPILTWVALYFTSSYFPDDRRPPITVKVLPAVETILYGDNLSDILATSTNSFLDILAWLPYGLFHFGAPFVVAAILFVFGPPTVLQGYAFAFGYMNLFGVIMQNVFPAAPPWYKILYGLQSANYDMHGSPGGLARIDKLLGINMYTTAFSNSSVIFGAFPSLHSGCATMEALFFCYCFPKLKPLFIAYVCWLWWSTMYLTHHYFVDLMAGSVLSYVIFQYTKYTHLPIVDTSLFCRWSYTSIEKYDISKSDPLAADSNDIESVPLSNLELDFDLNMTDEPSVSPSLFDGSTSVSRSSATSITSLGVKRA"
+      ],
+      "model_file": "data/af3/selected/seq_fc7941a4a08369e2_n1.cif",
+      "model_sha256": "8d158505a68ac85c8f8e2109be667549cebf5fdb099632e2370229cbc86be4df",
+      "processed_file": "data/af3/processed/seq_fc7941a4a08369e2_n1.json",
+      "processed_sha256": "602c1b9beaeb282bc7cf78937c5fc9a06b9ad8779e49811273634a61bf98b08d",
+      "seed": 1,
+      "samples": 5,
+      "selected_by": "native intrinsic top-ranked export; no reference used",
+      "model_sequences": [
+        "MANPFSRWFLSERPPNCHVADLETSLDPHQTLLKVQKYKPALSDWVHYIFLGSIMLFVFITNPAPWIFKILFYCFLGTLFIIPATSQFFFNALPILTWVALYFTSSYFPDDRRPPITVKVLPAVETILYGDNLSDILATSTNSFLDILAWLPYGLFHFGAPFVVAAILFVFGPPTVLQGYAFAFGYMNLFGVIMQNVFPAAPPWYKILYGLQSANYDMHGSPGGLARIDKLLGINMYTTAFSNSSVIFGAFPSLHSGCATMEALFFCYCFPKLKPLFIAYVCWLWWSTMYLTHHYFVDLMAGSVLSYVIFQYTKYTHLPIVDTSLFCRWSYTSIEKYDISKSDPLAADSNDIESVPLSNLELDFDLNMTDEPSVSPSLFDGSTSVSRSSATSITSLGVKRA"
+      ],
+      "output_chain_count": 1,
+      "input_output_chain_contract": "passed"
+    }
+  ]
+}

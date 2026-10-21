@@ -1,0 +1,63 @@
+{
+  "methods": [
+    {
+      "name": "MICA",
+      "year": 2025,
+      "publication_date": "2025-10-31",
+      "repo": "jianlin-cheng/MICA",
+      "commit": "726d1bb14be04887a43b7f5aefcff0d843761d01",
+      "role": "Required target",
+      "paper": "https://doi.org/10.1038/s42004-025-01718-5"
+    },
+    {
+      "name": "ModelAngelo",
+      "year": 2024,
+      "repo": "3dem/model-angelo",
+      "commit": "994945bdfa6e5368e0d62349a47792f4864eebc3",
+      "role": "Required original comparator",
+      "paper": "https://doi.org/10.1038/s41586-024-07215-4",
+      "publication_date": "2024-02-26"
+    },
+    {
+      "name": "EModelX(+AF3)",
+      "year": 2024,
+      "repo": "biomed-AI/EModelX",
+      "commit": "53713cf820d10d78b1ca6669ef197850cf907843",
+      "role": "Required EModelX comparator algorithm using documented supplied-template mode and project AF3 inputs; not an exact replication of the original paper AF2 upstream configuration.",
+      "paper": "https://doi.org/10.1038/s41467-024-53116-5",
+      "publication_date": "2024-10-11"
+    },
+    {
+      "name": "CryoAtom",
+      "year": 2025,
+      "publication_date": "2025-11-14",
+      "repo": "YangLab-SDU/CryoAtom",
+      "commit": "e2a31f2b2ff21fae363490ac5f4a5e945513024c",
+      "role": "Newer peer-reviewed comparator; commit before CryoAtom2 prerelease",
+      "paper": "https://doi.org/10.1038/s41594-025-01713-3"
+    },
+    {
+      "name": "EMProt",
+      "year": 2025,
+      "publication_date": "2025-12-08",
+      "repo": "huang-laboratory/EMProt",
+      "commit": "9489d52e7fdc81c85ba82e386abcfa05bac2b9d1",
+      "role": "Newer peer-reviewed comparator; predicted-structure-assisted mode",
+      "paper": "https://doi.org/10.1038/s41594-025-01723-1"
+    },
+    {
+      "name": "CryoAtom2 v2.0",
+      "year": 2026,
+      "repo": "YangLab-SDU/CryoAtom",
+      "commit": "856e250df7b784b854b892f1b619d32d51188cef",
+      "weights": "original public v2.0, not v2.1",
+      "paper": "https://doi.org/10.65215/LTSpreprints.2026.04.14.000185"
+    }
+  ],
+  "af3_commit": "ebfe70a27a6a1ad18c77664191c5f7fa486ebee9",
+  "phenix": "2.2.1-6174",
+  "af3_seed": 1,
+  "af3_diffusion_samples": 5,
+  "af3_template_max_date": "2025-12-31",
+  "cryoatom2_weights": "original v2.0 checkpoints; maintenance code pinned separately"
+}

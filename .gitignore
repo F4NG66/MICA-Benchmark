@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+*.tar.gz
+*.zip
+benchmark_data/
+rescored/
+.env
+!third_party/USalign_source_1fa25a9.tar.gz

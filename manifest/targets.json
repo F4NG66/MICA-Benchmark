@@ -1,0 +1,1480 @@
+{
+  "targets": [
+    {
+      "pdb_id": "9Y6N",
+      "title": "Extracellular domain of human FAM171A2",
+      "pdb_release": "2026-07-22",
+      "emdb_ids": [
+        "EMD-72623"
+      ],
+      "resolution": 2.68,
+      "chain_count": 3,
+      "construct_residue_count": 816,
+      "entities": [
+        {
+          "entity_id": "1",
+          "sequence": "LEVLFQGPSPQEILIKVQVYVSGELVPLARASVDVFGNRTLLAAGTTDSEGVATLPLSYRLGTWVLVTAARPGFLTNSVPWRVDKLPLYASVSLYLLPERPATLILYEDLVHILLGSPGARSQPLVQFQRRAARLPVSSTYSQLWASLTPASTQQEMRAFPAFLGTEASSSGNGSWLELIPLAAVSVHLLTGNGTEVPLSGPIHLSLPVPSEPRALAVGTSIPAWRFDPKSGLWVRNGTGVIRKEGRQLYWTFVSPQLGYWVAAMALEVLFQ",
+          "asym_ids": [
+            "A",
+            "B",
+            "C"
+          ],
+          "auth_asym_ids": [
+            "A",
+            "B",
+            "C"
+          ],
+          "uniprot_ids": [
+            "A2A699"
+          ]
+        }
+      ],
+      "doi": "10.1101/2025.09.18.675241",
+      "pubmed": null,
+      "exclusion_reasons": [],
+      "exact_sequence_set": "89178be8896c4bde2333c2fa6391b007fd613da48b6350cd5ef70bc5da65da9d",
+      "sampling_key": "1cfbab187712c0bcf3b1c9a76e753c8ebb45a31f097a2bef62b60fd7a768fcea",
+      "emdb_map_release": "2026-07-22",
+      "emdb_header_release": "2026-07-22",
+      "pdb_map_relationship": [
+        {
+          "in_frame": "FULLOVERLAP"
+        }
+      ],
+      "map_dimensions": {
+        "col": 192,
+        "row": 192,
+        "sec": 192
+      },
+      "map_size_kbytes": 28312,
+      "map_contours": [
+        {
+          "instance_type": "contour",
+          "level": 0.04,
+          "primary": true,
+          "source": "AUTHOR"
+        }
+      ],
+      "map_filename": "emd_72623.map.gz",
+      "emdb_resolution": [
+        "2.68"
+      ],
+      "screen_status": "metadata_checked_not_final",
+      "evaluated_assembly_chain_count": 3,
+      "evaluated_assembly_construct_residues": 816,
+      "map_physical_extents_crs_A": [
+        159.93599999999998,
+        159.93599999999998,
+        159.93599999999998
+      ],
+      "scope_decision": "counts_compatible_other_qc_pending",
+      "primary_study_group": "study_9Y6N",
+      "homolog_group": "homolog_group_0575",
+      "qc_cell": [
+        0,
+        1
+      ],
+      "known_training_any_full_chain_match_30pct": false,
+      "requires_assembly_reference_adapter": false,
+      "sampling_stratum": 0,
+      "qc_rank_in_cell": 5,
+      "selection_status": "frozen_formal30_v1",
+      "selection_basis": "User-requested small-target budget; unchanged seed20261007 hash ordering; study/homolog deduplication; no formal method scores used",
+      "input_hashes": {
+        "original_map_gz": "ffe1f9c40eb56a5102a501cc92f75d9755a1b642fb4e86539f8d24364f84b508",
+        "reference_cif_gz": "4333b548ced4b1fd5cab63ae6218b62bf76b2c9c291344ffec13f1633f8603a8"
+      },
+      "reference_ca_count": 735,
+      "reference_review_flags": [],
+      "manual_map_review": "Original fixed-coordinate XY/XZ/YZ projections inspected; correspondence accepted, unassigned peripheral density retained with notes where applicable."
+    },
+    {
+      "pdb_id": "9OKP",
+      "title": "CryoEM structure of the E. coli zinc ABC transporter ZnuB-ZnuC E146Q in complex with ATP",
+      "pdb_release": "2026-05-27",
+      "emdb_ids": [
+        "EMD-70571"
+      ],
+      "resolution": 2.9,
+      "chain_count": 4,
+      "construct_residue_count": 1022,
+      "entities": [
+        {
+          "entity_id": "1",
+          "sequence": "MIELLFPGWLAGIMLACAAGPLGSFVVWRRMSYFGDTLAHASLLGVAFGLLLDVNPFYAVIAVTLLLAGGLVWLEKRPQLAIDTLLGIMAHSALSLGLVVVSLMSNIRVDLMAYLFGDLLAVTPEDLISIAIGVVIVVAILFWQWRNLLSMTISPDLAFVDGVKLQRVKLLLMLVTALTIGVAMKFVGALIITSLLIIPAATARRFARTPEQMAGVAVLVGMVAVTGGLTFSAVYDTPAGPSVVLCAALLFILSMMKKQA",
+          "asym_ids": [
+            "A",
+            "B"
+          ],
+          "auth_asym_ids": [
+            "B",
+            "C"
+          ],
+          "uniprot_ids": [
+            "P39832"
+          ]
+        },
+        {
+          "entity_id": "2",
+          "sequence": "MTSLVSLENVSVSFGQRRVLSDVSLELKPGKILTLLGPNGAGKSTLVRVVLGLVTPDEGVIKRNGKLRIGYVPQKLYLDTTLPLTVNRFLRLRPGTHKEDILPALKRVQAGHLINAPMQKLSGGETQRVLLARALLNRPQLLVLDQPTQGVDVNGQVALYDLIDQLRRELDCGVLMVSHDLHLVMAKTDEVLCLNHHICCSGTPEVVSLHPEFISMFGPRGAEQLGIYRHHHNHRHDLQGRIVLRRGNDRS",
+          "asym_ids": [
+            "C",
+            "D"
+          ],
+          "auth_asym_ids": [
+            "D",
+            "E"
+          ],
+          "uniprot_ids": [
+            "P0A9X1"
+          ]
+        }
+      ],
+      "doi": null,
+      "pubmed": null,
+      "exclusion_reasons": [],
+      "exact_sequence_set": "e0fbb9b57dc8e78fab0edb22fe224764cfbb9c2034a4c087e0a69ba3d16d2920",
+      "sampling_key": "032ab6e433c86625ea78854e62ca4078ee0cdb210018e15a6518a8c128d2f6b8",
+      "emdb_map_release": "2026-05-27",
+      "emdb_header_release": "2026-05-27",
+      "pdb_map_relationship": [
+        {
+          "in_frame": "FULLOVERLAP"
+        }
+      ],
+      "map_dimensions": {
+        "col": 128,
+        "row": 128,
+        "sec": 128
+      },
+      "map_size_kbytes": 8389,
+      "map_contours": [
+        {
+          "instance_type": "contour",
+          "level": 0.513,
+          "primary": true,
+          "source": "AUTHOR"
+        }
+      ],
+      "map_filename": "emd_70571.map.gz",
+      "emdb_resolution": [
+        "2.9"
+      ],
+      "screen_status": "metadata_checked_not_final",
+      "evaluated_assembly_chain_count": 4,
+      "evaluated_assembly_construct_residues": 1022,
+      "map_physical_extents_crs_A": [
+        170.496,
+        170.496,
+        170.496
+      ],
+      "scope_decision": "counts_compatible_other_qc_pending",
+      "primary_study_group": "study_9OKO",
+      "homolog_group": "homolog_group_0293",
+      "qc_cell": [
+        1,
+        1
+      ],
+      "known_training_any_full_chain_match_30pct": true,
+      "requires_assembly_reference_adapter": false,
+      "sampling_stratum": 1,
+      "qc_rank_in_cell": 1,
+      "selection_status": "frozen_formal30_v1",
+      "selection_basis": "User-requested small-target budget; unchanged seed20261007 hash ordering; study/homolog deduplication; no formal method scores used",
+      "input_hashes": {
+        "original_map_gz": "3a0cfb9ae75919cd5730a431c8aa636b6e0ff530c905f85503ad8641e8d0a72c",
+        "reference_cif_gz": "348473993be63be8da1ee0e1a526246af675553b5fee30965fd2ea1e10e69ea1"
+      },
+      "reference_ca_count": 1002,
+      "reference_review_flags": [],
+      "manual_map_review": "Original fixed-coordinate XY/XZ/YZ projections inspected; correspondence accepted, unassigned peripheral density retained with notes where applicable."
+    },
+    {
+      "pdb_id": "26QS",
+      "title": "Cryo-EM structure of human UGCG bound to UDP-Glucose",
+      "pdb_release": "2026-09-02",
+      "emdb_ids": [
+        "EMD-80832"
+      ],
+      "resolution": 2.88,
+      "chain_count": 1,
+      "construct_residue_count": 391,
+      "entities": [
+        {
+          "entity_id": "1",
+          "sequence": "MALLDLALEGMAVFGFVLFLVLWLMHFMAIIYTRLHLNKKATDKQPYSKLPGVSLLKPLKGVDPNLINNLETFFELDYPKYEVLLCVQDHDDPAIDVCKKLLGKYPNVDARLFIGGKKVGINPKINNLMPGYEVAKYDLIWICDSGIRVIPDTLTDMVNQMTEKVGLVHGLPYVADRQGFAATLEQVYFGTSHPRYYISANVTGFKCVTGMSCLMRKDVLDQAGGLIAFAQYIAEDYFMAKAIADRGWRFAMSTQVAMQNSGSYSISQFQSRMIRWTKLRINMLPATIICEPISECFVASLIIGWAAHHVFRWDIMVFFMCHCLAWFIFDYIQLRGVQGGTLCFSKLDYAVAWFIRESMTIYIFLSALWDPTISWRTGRYRLRCGGTAEEI",
+          "asym_ids": [
+            "A"
+          ],
+          "auth_asym_ids": [
+            "A"
+          ],
+          "uniprot_ids": [
+            "Q16739"
+          ]
+        }
+      ],
+      "doi": "10.1038/s41586-026-10927-4",
+      "pubmed": 42649293,
+      "exclusion_reasons": [],
+      "exact_sequence_set": "c32b8ce7c7acd6133d9735c5581763561825c62bfe327b3c088b3c2809ed00c0",
+      "sampling_key": "0372b1b6f6c0cb62aac719238cd9e498160e61a70b707a3ceb9fd81a88e6aca5",
+      "emdb_map_release": "2026-09-02",
+      "emdb_header_release": "2026-09-02",
+      "pdb_map_relationship": [
+        {
+          "in_frame": "FULLOVERLAP"
+        }
+      ],
+      "map_dimensions": {
+        "col": 288,
+        "row": 288,
+        "sec": 288
+      },
+      "map_size_kbytes": 95552,
+      "map_contours": [
+        {
+          "instance_type": "contour",
+          "level": 0.585,
+          "primary": true,
+          "source": "AUTHOR"
+        }
+      ],
+      "map_filename": "emd_80832.map.gz",
+      "emdb_resolution": [
+        "2.88"
+      ],
+      "screen_status": "metadata_checked_not_final",
+      "evaluated_assembly_chain_count": 1,
+      "evaluated_assembly_construct_residues": 391,
+      "map_physical_extents_crs_A": [
+        210.24,
+        210.24,
+        210.24
+      ],
+      "scope_decision": "counts_compatible_other_qc_pending",
+      "primary_study_group": "study_26QS",
+      "homolog_group": "homolog_group_0162",
+      "qc_cell": [
+        1,
+        0
+      ],
+      "known_training_any_full_chain_match_30pct": false,
+      "requires_assembly_reference_adapter": false,
+      "sampling_stratum": 1,
+      "qc_rank_in_cell": 2,
+      "selection_status": "frozen_formal30_v1",
+      "selection_basis": "User-requested small-target budget; unchanged seed20261007 hash ordering; study/homolog deduplication; no formal method scores used",
+      "input_hashes": {
+        "original_map_gz": "9f09339294191d6427e17350b6e5c29f87cbe90040fba30e3a93ff93cec4bda2",
+        "reference_cif_gz": "544fb66f21319092cb9d3eff3dfe4a754d2f2af44c0484de86bd9d2915b7af69"
+      },
+      "reference_ca_count": 391,
+      "reference_review_flags": [],
+      "manual_map_review": "Original fixed-coordinate XY/XZ/YZ projections inspected; correspondence accepted, unassigned peripheral density retained with notes where applicable."
+    },
+    {
+      "pdb_id": "9VUH",
+      "title": "CDK11B ternary complex bound to AT7519",
+      "pdb_release": "2026-07-15",
+      "emdb_ids": [
+        "EMD-65363"
+      ],
+      "resolution": 2.7,
+      "chain_count": 3,
+      "construct_residue_count": 1015,
+      "entities": [
+        {
+          "entity_id": "3",
+          "sequence": "MGSENLYFQGMAGKKNVLSSLAVYAEDSEPESDGEAGIEAVGSTAEEKGGLVSDAYGEDDFSRLGGDEDGYEEEEDENSRQSEDDDSETEKPEADDPKDNTEAEKRDPQELVASFSERVRNMSPDEIKIPPEPPGRCSNHLQDKIQKLYERKIKEGMDMNYIIQRKKEFRNPSIYEKLIQFCAIDELGTNYPKDMFDPHGWSEDSYYEALAKAQKIEMDKLEKAKKERTKIEFVTGTKKGTTTNATSTTTTTASTAVADAQKRKSKWDSAIPVTTIAQPTILTTTATLPAVVTVTTSASGSKTTVISAVGTIVKNAKQ",
+          "asym_ids": [
+            "C"
+          ],
+          "auth_asym_ids": [
+            "C"
+          ],
+          "uniprot_ids": [
+            "Q9UHR5"
+          ]
+        },
+        {
+          "entity_id": "2",
+          "sequence": "MASGPHSTATAAAAASSAAPSAGGSSSGTTTTTTTTTGGILIGDRLYSEVSLTIDHSLIPEERLSPTPSMQDGLDLPSETDLRILGCELIQAAGILLRLPQVAMATGQVLFHRFFYSKSFVKHSFEIVAMACINLASKIEEAPRRIRDVINVFHHLRQLRGKRTPSPLILDQNYINTKNQVIKAERRVLKELGFCVHVKHPHKIIVMYLQVLECERNQTLVQTAWNYMNDSLRTNVFVRFQPETIACACIYLAARALQIPLPTRPHWFLLFGTTEEEIQEICIETLRLYTRKKPNYELLEKEVEKRKVALQEAKLKAKGLNPDGRIPGLIWSHPQFEKGGGSGGGGGSGGGSGGSSAWSHPQFEK",
+          "asym_ids": [
+            "B"
+          ],
+          "auth_asym_ids": [
+            "B"
+          ],
+          "uniprot_ids": [
+            "Q9UK58"
+          ]
+        },
+        {
+          "entity_id": "1",
+          "sequence": "MADYKDDDDKSGRGAMGALQGCRSVEEFQCLNRIEEGTYGVVYRAKDKKTDEIVALKRLKMEKEKEGFPITSLREINTILKAQHPNIVTVREIVVGSNMDKIYIVMNYVEHDLKSLMETMKQPFLPGEVKTLMIQLLRGVKHLHDNWILHRDLKTSNLLLSHAGILKVGDFGLAREYGSPLKAYTPVVVTLWYRAPELLLGAKEYSTAVDMWSVGCIFGELLTQKPLFPGKSEIDQINKVFKDLGTPSEKIWPGYSELPAVKKMTFSEHPYNNLRKRFGALLSDQGFDLMNKFLTYFPGRRISAEDGLKHEYFRETPLPIDPSMFPKLVEKY",
+          "asym_ids": [
+            "A"
+          ],
+          "auth_asym_ids": [
+            "A"
+          ],
+          "uniprot_ids": [
+            "P21127"
+          ]
+        }
+      ],
+      "doi": null,
+      "pubmed": null,
+      "exclusion_reasons": [],
+      "exact_sequence_set": "eea7d54c2ed221fd088aafd26becb9d7dd959028f79bc67d03bac0b8e868b83f",
+      "sampling_key": "03e41aa845703fa682c94578a65506934c1947acfe219a1f7cff5c712a802167",
+      "emdb_map_release": "2026-07-15",
+      "emdb_header_release": "2026-07-15",
+      "pdb_map_relationship": [
+        {
+          "in_frame": "FULLOVERLAP"
+        }
+      ],
+      "map_dimensions": {
+        "col": 320,
+        "row": 320,
+        "sec": 320
+      },
+      "map_size_kbytes": 131073,
+      "map_contours": [
+        {
+          "instance_type": "contour",
+          "level": 0.0144,
+          "primary": true,
+          "source": "AUTHOR"
+        }
+      ],
+      "map_filename": "emd_65363.map.gz",
+      "emdb_resolution": [
+        "2.7"
+      ],
+      "screen_status": "metadata_checked_not_final",
+      "evaluated_assembly_chain_count": 3,
+      "evaluated_assembly_construct_residues": 1015,
+      "map_physical_extents_crs_A": [
+        182.39999999999998,
+        182.39999999999998,
+        182.39999999999998
+      ],
+      "scope_decision": "counts_compatible_other_qc_pending",
+      "primary_study_group": "study_9VUH",
+      "homolog_group": "homolog_group_0485",
+      "qc_cell": [
+        1,
+        1
+      ],
+      "known_training_any_full_chain_match_30pct": true,
+      "requires_assembly_reference_adapter": false,
+      "sampling_stratum": 1,
+      "qc_rank_in_cell": 4,
+      "selection_status": "frozen_formal30_v1",
+      "selection_basis": "User-requested small-target budget; unchanged seed20261007 hash ordering; study/homolog deduplication; no formal method scores used",
+      "input_hashes": {
+        "original_map_gz": "1d212d8ada8934b113b6794d259421769e7ef7622791da77c34af9f1357a0923",
+        "reference_cif_gz": "d09c29f05af52d7c21edebc966a853683052f32e154705d7957188e1148f73af"
+      },
+      "reference_ca_count": 634,
+      "reference_review_flags": [
+        "Less than half of construct residues have reference C-alpha coordinates in at least one chain"
+      ],
+      "manual_map_review": "Original fixed-coordinate XY/XZ/YZ projections inspected; correspondence accepted, unassigned peripheral density retained with notes where applicable."
+    },
+    {
+      "pdb_id": "9RWT",
+      "title": "high-affinity choline transporter in DDM with Na+",
+      "pdb_release": "2026-04-29",
+      "emdb_ids": [
+        "EMD-54347"
+      ],
+      "resolution": 2.83,
+      "chain_count": 1,
+      "construct_residue_count": 551,
+      "entities": [
+        {
+          "entity_id": "1",
+          "sequence": "MQPQPSATPDRKQDNKNKNYEKAGLLGFIGLLLVVAVYVAFTGNDVNWGALVFMFISYAIIFYIGSVTAGKKSDSASDMMVAGRSMPLWVAMFTMTATWVGGGYIAGTAETTFASGVVWAQAPWGYGLSLIIGGIFYARKMRRYEFTTMLDPLEVRFGKKVAGVLYLPALLGELFWSAAILVALGTTFGLILGLDFTTSIIISAIIAVAYTFVGGMWSVALTDVAQIIMIIIGMFLVVPFALSEVGGLGQAWGAYKEGMAGFTNLLPPLDGWNHPDWGNYYWNWWDYALLLIFGGIPWQVYFQRVLSAKNEKTAMWLSIAAGFLCIILAVPAVMIGVAGFSADWASYGIEGPGAASEILAYVVNYMSPYLVAIVALGAIAAAVMSSMDSSILSASSMAAWNIYRPLVKPKANGRDIKRTIRVSIILIGLAATIVALNIDSVYTLWYLCADLVYCMLFPQLTTALFDKKANTYGAIAGLSVSLFLRLGGGEPALGLPAFLPYPMIEDGVVLFPFRTLAMVSGLLTIIVVSRLTQKSCPPQPLRKLKTEMQDE",
+          "asym_ids": [
+            "A"
+          ],
+          "auth_asym_ids": [
+            "A"
+          ],
+          "uniprot_ids": [
+            "A0A1N7IZC0"
+          ]
+        }
+      ],
+      "doi": "10.1126/sciadv.aec1241",
+      "pubmed": 42213839,
+      "exclusion_reasons": [],
+      "exact_sequence_set": "7549edfd52be0dbefcfea48fbf581be2f2f8fa48bdf7925408bf68ee1ffdc99e",
+      "sampling_key": "0477f598786bd61e1d8004d71a7f4cc09da92e4863cb6a908fb707b1568ffb84",
+      "emdb_map_release": "2026-04-29",
+      "emdb_header_release": "2026-04-29",
+      "pdb_map_relationship": [
+        {
+          "in_frame": "FULLOVERLAP"
+        }
+      ],
+      "map_dimensions": {
+        "col": 256,
+        "row": 256,
+        "sec": 256
+      },
+      "map_size_kbytes": 67109,
+      "map_contours": [
+        {
+          "instance_type": "contour",
+          "level": 0.26,
+          "primary": true,
+          "source": "AUTHOR"
+        }
+      ],
+      "map_filename": "emd_54347.map.gz",
+      "emdb_resolution": [
+        "2.83"
+      ],
+      "screen_status": "metadata_checked_not_final",
+      "evaluated_assembly_chain_count": 1,
+      "evaluated_assembly_construct_residues": 551,
+      "map_physical_extents_crs_A": [
+        210.8928,
+        210.8928,
+        210.8928
+      ],
+      "scope_decision": "counts_compatible_other_qc_pending",
+      "primary_study_group": "study_9RWT",
+      "homolog_group": "homolog_group_0363",
+      "qc_cell": [
+        1,
+        0
+      ],
+      "known_training_any_full_chain_match_30pct": false,
+      "requires_assembly_reference_adapter": false,
+      "sampling_stratum": 1,
+      "qc_rank_in_cell": 5,
+      "selection_status": "frozen_formal30_v1",
+      "selection_basis": "User-requested small-target budget; unchanged seed20261007 hash ordering; study/homolog deduplication; no formal method scores used",
+      "input_hashes": {
+        "original_map_gz": "0f329ccbaeed0072bb8696b306aa9728125b3869cead2fc3a3d71de5d00e676a",
+        "reference_cif_gz": "9923489bbf7fc3614731557ad98e76c6455973cfeb1b256d31fe6d60b222ce49"
+      },
+      "reference_ca_count": 512,
+      "reference_review_flags": [],
+      "manual_map_review": "Original fixed-coordinate XY/XZ/YZ projections inspected; correspondence accepted, unassigned peripheral density retained with notes where applicable."
+    },
+    {
+      "pdb_id": "25GN",
+      "title": "receptor-arrestin",
+      "pdb_release": "2026-08-26",
+      "emdb_ids": [
+        "EMD-80088"
+      ],
+      "resolution": 3.2,
+      "chain_count": 4,
+      "construct_residue_count": 1163,
+      "entities": [
+        {
+          "entity_id": "4",
+          "sequence": "HSLFTCEPITVPRCMKMAYNMTFFPNLMGHYDQSIAAVEMEHFLPLANLECSPNIETFLCKAFVPTCIEQIHVVPPCRKLCEKVYSDCKKLIDTFGIRWPEELECDRLQYCDETVPVTFDPHTEFLGPQKKTEQVQRDIGFWCPRHLKTSGGQGYKFLGIDQCAPPCPNMYFKSDELEFAKSFIGTVSIFCLCATLFTFLTFLIDVRRFRYPERPIIYYSVCYSIVSLMYFIGFLLGDSTACNKADEKLELGDTVVLGSQNKACTVLFMLLYFFTMAGTVWWVILTITWFLAAGRKWSCEAIEQKAVWFHAVAWGTPGFLTVMLLAMNKVEGDNISGVCFVGLYDLDASRYFVLLPLCLCVFVGLSLLLAGIISLNHVRQVIQHDGRNQEKLKKFMIRIGVFSGLYLVPLVTLLGCYVYEQVNRITWEITWVSDHCRQYHIPCPYQAKAKARPELALFMIKYLMTLIVGISAVFWVGSKKTCTEWAGFFKRNRKRDPISESRRVLQEDESCTTASSSLAKDTSS",
+          "asym_ids": [
+            "D"
+          ],
+          "auth_asym_ids": [
+            "R"
+          ],
+          "uniprot_ids": [
+            "O60353"
+          ]
+        },
+        {
+          "entity_id": "3",
+          "sequence": "SDIQMTQSPSSLSASVGDRVTITCRASQSVSSAVAWYQQKPGKAPKLLIYSASSLYSGVPSRFSGSRSGTDFTLTISSLQPEDFATYYCQQYKYVPVTFGQGTKVEIK",
+          "asym_ids": [
+            "C"
+          ],
+          "auth_asym_ids": [
+            "L"
+          ],
+          "uniprot_ids": []
+        },
+        {
+          "entity_id": "2",
+          "sequence": "MQVQLVESGGGLVQPGGSLRLSCAASGFNVYSSSIHWVRQAPGKGLEWVASISSYYGYTYYADSVKGRFTISADTSKNTAYLQMNSLRAEDTAVYYCARSRQFWYSGLDYWGQGTLVTVSS",
+          "asym_ids": [
+            "B"
+          ],
+          "auth_asym_ids": [
+            "H"
+          ],
+          "uniprot_ids": []
+        },
+        {
+          "entity_id": "1",
+          "sequence": "MGDKGTRVFKKASPNGKLTVYLGKRDFVDHIDLVDPVDGVVLVDPEYLKERRVYVTLTVAFRYGREDLDVLGLTFRKDLFVANVQSFPPAPEDKKPLTRLQERLIKKLGEHAYPFTFEIPPNLPSSVTLQPGPEDTGKALGVDYEVKAFVAENLEEKIHKRNSVRLVIRKVQYAPERPGPQPTAETTRQFLMSDKPLHLEASLDKEIYYHGEPISVNVHVTNNTNKTVKKIKISVRQYADIVLFNTAQYKVPVAMEEADDTVAPSSTFSKVYTLTPFLANNREKRGLALDGKLKHEDTNLASSTLLREGANREILGIIVSYKVKVKLVVSRSSDVAVELPFTLMHPKPKEEPPHREVPENETPVDTNLIELDTNDDDIVFEDFARQRLKGMKDDKEEEEDGTGSPQLNNR",
+          "asym_ids": [
+            "A"
+          ],
+          "auth_asym_ids": [
+            "C"
+          ],
+          "uniprot_ids": [
+            "P49407"
+          ]
+        }
+      ],
+      "doi": "10.1038/s41401-026-01902-w",
+      "pubmed": 42608530,
+      "exclusion_reasons": [],
+      "exact_sequence_set": "0aa701affc9b523bfd1a37c2cf2df049110a82dbfc6653198574ee91f8891f33",
+      "sampling_key": "0ff3cc634d21fd1568c2547e924745fcdfacd6815a4700903a8725170c9c7a83",
+      "emdb_map_release": "2026-08-26",
+      "emdb_header_release": "2026-08-26",
+      "pdb_map_relationship": [
+        {
+          "in_frame": "FULLOVERLAP"
+        }
+      ],
+      "map_dimensions": {
+        "col": 320,
+        "row": 320,
+        "sec": 320
+      },
+      "map_size_kbytes": 131073,
+      "map_contours": [
+        {
+          "instance_type": "contour",
+          "level": 0.0254,
+          "primary": true,
+          "source": "AUTHOR"
+        }
+      ],
+      "map_filename": "emd_80088.map.gz",
+      "emdb_resolution": [
+        "3.2"
+      ],
+      "screen_status": "metadata_checked_not_final",
+      "evaluated_assembly_chain_count": 4,
+      "evaluated_assembly_construct_residues": 1163,
+      "map_physical_extents_crs_A": [
+        171.35999999999999,
+        171.35999999999999,
+        171.35999999999999
+      ],
+      "scope_decision": "counts_compatible_other_qc_pending",
+      "primary_study_group": "study_25GN",
+      "homolog_group": "homolog_group_0140",
+      "qc_cell": [
+        1,
+        1
+      ],
+      "known_training_any_full_chain_match_30pct": true,
+      "requires_assembly_reference_adapter": false,
+      "sampling_stratum": 1,
+      "qc_rank_in_cell": 11,
+      "selection_status": "frozen_formal30_v1",
+      "selection_basis": "User-requested small-target budget; unchanged seed20261007 hash ordering; study/homolog deduplication; no formal method scores used",
+      "input_hashes": {
+        "original_map_gz": "b2aed321bcaf9d8d7a3e6bb577b76751d2ef6e245004e8bc05497b589556873f",
+        "reference_cif_gz": "b611414348de701ee51f5a9955288cd416560318e0ee70930008363322a60154"
+      },
+      "reference_ca_count": 902,
+      "reference_review_flags": [],
+      "manual_map_review": "Original fixed-coordinate XY/XZ/YZ projections inspected; correspondence accepted, unassigned peripheral density retained with notes where applicable."
+    },
+    {
+      "pdb_id": "9V8X",
+      "title": "membrane protein S6A8 with Crea",
+      "pdb_release": "2026-04-15",
+      "emdb_ids": [
+        "EMD-64854"
+      ],
+      "resolution": 2.85,
+      "chain_count": 1,
+      "construct_residue_count": 635,
+      "entities": [
+        {
+          "entity_id": "1",
+          "sequence": "MAKKSAENGIYSVSGDEKKGPLIAPGPDGAPAKGDGPVGLGTPGGRLAVPPRETWTRQMDFIMSCVGFAVGLGNVWRFPYLCYKNGGGVFLIPYVLIALVGGIPIFFLEISLGQFMKAGSINVWNICPLFKGLGYASMVIVFYCNTYYIMVLAWGFYYLVKSFTTTLPWATCGHTWNTPDCVEIFRHEDCANASLANLTCDQLADRRSPVIEFWENKVLRLSGGLEVPGALNWEVTLCLLACWVLVYFCVWKGVKSTGKIVYFTATFPYVVLVVLLVRGVLLPGALDGIIYYLKPDWSKLGSPQVWIDAGTQIFFSYAIGLGALTALGSYNRFNNNCYKDAIILALINSGTSFFAGFVVFSILGFMAAEQGVHISKVAESGPGLAFIAYPRAVTLMPVAPLWAALFFFMLLLLGLDSQFVGVEGFITGLLDLLPASYYFRFQREISVALCCALCFVIDLSMVTDGGMYVFQLFDYYSASGTTLLWQAFWECVVVAWVYGADRFMDDIACMIGYRPCPWMKWCWSFFTPLVCMGIFIFNVVYYEPLVYNNTYVYPWWGEAMGWAFALSSMLCVPLHLLGCLLRAKGTMAERWQHLTQPIWGLHHLEYRAQDADVRGLTTLTPVSESSKVVVVESVM",
+          "asym_ids": [
+            "A"
+          ],
+          "auth_asym_ids": [
+            "A"
+          ],
+          "uniprot_ids": [
+            "P48029"
+          ]
+        }
+      ],
+      "doi": "10.1073/pnas.2426135122",
+      "pubmed": 40892912,
+      "exclusion_reasons": [],
+      "exact_sequence_set": "e6f994fbe194bb67ad41520b806c922fb7b5a8ead14e2141a0920e42a99938e1",
+      "sampling_key": "08f35718301fe7186f9b07b190c7c06fa144a92c7c1eb40f7df282934775cad3",
+      "emdb_map_release": "2026-04-15",
+      "emdb_header_release": "2026-04-15",
+      "pdb_map_relationship": [
+        {
+          "in_frame": "FULLOVERLAP"
+        }
+      ],
+      "map_dimensions": {
+        "col": 256,
+        "row": 256,
+        "sec": 256
+      },
+      "map_size_kbytes": 67109,
+      "map_contours": [
+        {
+          "instance_type": "contour",
+          "level": 0.333,
+          "primary": true,
+          "source": "AUTHOR"
+        }
+      ],
+      "map_filename": "emd_64854.map.gz",
+      "emdb_resolution": [
+        "2.85"
+      ],
+      "screen_status": "metadata_checked_not_final",
+      "evaluated_assembly_chain_count": 1,
+      "evaluated_assembly_construct_residues": 635,
+      "map_physical_extents_crs_A": [
+        215.8848,
+        215.8848,
+        215.8848
+      ],
+      "scope_decision": "counts_compatible_other_qc_pending",
+      "primary_study_group": "study_9V8X",
+      "homolog_group": "homolog_group_0248",
+      "qc_cell": [
+        1,
+        0
+      ],
+      "known_training_any_full_chain_match_30pct": true,
+      "requires_assembly_reference_adapter": false,
+      "sampling_stratum": 1,
+      "qc_rank_in_cell": 9,
+      "selection_status": "frozen_formal30_v1",
+      "selection_basis": "User-requested small-target budget; unchanged seed20261007 hash ordering; study/homolog deduplication; no formal method scores used",
+      "input_hashes": {
+        "original_map_gz": "f84d79d4ddbee37bc3bc63bbd63638b148df7b2fb8fab4f2b1f5161db97cd059",
+        "reference_cif_gz": "e475806faf0a867502cd4653572c31eed956cbc35675b729b1387ca97a93c3ae"
+      },
+      "reference_ca_count": 504,
+      "reference_review_flags": [],
+      "manual_map_review": "Original fixed-coordinate XY/XZ/YZ projections inspected; correspondence accepted, unassigned peripheral density retained with notes where applicable."
+    },
+    {
+      "pdb_id": "9X3Y",
+      "title": "NPFF bound Mas1 Receptor",
+      "pdb_release": "2026-04-15",
+      "emdb_ids": [
+        "EMD-66514"
+      ],
+      "resolution": 2.77,
+      "chain_count": 2,
+      "construct_residue_count": 333,
+      "entities": [
+        {
+          "entity_id": "2",
+          "sequence": "FLFQPQRF",
+          "asym_ids": [
+            "B"
+          ],
+          "auth_asym_ids": [
+            "L"
+          ],
+          "uniprot_ids": []
+        },
+        {
+          "entity_id": "1",
+          "sequence": "MDGSNVTSFVVEEPTNISTGRNASVGNAHRQIPIVHWVIMSISPVGFVENGILLWFLCFRMRRNPFTVYITHLSIADISLLFCIFILSIDYALDYELSSGHYYTIVTLSVTFLFGYNTGLYLLTAISVERCLSVLYPIWYRCHRPKYQSALVCALLWALSCLVTTMEYVMCIDREEESHSRNDCRAVIIFIAILSFLVFTPLMLVSSTILVVKIRKNTWASHSSKLYIVIMVTIIIFLIFAMPMRLLYLLYYEYWSTFGNLHHISLLFSTINSSANPFIYFFVGSSKKKRFKESLKVVLTRAFKDEMQPRRQKDNCNTVTVETVV",
+          "asym_ids": [
+            "A"
+          ],
+          "auth_asym_ids": [
+            "R"
+          ],
+          "uniprot_ids": [
+            "P04201"
+          ]
+        }
+      ],
+      "doi": "10.1038/s44318-026-00764-6",
+      "pubmed": 41912627,
+      "exclusion_reasons": [],
+      "exact_sequence_set": "36adf79347bf3143119b368f9f02e2b45d0c3608d4b195f4db17e8808c93d62a",
+      "sampling_key": "0e97b64321f27553e2baa1a6517fcdba7258a0556128c4d9b8db9bcf9cd4eae6",
+      "emdb_map_release": "2026-04-15",
+      "emdb_header_release": "2026-04-15",
+      "pdb_map_relationship": [
+        {
+          "in_frame": "FULLOVERLAP"
+        }
+      ],
+      "map_dimensions": {
+        "col": 256,
+        "row": 256,
+        "sec": 256
+      },
+      "map_size_kbytes": 67109,
+      "map_contours": [
+        {
+          "instance_type": "contour",
+          "level": 0.7,
+          "primary": true,
+          "source": "AUTHOR"
+        }
+      ],
+      "map_filename": "emd_66514.map.gz",
+      "emdb_resolution": [
+        "2.77"
+      ],
+      "screen_status": "metadata_checked_not_final",
+      "evaluated_assembly_chain_count": 2,
+      "evaluated_assembly_construct_residues": 333,
+      "map_physical_extents_crs_A": [
+        212.48,
+        212.48,
+        212.48
+      ],
+      "scope_decision": "counts_compatible_other_qc_pending",
+      "primary_study_group": "study_9X3Y",
+      "homolog_group": "homolog_group_0547",
+      "qc_cell": [
+        1,
+        1
+      ],
+      "known_training_any_full_chain_match_30pct": true,
+      "requires_assembly_reference_adapter": false,
+      "sampling_stratum": 1,
+      "qc_rank_in_cell": 10,
+      "selection_status": "frozen_formal30_v1",
+      "selection_basis": "User-requested small-target budget; unchanged seed20261007 hash ordering; study/homolog deduplication; no formal method scores used",
+      "input_hashes": {
+        "original_map_gz": "db564516e680a9bfa645db3e2d7abf72c2a4c3dfc6fe771c6f1d8622e60e8499",
+        "reference_cif_gz": "4eafab1ed7445dc6eebedd8f9210072ceb7c41af7b422160c39bccd4d2e8ef6b"
+      },
+      "reference_ca_count": 247,
+      "reference_review_flags": [],
+      "manual_map_review": "Original fixed-coordinate XY/XZ/YZ projections inspected; correspondence accepted, unassigned peripheral density retained with notes where applicable."
+    },
+    {
+      "pdb_id": "9V3V",
+      "title": "SLC36A1 bound to D-cycloserine",
+      "pdb_release": "2026-07-29",
+      "emdb_ids": [
+        "EMD-64757"
+      ],
+      "resolution": 3.37,
+      "chain_count": 1,
+      "construct_residue_count": 476,
+      "entities": [
+        {
+          "entity_id": "1",
+          "sequence": "MSTQRLRNEDYHDYSSTDVSPEESPSEGLNNLSSPGSYQRFGQSNSTTWFQTLIHLLKGNIGTGLLGLPLAVKNAGIVMGPISLLIIGIVAVHCMGILVKCAHHFCRRLNKSFVDYGDTVMYGLESSPCSWLRNHAHWGRRVVDFFLIVTQLGFCCVYFVFLADNFKQVIEAANGTTNNCHNNETVILTPTMDSRLYMLSFLPFLVLLVFIRNLRALSIFSLLANITMLVSLVMIYQFIVQRIPDPSHLPLVAPWKTYPLFFGTAIFSFEGIGMVLPLENKMKDPRKFPLILYLGMVIVTILYISLGCLGYLQFGANIQGSITLNLPNCWLYQSVKLLYSIGIFFTYALQFYVPAEIIIPFFVSRAPEHCELVVDLFVRTVLVCLTCILAILIPRLDLVISLVGSVSSSALALIIPPLLEVTTFYSEGMSPLTIFKDALISILGFVGFVVGTYEALYELIQPSNAPIFINSTCAFI",
+          "asym_ids": [
+            "A"
+          ],
+          "auth_asym_ids": [
+            "A"
+          ],
+          "uniprot_ids": [
+            "Q7Z2H8"
+          ]
+        }
+      ],
+      "doi": "10.1038/s41467-026-75306-z",
+      "pubmed": 42414312,
+      "exclusion_reasons": [],
+      "exact_sequence_set": "d98a1b07bc2a869fd0047698573dda51826de9a7ee5ea4a944b2458390c3d12a",
+      "sampling_key": "012e05719512f46999d956c05fe177639d4be123576c9efe53b95b6d169a3fe4",
+      "emdb_map_release": "2026-07-29",
+      "emdb_header_release": "2026-07-29",
+      "pdb_map_relationship": [
+        {
+          "in_frame": "FULLOVERLAP"
+        }
+      ],
+      "map_dimensions": {
+        "col": 256,
+        "row": 256,
+        "sec": 256
+      },
+      "map_size_kbytes": 67109,
+      "map_contours": [
+        {
+          "instance_type": "contour",
+          "level": 0.193,
+          "primary": true,
+          "source": "AUTHOR"
+        }
+      ],
+      "map_filename": "emd_64757.map.gz",
+      "emdb_resolution": [
+        "3.37"
+      ],
+      "screen_status": "metadata_checked_not_final",
+      "evaluated_assembly_chain_count": 1,
+      "evaluated_assembly_construct_residues": 476,
+      "map_physical_extents_crs_A": [
+        212.48,
+        212.48,
+        212.48
+      ],
+      "scope_decision": "counts_compatible_other_qc_pending",
+      "primary_study_group": "study_9V3V",
+      "homolog_group": "homolog_group_0458",
+      "qc_cell": [
+        2,
+        0
+      ],
+      "known_training_any_full_chain_match_30pct": false,
+      "requires_assembly_reference_adapter": false,
+      "sampling_stratum": 2,
+      "qc_rank_in_cell": 1,
+      "selection_status": "frozen_formal30_v1",
+      "selection_basis": "User-requested small-target budget; unchanged seed20261007 hash ordering; study/homolog deduplication; no formal method scores used",
+      "input_hashes": {
+        "original_map_gz": "4bf9ef8ef03ea7174b961ce9a51736287073e4baa92d11b72f579b1173db6576",
+        "reference_cif_gz": "9d5d2d9de21a0a58a0066355d9e086e19dd2138d28516c22438de7fe87e85b0a"
+      },
+      "reference_ca_count": 424,
+      "reference_review_flags": [],
+      "manual_map_review": "Original fixed-coordinate XY/XZ/YZ projections inspected; correspondence accepted, unassigned peripheral density retained with notes where applicable."
+    },
+    {
+      "pdb_id": "9K7G",
+      "title": "Structure of PfENT1 in complex with GSK3",
+      "pdb_release": "2026-04-29",
+      "emdb_ids": [
+        "EMD-62149"
+      ],
+      "resolution": 3.57,
+      "chain_count": 1,
+      "construct_residue_count": 413,
+      "entities": [
+        {
+          "entity_id": "1",
+          "sequence": "MSTGKESSKAYADIESRGDYKDDGKKGSTLSSKQHFMLSLTFILIGLSSLNVWNTALGLNINFKYNTFQITGLVCSSIVALFVEIPKIMLPFLLGGLSILCAGFQISHSFFTDTQFDTYCLVAFIVIGVVAGLAQTIAFNIGSTMEDNMGGYMSAGIGISGVFIFVINLLLDQFVSPEKHYGVNKAKLLALYIICELCLILAIVFCVCNLDLTNKNNKKDEENKENNATLSYMELFKDSYKAILTMFLVNWLTLQLFPGVGHKKWQESHNISDYNVTIIVGMFQVFDFLSRYPPNLTHIKIFKNFTFSLNKLLVANSLRLLFIPWFILNACVDHPFFKNIVQQCVCMAMLAFTNGWFNTVPFLVFVKELKKAKKKKEIEIISTFLVIAMFVGLFCGIWTTYIYNLFNIVLPKP",
+          "asym_ids": [
+            "A"
+          ],
+          "auth_asym_ids": [
+            "A"
+          ],
+          "uniprot_ids": [
+            "Q8IDM6"
+          ]
+        }
+      ],
+      "doi": null,
+      "pubmed": null,
+      "exclusion_reasons": [],
+      "exact_sequence_set": "2a1867b76ba1e725ccefee35e9434f40bd8b7c3c06ab831661361352a11d9921",
+      "sampling_key": "0886714aec56cbbdf3f47eba78913e4d4e1863658dcaf324fca7b12042f96fb3",
+      "emdb_map_release": "2026-04-29",
+      "emdb_header_release": "2026-04-29",
+      "pdb_map_relationship": [
+        {
+          "in_frame": "FULLOVERLAP"
+        }
+      ],
+      "map_dimensions": {
+        "col": 196,
+        "row": 196,
+        "sec": 196
+      },
+      "map_size_kbytes": 30119,
+      "map_contours": [
+        {
+          "instance_type": "contour",
+          "level": 0.02,
+          "primary": true,
+          "source": "AUTHOR"
+        }
+      ],
+      "map_filename": "emd_62149.map.gz",
+      "emdb_resolution": [
+        "3.57"
+      ],
+      "screen_status": "metadata_checked_not_final",
+      "evaluated_assembly_chain_count": 1,
+      "evaluated_assembly_construct_residues": 413,
+      "map_physical_extents_crs_A": [
+        215.60000000000002,
+        215.60000000000002,
+        215.60000000000002
+      ],
+      "scope_decision": "counts_compatible_other_qc_pending",
+      "primary_study_group": "study_9K7G",
+      "homolog_group": "homolog_group_0249",
+      "qc_cell": [
+        2,
+        0
+      ],
+      "known_training_any_full_chain_match_30pct": false,
+      "requires_assembly_reference_adapter": false,
+      "sampling_stratum": 2,
+      "qc_rank_in_cell": 3,
+      "selection_status": "frozen_formal30_v1",
+      "selection_basis": "User-requested small-target budget; unchanged seed20261007 hash ordering; study/homolog deduplication; no formal method scores used",
+      "input_hashes": {
+        "original_map_gz": "fbb1241f898043b15a603a9704ea1fafa4748de3ff5a93b37a882bcce6e10028",
+        "reference_cif_gz": "ab67839477ff839dc8ced4a6ad1742f1e16962f47087cb57f1b13290956d801c"
+      },
+      "reference_ca_count": 371,
+      "reference_review_flags": [],
+      "manual_map_review": "Original fixed-coordinate XY/XZ/YZ projections inspected; correspondence accepted, unassigned peripheral density retained with notes where applicable."
+    },
+    {
+      "pdb_id": "31CK",
+      "title": "Oxidized E.coli aerotaxis receptor in MH-cap free state",
+      "pdb_release": "2026-06-24",
+      "emdb_ids": [
+        "EMD-58291"
+      ],
+      "resolution": 3.5,
+      "chain_count": 2,
+      "construct_residue_count": 1068,
+      "entities": [
+        {
+          "entity_id": "1",
+          "sequence": "WSHPQFEKGGGSGGGSGGSAWSHPQFEKMSSHPYVTQQNTPLADDTTLMSTTDLQSYITHANDTFVQVSGYTLQELQGQPHNMVRHPDMPKAAFADMWFTLKKGEPWSGIVKNRRKNGDHYWVRANAVPMVREGKISGYMSIRTRATDEEIAAVEPLYKALNAGRTSKRIHKGLVVRKGWLGKLPSLPLRWRARGVMTLMFILLAAMLWFVAAPVVTYILCALVVLLASACFEWQIVRPIENVAHQALKVATGERNSVEHLNRSDELGLTLRAVGQLGLMCRWLINDVSSQVSSVRNGSETLAKGTDELNEHTQQTVDNVQQTVATMNQMAASVKQNSATASAADKLSITASNAAVQGGEAMTTVIKTMDDIADSTQRIGTITSLINDIAFQTNILALNAAVEAARAGEQGKGFAVVAGEVRHLASRSANAANDIRKLIDASADKVQSGSQQVHAAGRTMEDIVAQVKNVTQLIAQISHSTLEQADGLSSLTRAVDELNLITQKNAELVEESAQVSAMVKHRASRLEDAVTVLH",
+          "asym_ids": [
+            "A",
+            "B"
+          ],
+          "auth_asym_ids": [
+            "A",
+            "B"
+          ],
+          "uniprot_ids": [
+            "P50466"
+          ]
+        }
+      ],
+      "doi": "10.64898/2026.05.25.727702",
+      "pubmed": 42244600,
+      "exclusion_reasons": [],
+      "exact_sequence_set": "b8c4d260a5669b6eb8767573d61acbea409261ee1f3e8c64c71276b65dfaea8d",
+      "sampling_key": "0c92a6adefc246c278de6f447c0cb347cbe719770194b6805b602e434dc34c3c",
+      "emdb_map_release": "2026-06-24",
+      "emdb_header_release": "2026-06-24",
+      "pdb_map_relationship": [
+        {
+          "in_frame": "FULLOVERLAP"
+        }
+      ],
+      "map_dimensions": {
+        "col": 240,
+        "row": 240,
+        "sec": 240
+      },
+      "map_size_kbytes": 55297,
+      "map_contours": [
+        {
+          "instance_type": "contour",
+          "level": 0.0695,
+          "primary": true,
+          "source": "AUTHOR"
+        }
+      ],
+      "map_filename": "emd_58291.map.gz",
+      "emdb_resolution": [
+        "3.5"
+      ],
+      "screen_status": "metadata_checked_not_final",
+      "evaluated_assembly_chain_count": 2,
+      "evaluated_assembly_construct_residues": 1068,
+      "map_physical_extents_crs_A": [
+        249.60000000000002,
+        249.60000000000002,
+        249.60000000000002
+      ],
+      "scope_decision": "counts_compatible_other_qc_pending",
+      "primary_study_group": "study_31CK",
+      "homolog_group": "homolog_group_0195",
+      "qc_cell": [
+        2,
+        1
+      ],
+      "known_training_any_full_chain_match_30pct": false,
+      "requires_assembly_reference_adapter": false,
+      "sampling_stratum": 2,
+      "qc_rank_in_cell": 4,
+      "selection_status": "frozen_formal30_v1",
+      "selection_basis": "User-requested small-target budget; unchanged seed20261007 hash ordering; study/homolog deduplication; no formal method scores used",
+      "input_hashes": {
+        "original_map_gz": "a8d61f5bce1d9377092c4ec959d86c20a4dc9c09497f7ad4c68814900f5db58f",
+        "reference_cif_gz": "b0dc3df35581b10cefe940621268861c587cad4905e49afdfb4a398455b74425"
+      },
+      "reference_ca_count": 496,
+      "reference_review_flags": [
+        "Less than half of construct residues have reference C-alpha coordinates in at least one chain"
+      ],
+      "manual_map_review": "Original fixed-coordinate XY/XZ/YZ projections inspected; correspondence accepted, unassigned peripheral density retained with notes where applicable."
+    },
+    {
+      "pdb_id": "28MK",
+      "title": "Cryo-EM structure of UBA6 in complex with FAT10 in the post-thiolation state.",
+      "pdb_release": "2026-09-23",
+      "emdb_ids": [
+        "EMD-56615"
+      ],
+      "resolution": 3.53,
+      "chain_count": 2,
+      "construct_residue_count": 1221,
+      "entities": [
+        {
+          "entity_id": "2",
+          "sequence": "GPMAPNASTLTVHVRSEEWDLMTFDANPYDSVKKIKEHVRSKTKVPVQDQVLLLGSKILKPRRSLSSYGIDKEKTIHLTLKVVKPSDEELPLFLVESGDEAKRHLLQVRRSSSVAQVKAMIETKTGIIPETQIVTLNGKRLEDGKMMADYGIRKGNLLFLASYSIGG",
+          "asym_ids": [
+            "B"
+          ],
+          "auth_asym_ids": [
+            "B"
+          ],
+          "uniprot_ids": [
+            "O15205"
+          ]
+        },
+        {
+          "entity_id": "1",
+          "sequence": "GPMEGSEPVAAHQGEEASCSSWGTGSTNKNLPIMSTASVEIDDALYSRQRYVLGDTAMQKMAKSHVFLSGMGGLGLEIAKNLVLAGIKAVTIHDTEKCQAWDLGTNFFLSEDDVVNKRNRAEAVLKHIAELNPYVHVTSSSVPFNETTDLSFLDKYQCVVLTEMKLPLQKKINDFCRSQCPPIKFISADVHGIWSRLFCDFGDEFEVLDTTGEEPKEIFISNITQANPGIVTCLENHPHKLETGQFLTFREINGMTGLNGSIQQITVISPFSFSIGDTTELEPYLHGGIAVQVKTPKTVFFESLERQLKHPKCLIVDFSNPEAPLEIHTAMLALDQFQEKYSRKPNVGCQQDSEELLKLATSISETLEEKPDVNADIVHWLSWTAQGFLSPLAAAVGGVASQEVLKAVTGKFSPLCQWLYLEAADIVESLGKPECEEFLPRGDRYDALRACIGDTLCQKLQNLNIFLVGCGAIGCEMLKNFALLGVGTSKEKGMITVTDPDLIEKSNLNRQFLFRPHHIQKPKSYTAADATLKINSQIKIDAHLNKVCPTTETIYNDEFYTKQDVIITALDNVEARRYVDSRCLANLRPLLDSGTMGTKGHTEVIVPHLTESYNSHRDPPEEEIPFCTLKSFPAAIEHTIQWARDKFESSFSHKPSLFNKFWQTYSSAEEVLQKIQSGHSLEGCFQVIKLLSRRPRNWSQCVELARLKFEKYFNHKALQLLHCFPLDIRLKDGSLFWQSPKRPPSPIKFDLNEPLHLSFLQNAAKLYATVYCIPFAEEDLSADALLNILSEVKIQEFKPSNKVVQTDETARKPDHVPISSEDERNAIFQLEKAILSNEATKSDLQMAVLSFEKDDDHNGHIDFITAASNLRAKMYSIEPADRFKTKRIAGKIIPAIATTTATVSGLVALEMIKVTGGYPFEAYKNCFLNLAIPIVVFTETTEVRKTKIRNGISFTIWDRWTVHGKEDFTLLDFINAVKEKYGIEPTMVVQGVKMLYVPVMPGHAKRLKLTMHKLVKPTTEKKYVDLTVSFAPDIDGDEDLPGPPVRYYFSHDTD",
+          "asym_ids": [
+            "A"
+          ],
+          "auth_asym_ids": [
+            "A"
+          ],
+          "uniprot_ids": [
+            "A0AVT1"
+          ]
+        }
+      ],
+      "doi": "10.1038/s41467-026-76603-3",
+      "pubmed": 42733088,
+      "exclusion_reasons": [],
+      "exact_sequence_set": "a67efacf04973d88407ff26501d509676855723cffb641056d91557858c57499",
+      "sampling_key": "15c90d605b2047d594d6050d1130782df4972bb8b0dc6dda9233268aaaa329a2",
+      "emdb_map_release": "2026-09-23",
+      "emdb_header_release": "2026-09-23",
+      "pdb_map_relationship": [
+        {
+          "in_frame": "FULLOVERLAP"
+        }
+      ],
+      "map_dimensions": {
+        "col": 288,
+        "row": 288,
+        "sec": 288
+      },
+      "map_size_kbytes": 95552,
+      "map_contours": [
+        {
+          "instance_type": "contour",
+          "level": 0.025,
+          "primary": true,
+          "source": "AUTHOR"
+        }
+      ],
+      "map_filename": "emd_56615.map.gz",
+      "emdb_resolution": [
+        "3.53"
+      ],
+      "screen_status": "metadata_checked_not_final",
+      "evaluated_assembly_chain_count": 2,
+      "evaluated_assembly_construct_residues": 1221,
+      "map_physical_extents_crs_A": [
+        244.79999999999998,
+        244.79999999999998,
+        244.79999999999998
+      ],
+      "scope_decision": "counts_compatible_other_qc_pending",
+      "primary_study_group": "study_28MK",
+      "homolog_group": "homolog_group_0174",
+      "qc_cell": [
+        2,
+        1
+      ],
+      "known_training_any_full_chain_match_30pct": false,
+      "requires_assembly_reference_adapter": false,
+      "sampling_stratum": 2,
+      "qc_rank_in_cell": 6,
+      "selection_status": "frozen_formal30_v1",
+      "selection_basis": "User-requested small-target budget; unchanged seed20261007 hash ordering; study/homolog deduplication; no formal method scores used",
+      "input_hashes": {
+        "original_map_gz": "12a915dec4311a11d8a1e3a04c9868aa47130d28548dbd814be01677ebc1bffb",
+        "reference_cif_gz": "65c918f7f2a6f562dc78db8552cac436e710d5f3f76e7575d0c1680b78f1996a"
+      },
+      "reference_ca_count": 1170,
+      "reference_review_flags": [],
+      "manual_map_review": "Original fixed-coordinate XY/XZ/YZ projections inspected; correspondence accepted, unassigned peripheral density retained with notes where applicable."
+    },
+    {
+      "pdb_id": "26VE",
+      "title": "SMVT in the inward-open state",
+      "pdb_release": "2026-07-08",
+      "emdb_ids": [
+        "EMD-80907"
+      ],
+      "resolution": 3.7,
+      "chain_count": 1,
+      "construct_residue_count": 624,
+      "entities": [
+        {
+          "entity_id": "1",
+          "sequence": "MSVGVSTSAPLSPTSGTSVGMSTFSIMDYVVFVLLLVLSLAIGLYHACRGWGRHTVGELLMADRKMGCLPVALSLLATFQSAVAILGVPSEIYRFGTQYWFLGCCYFLGLLIPAHIFIPVFYRLHLTSAYEYLELRFNKTVRVCGTVTFIFQMVIYMGVVLYAPSLALNAVTGFDLWLSVLALGIVCTVYTALGGLKAVIWTDVFQTLVMFLGQLAVIIVGSAKVGGLGRVWAVASQHGRISGFELDPDPFVRHTFWTLAFGGVFMMLSLYGVNQAQVQRYLSSRTEKAAVLSCYAVFPFQQVSLCVGCLIGLVMFAYYQEYPMSIQQAQAAPDQFVLYFVMDLLKGLPGLPGLFIACLFSGSLSTISSAFNSLATVTMEDLIRPWFPEFSEARAIMLSRGLAFGYGLLCLGMAYISSQMGPVLQAAISIFGMVGGPLLGLFCLGMFFPCANPPGAVVGLLAGLVMAFWIGIGSIVTSMGSSMSRLEEELRRRLTETGLQRFYSLSYLWYSAHNSTTVIVVGLIVSLLTGRMRGRSLNPATIYPVLPKLLSLLPLSCQKRLHCRSYGQDHLDTGLFPEKPRNGVLGDSRDKEAMALDGTAYQGSSSTCILQETSLSNSLEVLFQ",
+          "asym_ids": [
+            "A"
+          ],
+          "auth_asym_ids": [
+            "A"
+          ],
+          "uniprot_ids": [
+            "Q9Y289"
+          ]
+        }
+      ],
+      "doi": "10.1038/s41467-026-74948-3",
+      "pubmed": 42364996,
+      "exclusion_reasons": [],
+      "exact_sequence_set": "d428e75d243f0debe0c693483c5b33a4bb8572a07e6f6c20dc02163bf3c893a2",
+      "sampling_key": "196a5267183a6d86003832c49fd4b0af2e0b13a8e4bb9a79a247a81ddd289534",
+      "emdb_map_release": "2026-07-08",
+      "emdb_header_release": "2026-07-08",
+      "pdb_map_relationship": [
+        {
+          "in_frame": "FULLOVERLAP"
+        }
+      ],
+      "map_dimensions": {
+        "col": 256,
+        "row": 256,
+        "sec": 256
+      },
+      "map_size_kbytes": 67109,
+      "map_contours": [
+        {
+          "instance_type": "contour",
+          "level": 0.1,
+          "primary": true,
+          "source": "AUTHOR"
+        }
+      ],
+      "map_filename": "emd_80907.map.gz",
+      "emdb_resolution": [
+        "3.7"
+      ],
+      "screen_status": "metadata_checked_not_final",
+      "evaluated_assembly_chain_count": 1,
+      "evaluated_assembly_construct_residues": 624,
+      "map_physical_extents_crs_A": [
+        212.48,
+        212.48,
+        212.48
+      ],
+      "scope_decision": "counts_compatible_other_qc_pending",
+      "primary_study_group": "study_26VE",
+      "homolog_group": "homolog_group_0163",
+      "qc_cell": [
+        2,
+        0
+      ],
+      "known_training_any_full_chain_match_30pct": true,
+      "requires_assembly_reference_adapter": false,
+      "sampling_stratum": 2,
+      "qc_rank_in_cell": 8,
+      "selection_status": "frozen_formal30_v1",
+      "selection_basis": "User-requested small-target budget; unchanged seed20261007 hash ordering; study/homolog deduplication; no formal method scores used",
+      "input_hashes": {
+        "original_map_gz": "f23a1f527fe1e8a81cc0b47257f3cdd917fa39fb26037afe316c7bc595958f24",
+        "reference_cif_gz": "ce54f37fe44b2d734b0400d7fffd2e9ae70a1ab2c06fc6baef4693623b9cb4f7"
+      },
+      "reference_ca_count": 484,
+      "reference_review_flags": [],
+      "manual_map_review": "Original fixed-coordinate XY/XZ/YZ projections inspected; correspondence accepted, unassigned peripheral density retained with notes where applicable."
+    },
+    {
+      "pdb_id": "9UPO",
+      "title": "Cryo-EM structure of macaque green cone pigment wild type",
+      "pdb_release": "2026-06-24",
+      "emdb_ids": [
+        "EMD-64399"
+      ],
+      "resolution": 3.71,
+      "chain_count": 1,
+      "construct_residue_count": 434,
+      "entities": [
+        {
+          "entity_id": "1",
+          "sequence": "MAQQWSLQRLAGRHPQDSYEDSTQSSIFTYTNSNSTRGPFEGPNYHIAPRWVYHLTSVWMIFVVIASVFTNGLVLAATMKFKKLRHPLNWILVNLAVADLAETVIASTISVVNQVYGYFVLGHPMCVLEGYTVSLCGITGLWSLAIISWERWMVVCKPFGNVRFDAKLAIVGIVFSWVWAAVWTAPPIFGWSRYWPHGLKTSCGPDVFSGSSYPGVQSYMIVLMVTCCITPLTIIVLCYLQVWLAIRAVAADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAGSGSGHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTINAYIQKYGSTQKAEKEVTRMVVVMFLAFCFCWGPYAFFACFAAANPGYAFHPLMAALPAYFAKSATIYNPIIYVFMNRQFRNCILQLFGKKVDDGSELEVLFQ",
+          "asym_ids": [
+            "A"
+          ],
+          "auth_asym_ids": [
+            "A"
+          ],
+          "uniprot_ids": [
+            "P0ABE7",
+            "Q9XSX2"
+          ]
+        }
+      ],
+      "doi": "10.1126/science.adz3996",
+      "pubmed": 42348681,
+      "exclusion_reasons": [],
+      "exact_sequence_set": "bc4c209947ec98805c9852bb8f6e8b8557b82ca1f0ab71bef712faf51f9c2e21",
+      "sampling_key": "1c319096fbdc0d74de7df7942350ab8656acafd64c11c5585f6c78d91a880461",
+      "emdb_map_release": "2026-06-24",
+      "emdb_header_release": "2026-06-24",
+      "pdb_map_relationship": [
+        {
+          "in_frame": "FULLOVERLAP"
+        }
+      ],
+      "map_dimensions": {
+        "col": 168,
+        "row": 168,
+        "sec": 168
+      },
+      "map_size_kbytes": 18967,
+      "map_contours": [
+        {
+          "instance_type": "contour",
+          "level": 0.12,
+          "primary": true,
+          "source": "AUTHOR"
+        }
+      ],
+      "map_filename": "emd_64399.map.gz",
+      "emdb_resolution": [
+        "3.71"
+      ],
+      "screen_status": "metadata_checked_not_final",
+      "evaluated_assembly_chain_count": 1,
+      "evaluated_assembly_construct_residues": 434,
+      "map_physical_extents_crs_A": [
+        139.44000672,
+        139.44000672,
+        139.44000672
+      ],
+      "scope_decision": "counts_compatible_other_qc_pending",
+      "primary_study_group": "study_9UPO",
+      "homolog_group": "homolog_group_0446",
+      "qc_cell": [
+        2,
+        0
+      ],
+      "known_training_any_full_chain_match_30pct": true,
+      "requires_assembly_reference_adapter": false,
+      "sampling_stratum": 2,
+      "qc_rank_in_cell": 10,
+      "selection_status": "frozen_formal30_v1",
+      "selection_basis": "User-requested small-target budget; unchanged seed20261007 hash ordering; study/homolog deduplication; no formal method scores used",
+      "input_hashes": {
+        "original_map_gz": "5817f0414bddda8a5d84fe274961d7fcf1db4962badaf27c445ff70a72d1b542",
+        "reference_cif_gz": "9aa9a96e8ed9b562b9faeda75aac64dc0f5a2808be3668b89b175eeb42f54129"
+      },
+      "reference_ca_count": 286,
+      "reference_review_flags": [],
+      "manual_map_review": "Original fixed-coordinate XY/XZ/YZ projections inspected; correspondence accepted, unassigned peripheral density retained with notes where applicable."
+    },
+    {
+      "pdb_id": "9HXD",
+      "title": "Bacterial antiviral defense protein Ec2ApeA from Escherichia coli strain 2-156-04_S4_C1 (oligomerization mutant R551E)",
+      "pdb_release": "2026-07-22",
+      "emdb_ids": [
+        "EMD-52464"
+      ],
+      "resolution": 3.55,
+      "chain_count": 2,
+      "construct_residue_count": 1186,
+      "entities": [
+        {
+          "entity_id": "1",
+          "sequence": "MKFRRLHNWNHIEQCTALIYFTELMEELLFDYTHSTYKPSIMNTPSLCIEAISTIDDIEKGNISPAHISHVIDELTKNIKNDDIAISLLKNPLGSFLDQLQNNQLGNKNLKITLELLRVQLNVGNYESKLISELCSTITSEYNPNKIRKFTRLLITHLISKGLSQEYLMESLKKHFFQREREISSNEEIITFLENIPSETQEYSVYFNAEKSFSYITPCLSQLEIEVVLETPENINETDFFDNHEQRTILVKHVKALDPFTARRVAERNLKLASTLLSLYHHKQEASWSAENIVVSENGEKINIRSSINPMHRCKDLVQEHASRRLEQFMNNFRMRKDSFNKFIRSVQLHSMALQTNAVENQLLNLWIAIESLIPDESKKEEQSTIEHIVNSLTPFLNLNYIEDLVRNLIKDLQRWNHPRTMSLLRLIGDSDAAKSFVILVASQEHAPSINQFKIELSQFPLLKERFEYISNLISSTDTMYQALKNHAERINWQIRRIYRTRNLIVHTGKTPSKTNVLVEHAHIYLDAVINSLIKLSSHPVEILSVAQGFENVEMKYKMYIQKLNKKNIELTPENIISFIFNQLESGHHHHHH",
+          "asym_ids": [
+            "A",
+            "B"
+          ],
+          "auth_asym_ids": [
+            "A",
+            "B"
+          ],
+          "uniprot_ids": []
+        }
+      ],
+      "doi": null,
+      "pubmed": null,
+      "exclusion_reasons": [],
+      "exact_sequence_set": "93d3ae7ae6bedc4a7d7580609253d63920970cc2f00fc3f4c5c3b509840a2918",
+      "sampling_key": "1f2374e973dc0fb467bb162c5d5d38cc53f632a186f6094a00bf88248ec9d8c1",
+      "emdb_map_release": "2026-07-22",
+      "emdb_header_release": "2026-07-22",
+      "pdb_map_relationship": [
+        {
+          "in_frame": "FULLOVERLAP"
+        }
+      ],
+      "map_dimensions": {
+        "col": 200,
+        "row": 200,
+        "sec": 200
+      },
+      "map_size_kbytes": 32001,
+      "map_contours": [
+        {
+          "instance_type": "contour",
+          "level": 4.0,
+          "primary": true,
+          "source": "AUTHOR"
+        }
+      ],
+      "map_filename": "emd_52464.map.gz",
+      "emdb_resolution": [
+        "3.55"
+      ],
+      "screen_status": "metadata_checked_not_final",
+      "evaluated_assembly_chain_count": 2,
+      "evaluated_assembly_construct_residues": 1186,
+      "map_physical_extents_crs_A": [
+        220.00000000000003,
+        220.00000000000003,
+        220.00000000000003
+      ],
+      "scope_decision": "counts_compatible_other_qc_pending",
+      "primary_study_group": "study_9HXD",
+      "homolog_group": "homolog_group_0240",
+      "qc_cell": [
+        2,
+        1
+      ],
+      "known_training_any_full_chain_match_30pct": false,
+      "requires_assembly_reference_adapter": false,
+      "sampling_stratum": 2,
+      "qc_rank_in_cell": 11,
+      "selection_status": "frozen_formal30_v1",
+      "selection_basis": "User-requested small-target budget; unchanged seed20261007 hash ordering; study/homolog deduplication; no formal method scores used",
+      "input_hashes": {
+        "original_map_gz": "e599bacbd7a16a13b7ec0a43444f7f05658314b277adaad2f0ba0c0493275f30",
+        "reference_cif_gz": "963b17911551a2210e43f8bb6ce6faf3575ecf76e850817d422acede2ea6f381"
+      },
+      "reference_ca_count": 1120,
+      "reference_review_flags": [],
+      "manual_map_review": "Original fixed-coordinate XY/XZ/YZ projections inspected; correspondence accepted, unassigned peripheral density retained with notes where applicable."
+    },
+    {
+      "pdb_id": "9VJ3",
+      "title": "Structure of a membrane-bound inositol phosphorylceramide synthase and Aureobasidin A complex",
+      "pdb_release": "2026-06-24",
+      "emdb_ids": [
+        "EMD-65102"
+      ],
+      "resolution": 3.4,
+      "chain_count": 2,
+      "construct_residue_count": 622,
+      "entities": [
+        {
+          "entity_id": "2",
+          "sequence": "MRSSLLTLPKSFLGFMPLYLAVEIVLGISILNKCSGAYGILALFTGHPLDFMQWIAYLWSVFTLIVFSQGLYLIHKPNLLVFSQICVLYTIDTISTCFFTLWFTTQWFTLEDTANIDGNNALQSNPISTGKLTERGIDISKQSATESYEYTMTILITLVSLIFRFYFNFILASFVQELLHHPKYLVDRDDVEQNLKNKPIWKRLWAKSQKGCYKLCKNLLE",
+          "asym_ids": [
+            "B"
+          ],
+          "auth_asym_ids": [
+            "B"
+          ],
+          "uniprot_ids": [
+            "Q06346"
+          ]
+        },
+        {
+          "entity_id": "1",
+          "sequence": "MANPFSRWFLSERPPNCHVADLETSLDPHQTLLKVQKYKPALSDWVHYIFLGSIMLFVFITNPAPWIFKILFYCFLGTLFIIPATSQFFFNALPILTWVALYFTSSYFPDDRRPPITVKVLPAVETILYGDNLSDILATSTNSFLDILAWLPYGLFHFGAPFVVAAILFVFGPPTVLQGYAFAFGYMNLFGVIMQNVFPAAPPWYKILYGLQSANYDMHGSPGGLARIDKLLGINMYTTAFSNSSVIFGAFPSLHSGCATMEALFFCYCFPKLKPLFIAYVCWLWWSTMYLTHHYFVDLMAGSVLSYVIFQYTKYTHLPIVDTSLFCRWSYTSIEKYDISKSDPLAADSNDIESVPLSNLELDFDLNMTDEPSVSPSLFDGSTSVSRSSATSITSLGVKRA",
+          "asym_ids": [
+            "A"
+          ],
+          "auth_asym_ids": [
+            "A"
+          ],
+          "uniprot_ids": [
+            "P36107"
+          ]
+        }
+      ],
+      "doi": null,
+      "pubmed": null,
+      "exclusion_reasons": [],
+      "exact_sequence_set": "19cf309185d2bc2056d09a74d11366f1566809e5cb373e180aa888262936d358",
+      "sampling_key": "200b97afe6ef179708ce77d89260d8c4ce21d7d983733763e550ae54120408fc",
+      "emdb_map_release": "2026-06-24",
+      "emdb_header_release": "2026-06-24",
+      "pdb_map_relationship": [
+        {
+          "in_frame": "FULLOVERLAP"
+        }
+      ],
+      "map_dimensions": {
+        "col": 288,
+        "row": 288,
+        "sec": 288
+      },
+      "map_size_kbytes": 95552,
+      "map_contours": [
+        {
+          "instance_type": "contour",
+          "level": 0.2,
+          "primary": true,
+          "source": "AUTHOR"
+        }
+      ],
+      "map_filename": "emd_65102.map.gz",
+      "emdb_resolution": [
+        "3.4"
+      ],
+      "screen_status": "metadata_checked_not_final",
+      "evaluated_assembly_chain_count": 2,
+      "evaluated_assembly_construct_residues": 622,
+      "map_physical_extents_crs_A": [
+        213.12,
+        213.12,
+        213.12
+      ],
+      "scope_decision": "counts_compatible_other_qc_pending",
+      "primary_study_group": "study_9VJ3",
+      "homolog_group": "homolog_group_0474",
+      "qc_cell": [
+        2,
+        1
+      ],
+      "known_training_any_full_chain_match_30pct": false,
+      "requires_assembly_reference_adapter": false,
+      "sampling_stratum": 2,
+      "qc_rank_in_cell": 12,
+      "selection_status": "frozen_formal30_v1",
+      "selection_basis": "User-requested small-target budget; unchanged seed20261007 hash ordering; study/homolog deduplication; no formal method scores used",
+      "input_hashes": {
+        "original_map_gz": "6985dd8841084d8bbb503d85fa952cb7b27813854218fe4adfb8ae8a53a336bd",
+        "reference_cif_gz": "3b3b128b3cf4e75254a0af6fa2a2d890ee3da8746d6e825de96716d1c06f608b"
+      },
+      "reference_ca_count": 445,
+      "reference_review_flags": [],
+      "manual_map_review": "Original fixed-coordinate XY/XZ/YZ projections inspected; correspondence accepted, unassigned peripheral density retained with notes where applicable."
+    }
+  ],
+  "selection": "16 complete-case targets from the retained 25; not a new independently selected dataset. 10OY omitted from primary analysis because of exact training overlap; original 30/25 denominators remain documented.",
+  "release_window": [
+    "2026-04-15",
+    "2026-10-07"
+  ],
+  "original_manifest_sha256": "b4d51d3ad7ee792439c93cc8277f6140f5626764e65fb670c7c166f37b049e5d"
+}
