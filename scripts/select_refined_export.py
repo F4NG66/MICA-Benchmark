@@ -1,7 +1,9 @@
 """Select a deterministic export after verifying equivalent PDB/mmCIF outputs."""
 from pathlib import Path
 import gemmi
-from queue_mica_refinement_pilots import composition
+def composition(path):
+    st=gemmi.read_structure(str(path))
+    return sorted((c.name,r.seqid.num,str(r.seqid.icode),r.name) for c in st[0] for r in c if any(a.name=='CA' for a in r))
 
 def atoms(p):
  st=gemmi.read_structure(str(p));rows=[]

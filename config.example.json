@@ -1,0 +1,35 @@
+{
+  "gpu": 0,
+  "threads": 4,
+  "phenix_prefix": "/path/to/phenix-2.2.1-6174",
+  "phenix_activation": "/path/to/phenix-2.2.1-6174/phenix_env.sh",
+  "methods": {
+    "modelangelo": {
+      "executable": "/path/to/envs/modelangelo/bin/model_angelo",
+      "repo": "/path/to/repos/modelangelo"
+    },
+    "cryoatom": {
+      "executable": "/path/to/envs/cryoatom/bin/cryoatom",
+      "repo": "/path/to/repos/cryoatom"
+    },
+    "cryoatom2": {
+      "executable": "/path/to/envs/cryoatom2/bin/cryoatom",
+      "repo": "/path/to/repos/cryoatom2"
+    },
+    "emprot": {
+      "executable": "/path/to/envs/emprot/bin/emprot",
+      "repo": "/path/to/repos/emprot"
+    },
+    "mica": {
+      "python": "/path/to/envs/mica/bin/python",
+      "repo": "/path/to/mica_work/repos/MICA_merizo_fixed",
+      "pulchra": "/path/to/mica_work/repos/MICA_merizo_fixed/modules/pulchra304/src/pulchra",
+      "work_root": "/path/to/mica_work"
+    },
+    "emodelx": {
+      "python": "/path/to/envs/emodelx/bin/python",
+      "repo": "/path/to/repos/EModelX",
+      "pulchra": "/path/to/repos/EModelX/modules/pulchra304/src/pulchra"
+    }
+  }
+}

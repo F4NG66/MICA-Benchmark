@@ -28,6 +28,16 @@ python scripts/rescore.py --data ../benchmark_data --output ../rescored \
 
 See [modeling commands](docs/modeling.md), [metric definitions](docs/metrics.md) and [version pins](manifest/methods.json).
 
+## Run models
+
+Install the pinned methods in separate environments, then edit paths in `config.example.json`.
+
+```sh
+python scripts/run_models.py --config config.example.json --data ../benchmark_data --output ../runs --methods all --targets 26QS
+```
+
+This prints the commands. Add `--execute` to run them. Omit `--targets` for all 16 targets. Jobs run sequentially; each keeps logs and exports `final.cif` in the original map frame. AF3 priors come from the data archive. [Setup and modeling details](docs/modeling.md).
+
 ## AF3 inputs
 
 MICA used entity monomers for 12 targets and homomers for four: 9Y6N, 9OKP, 31CK and 9HXD. EMProt and EModelX used entity monomers throughout. [Input audit](docs/af3_input_audit.md).
